@@ -1,0 +1,16 @@
+GUID 0ff1b98de455405da4f13b12aad2d45f
+Type Structure
+Useable Structure
+Construct Wall
+ID 7139
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

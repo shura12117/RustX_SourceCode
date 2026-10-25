@@ -1,0 +1,35 @@
+SelectionBoxLabelText Выбор
+Search_Field_Hint Фильтр имени
+Search Искать
+Search_Tooltip Искать согласно фильтру
+
+SnapTransformLabelText Свободное перемещение
+SnapRotationLabelText Свободное вращение
+
+LargeLabel Большой
+MediumLabel Средний
+SmallLabel Малый
+BarricadesLabel Баррикады
+StructuresLabel Структуры
+NPCsLabel Персонажи
+
+TransformButtonText Перемещение [{0}]
+TransformButtonTooltip Перемещение
+
+RotateButtonText Вращение [{0}]
+RotateButtonTooltip Вращение
+
+ScaleButtonText Размер [{0}]
+ScaleButtonTooltip Размер
+
+CoordinateButtonTextGlobal Глобальные
+CoordinateButtonTextLocal Локальные
+CoordinateButtonTooltip Координаты
+
+IsOwnedCullingVolumeAllowed_Label Включить собственный объем выбраковки
+IsOwnedCullingVolumeAllowed_Tooltip Если ложь, удаляет встроенный отбраковочный объем.
+MaterialPaletteOverride_Label Палитра материалов GUID
+MaterialPaletteOverride_Tooltip Переопределяет палитру материалов актива по умолчанию.
+MaterialIndexOverride_Label Индекс материалов
+MaterialIndexOverride_Tooltip Переопределяет случайный индекс в палитре материалов.
+ShopType_Label Тип магазина

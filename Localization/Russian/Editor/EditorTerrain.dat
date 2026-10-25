@@ -1,0 +1,11 @@
+HeightButtonText Высоты
+HeightButtonTooltip Карта высот
+
+MaterialsButtonText Материалы
+MaterialsButtonTooltip Карта материалов
+
+DetailsButtonText Флора
+DetailsButtonTooltip Трава, камни, деревья и т.д.
+
+TilesButton_Label Плитки
+TilesButton_Tooltip Управление участками местности.

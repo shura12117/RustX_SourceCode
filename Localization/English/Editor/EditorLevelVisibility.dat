@@ -1,0 +1,14 @@
+Roads_Label Roads [F1]
+Navigation_Label Navigation [F2]
+Nodes_Label Nodes [F3]
+Items_Label Items [F4]
+Players_Label Players [F5]
+Zombies_Label Zombies [F6]
+Vehicles_Label Vehicles [F7]
+Border_Label Border [F8]
+Animals_Label Animals [F9]
+Decals_Label Decals
+
+Point ({0}, {1})
+Objects {0} - {1}%
+Triangles {0}

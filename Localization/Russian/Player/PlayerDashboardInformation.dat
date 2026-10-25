@@ -1,0 +1,91 @@
+Zoom_In_Button Приблизить
+Zoom_In_Button_Tooltip Увеличить размер
+
+Zoom_Out_Button Отдалить
+Zoom_Out_Button_Tooltip Уменьшить размер
+
+Center_Button Определить
+Center_Button_Tooltip Сфокусироваться на игроке
+
+ShowMarkersToggle_Label Показать маркеры
+ShowMarkersToggle_Tooltip Переключить видимость маркеров размещенных на карте
+ShowPlayerNamesToggle_Label Показать имена
+ShowPlayerNamesToggle_Tooltip Переключить видимость имен других игроков
+ShowPlayerAvatarsToggle_Label Показать аватары
+ShowPlayerAvatarsToggle_Tooltip Переключить видимость аватаров других игроков
+
+Chart Карта
+Satellite GPS
+
+Quests Задания: {0}
+Quests_Tooltip Показать список заданий
+Groups Группы
+Groups_Tooltip Показать список групп
+Players Игроки: {0}/{1}
+Players_Tooltip Показать список игроков
+
+Group_Members Участники: {0}/{1}
+Group_Rename Назвать
+Group_Rename_Tooltip Переименовать
+Group_Leave Покинуть
+Group_Leave_Tooltip Покинуть группу
+Group_Delete Удалить
+Group_Delete_Tooltip Удалить группу
+Group_Delete_Confirm Да
+Group_Delete_Confirm_Tooltip Да, я хочу удалить группу
+Group_Delete_Deny Нет
+Group_Delete_Deny_Tooltip Нет, я передумал
+Group_Join Принять
+Group_Join_Tooltip Принять приглашение
+Group_Ignore Игнорировать
+Group_Ignore_Tooltip Игнорировать приглашение
+Group_Create Создать
+Group_Create_Tooltip Создать новую группу
+Group_Promote Повысить
+Group_Promote_Tooltip Повысить ранг
+Group_Demote Понизить
+Group_Demote_Tooltip Понизить ранг
+
+Radio_Frequency_Label Частота:
+Radio_Frequency_Tune Дать
+Radio_Frequency_Tune_Tooltip Установить частоту
+Radio_Frequency_Reset Сброс
+Radio_Frequency_Reset_Tooltip Сбросить частоту
+
+Group_Rank_Member Участник группы
+Group_Rank_Admin Офицер группы
+Group_Rank_Owner Глава группы
+
+Streamer Режим стримера
+MuteVoiceChat_Label MUTE VOICE
+UnmuteVoiceChat_Label UNMUTE VOICE
+MuteTextChat_Label MUTE CHAT
+UnmuteTextChat_Label UNMUTE CHAT
+Mute_Tooltip Включить или выключить звук микрофона от игрока
+Vote_Kick KICK
+Vote_Kick_Tooltip Голосовать за исключение этого игрока
+Group_Kick KICK
+Group_Kick_Tooltip Исключить игрока из группы
+Group_Invite INVITE
+Group_Invite_Tooltip Пригласить игрока в группу
+Spy SPY
+Spy_Tooltip Сделать снимок с экрана игрока
+
+SortPlayers_Name Сортировка по имени A-Z
+SortPlayers_Group Сортировка по группам
+
+No_Chart Карта не найдена
+No_GPS GPS не найдено
+
+Rep {0} [{1}]
+Rep_Neutral Нейтрал
+Rep_Vigilante Линчеватель
+Rep_Constable Констебль
+Rep_Deputy Помощник шерифа
+Rep_Sheriff Шериф
+Rep_Paragon Образец совершенства
+Rep_Thug Разбойник
+Rep_Outlaw Изгнанник
+Rep_Gangster Гангстер
+Rep_Bandit Бандит
+Rep_Villain Злодей

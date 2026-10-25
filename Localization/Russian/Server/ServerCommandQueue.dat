@@ -1,0 +1,8 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+MaxNumberErrorText Не удалось установить максимальный размер очереди больше, чем {0}.
+
+QueueCommandText Queue_Size
+QueueInfoText Queue_Size [Число]
+QueueHelpText Это устанавливает максимальное количество ожидающих подключений, которые сервер готов удерживать.
+
+QueueText Размер очереди успешно установлен на {0}!

@@ -1,0 +1,16 @@
+Sight_Hook_Tooltip Прицел
+Tactical_Hook_Tooltip Цевьё
+Grip_Hook_Tooltip Крепление
+Barrel_Hook_Tooltip Ствол
+Magazine_Hook_Tooltip Магазин
+
+Ammo {0}/{1}
+Firemode {0} [{1}]
+Attach {0} [{1}]
+
+None Пусто
+
+Safety Предохранитель
+Semi Одиночный
+Auto Автоматический
+Burst Полуавтоматический

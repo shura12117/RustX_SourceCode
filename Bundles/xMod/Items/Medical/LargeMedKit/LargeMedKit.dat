@@ -1,0 +1,24 @@
+GUID 28072cfd575543de8dc31a1951d78c07
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 5003
+
+Size_X 2
+Size_Y 2
+Size_Z 0.53
+
+Amount 1
+
+Aid
+Bleeding
+Health 55
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5311
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Build 32

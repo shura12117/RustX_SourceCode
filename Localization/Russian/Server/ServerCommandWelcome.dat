@@ -1,0 +1,8 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [Текст]/[R]/[G]/[B].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+WelcomeCommandText Welcome
+WelcomeInfoText Welcome [Текст]/[R]/[G]/[B]
+WelcomeHelpText Это устанавливает приветственное сообщение, которое отображается игрокам при подключении.
+
+WelcomeText Успешно установлено приветственное сообщение: {0}!

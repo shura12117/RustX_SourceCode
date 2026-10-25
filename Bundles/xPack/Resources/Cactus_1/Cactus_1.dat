@@ -1,0 +1,19 @@
+GUID 87135cdc60994b0e837267dbc1fec180
+Type Resource
+ID 5905
+Category Cactus
+
+Health 500
+Radius 4
+Scale 0.3
+
+Explosion 43
+Reward_ID 0
+Reward_Min 2
+Reward_Max 4
+
+No_Debris
+Reset 1000
+Reward_Damage true
+Reward_Destroy true
+Destroy_Auto_Pickup false

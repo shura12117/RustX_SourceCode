@@ -1,0 +1,12 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Флаг]/[Значение].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось установить флаг игрока, когда выполнение не запущено.
+CheatsErrorText Не удалось установить флаг с отключенными читами.
+
+FlagCommandText Flag
+FlagInfoText Flag [SteamID | Имя игрока]/[Флаг]/[Значение]
+FlagHelpText Это устанавливает флаг игрока.
+
+FlagText Флаг {0} успешно установлен на {1} в значение {2}!

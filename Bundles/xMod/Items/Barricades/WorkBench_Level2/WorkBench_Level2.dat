@@ -1,0 +1,33 @@
+GUID 3e302f53a222489e83df2b9ca70a15b9
+Type Workbench
+Useable Barricade
+Build Workbench
+ID 5236
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 500
+Range 4
+Radius 0.2
+Offset 1.23
+
+Workbench_Level 2
+Explosion 28
+Fire_Vulnerable
+
+Only_Floor
+No_Placement_On_Barricade
+Server_Immortal
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 500
+Blueprint_0_Supply_1_ID 5305
+Blueprint_0_Supply_1_Amount 20
+Blueprint_0_Supply_2_ID 5316
+Blueprint_0_Supply_2_Amount 500
+Blueprint_0_Build 27

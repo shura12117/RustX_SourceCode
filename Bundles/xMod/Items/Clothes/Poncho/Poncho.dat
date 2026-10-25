@@ -1,0 +1,23 @@
+﻿GUID a3269611439b46cf9f28bd9cfa136e9c
+Type Clothes
+ClothesType Vest
+Rarity Uncommon
+ID 40537
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Width 0
+Height 1
+
+Armor 0.9
+
+Clothes_Mask Vest
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 35
+Blueprint_0_Build 27

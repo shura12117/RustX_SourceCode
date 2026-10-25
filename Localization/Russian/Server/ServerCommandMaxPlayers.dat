@@ -1,0 +1,9 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+MinNumberErrorText Не удалось установить максимальное количество игроков меньше {0}.
+MaxNumberErrorText Не удалось установить максимальное количество игроков больше {0}.
+
+MaxPlayersCommandText MaxPlayers
+MaxPlayersInfoText MaxPlayers [Число]
+MaxPlayersHelpText Это устанавливает максимальное количество подключений, которое сервер готов принять.
+
+MaxPlayersText Максимальное количество игроков успешно установлено на {0}!

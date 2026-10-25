@@ -1,0 +1,10 @@
+ConnectButtonText Connect Directly
+ConnectButtonTooltip Connect by server code or to a known address and port.
+ServersButtonText Multiplayer
+ServersButtonTooltip Browse servers to play over a network connection.
+ServerBookmarksButtonText Bookmarks
+ServerBookmarksButtonTooltip Browse bookmarked multiplayer servers.
+SingleplayerButtonText Singleplayer
+SingleplayerButtonTooltip Offline without other players.
+LobbiesButtonText Lobby
+LobbiesButtonTooltip Form a party with your friends to join the same server as a group.

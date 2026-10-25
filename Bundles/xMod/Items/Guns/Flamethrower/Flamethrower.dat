@@ -1,0 +1,67 @@
+GUID 6aa33ce3e1a64f86b24ff8f18388d390
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Secondary
+ID 5424 
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Magazine 5547
+Supports_Use_As_Ammo
+
+Ammo_Min 50
+Ammo_Max 50
+
+Safety
+Auto
+
+Caliber 5424
+
+Firerate 400
+Replace 0.5
+Action Rocket
+Fire_Damage
+
+Barricade_Damage 2
+Structure_Damage 2
+Player_Damage 5
+Zombie_Damage 5
+Animal_Damage 5
+Vehicle_Damage 5
+Resource_Damage 5
+
+Range 4
+Explosion 15535
+
+Durability 0.15
+
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 1000
+
+Recoil_Min_X -0.1
+Recoil_Min_Y 0.3
+Recoil_Max_X 0.1
+Recoil_Max_Y 0.5
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5311
+Blueprint_0_Supply_0_Amount 100
+Blueprint_0_Supply_1_ID 5317
+Blueprint_0_Supply_1_Amount 6
+Blueprint_0_Supply_2_ID 5305
+Blueprint_0_Supply_2_Amount 15
+Blueprint_0_Supply_3_ID 5324
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Build 27

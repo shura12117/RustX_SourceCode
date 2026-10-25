@@ -1,0 +1,27 @@
+GUID 504fa50b86fc4f2d9863754df621a4d7
+Type Resource
+ID 6100
+Category Ore
+
+Health 900
+Radius 4
+Scale_Min 0.3
+Scale_Max 0.3
+
+Explosion 52
+Reward_ID 0
+Reward_XP 0
+Reward_Min 5
+Reward_Max 5
+
+BladeID 2
+Proof_Explosion
+
+No_Debris
+Reset 1000
+Reward_Damage true
+Reward_Destroy true
+Destroy_Auto_Pickup true
+Stage_0_FromHp 67
+Stage_1_FromHp 34
+Bonus_Glow true

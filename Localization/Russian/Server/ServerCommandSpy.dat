@@ -1,0 +1,10 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока].
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось выгнать игрока, так как сервер не запущен.
+
+SpyCommandText Spy
+SpyInfoText Spy [SteamID | Имя игрока]
+SpyHelpText Это запрашивает скриншот у целевого игрока и сохраняет его на компьютере вызывающего как Spy.jpg.
+
+SpyText Успешно создан скриншот {0}.

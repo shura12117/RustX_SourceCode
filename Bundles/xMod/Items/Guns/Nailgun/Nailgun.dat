@@ -1,0 +1,90 @@
+GUID bcafbea8bc1a4aeab1787ae3ce783eb8
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Secondary
+ID 5403
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Magazine 5502
+
+Ammo_Types 1
+Ammo_0_Stack 40809
+Ammo_0_Magazine 5502
+
+Ammo_Min 5
+Ammo_Max 16
+
+Semi
+
+Caliber 5403
+
+Range 15
+Firerate 400
+Unplace 0.2
+Replace 0.7
+Action Trigger
+Delete_Empty_Magazines
+
+Player_Damage 13
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 23
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 31
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1
+Structure_Damage 5
+Vehicle_Damage 5
+Resource_Damage 5
+Object_Damage 10
+
+Durability 0.25
+
+Spread_Aim 0.5
+Spread_Hip 0.05
+
+Ballistic_Steps 75
+Ballistic_Travel 2.5
+Ballistic_Drop 0.002
+Recoil_Min_X -0.257
+Recoil_Min_Y 0.948
+Recoil_Max_X 0.158
+Recoil_Max_Y 1.014
+Recover_X 0.7
+Recover_Y 0.25
+
+Shake_Min_X 0
+Shake_Min_Y 0.01
+Shake_Min_Z -0.01
+Shake_Max_X 0
+Shake_Max_Y -0.01
+Shake_Max_Z -0.02
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 5307
+Blueprint_1_Supply_0_Amount 75
+Blueprint_1_Supply_1_ID 5316
+Blueprint_1_Supply_1_Amount 15
+Blueprint_1_Build 27

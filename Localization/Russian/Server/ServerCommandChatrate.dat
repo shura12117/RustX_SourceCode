@@ -1,0 +1,9 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+MinNumberErrorText Не удалось установить тайм-аут меньше чем {0}.
+MaxNumberErrorText Не удалось установить тайм-аут больше чем {0}.
+
+ChatrateCommandText Chatrate
+ChatrateInfoText Chatrate [Число]
+ChatrateHelpText Это устанавливает минимальное время между сообщениями в чате.
+
+ChatrateText Успешно установлена чат-скорость на {0}!

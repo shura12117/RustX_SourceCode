@@ -1,0 +1,15 @@
+GUID 19e6c3f521a3492086f257d3acfb8c0d
+Type Magazine
+Rarity Uncommon
+ID 5551
+
+Size_X 2
+Size_Y 2
+Size_Z 0.18
+
+Amount 100
+Count_Min 20
+Count_Max 100
+
+Calibers 1
+Caliber_0 5606

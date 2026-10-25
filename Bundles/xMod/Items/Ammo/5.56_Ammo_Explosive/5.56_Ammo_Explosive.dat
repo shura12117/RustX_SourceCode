@@ -1,0 +1,42 @@
+GUID 515e4e418b4f4546820a93306bbeabce
+Type Magazine
+ID 5568
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 128
+
+Calibers 8
+Caliber_0 5417
+Caliber_1 5418
+Caliber_2 5419
+Caliber_3 5420
+Caliber_4 5421
+Caliber_5 5422
+Caliber_6 5423
+Caliber_7 5428
+
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5303
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Supply_1_ID 5309
+Blueprint_0_Supply_1_Amount 20
+Blueprint_0_Supply_2_ID 5307
+Blueprint_0_Supply_2_Amount 10
+Blueprint_0_Products 2
+Blueprint_0_Build 27

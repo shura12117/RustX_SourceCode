@@ -1,0 +1,33 @@
+GUID 8515d8d2d1094eb68e10378a2b63be29
+Type Vehicle
+Rarity Epic
+ID 5802
+
+Speed_Min -2
+Speed_Max 16
+
+Steer_Min 14
+Steer_Max 6
+
+Fuel 4000
+
+Health_Min 900
+Health_Max 1000
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 7.5
+
+Traction
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 42403
+Tires_Invulnerable
+Can_Be_Locked False
+Can_Steal_Battery False
+Battery_Burn_Rate -1

@@ -1,0 +1,16 @@
+Intent_Delete Вы действительно хотите удалить "{0}"?
+Intent_Salvage Вы действительно хотите разобрать "{0}"?
+Intent_Tag_Tool Вы действительно хотите установить "{0}" на "{1}"?
+Warning Это действие невозможно отменить!
+Warning_UndoableWithTool Если вы передумаете, его можно удалить с помощью инструмента для удаления.
+Confirm Введите "{0}" чтобы продолжить:
+Delete УДАЛИТЬ
+Salvage РАЗОБРАТЬ
+Quantity Необязательное количество {0} всего:
+
+Yes Да
+Yes_Delete_Tooltip Удалить
+Yes_Salvage_Tooltip Снять
+Yes_Tag_Tool_Tooltip Установить
+No Нет
+No_Tooltip Оставить предмет

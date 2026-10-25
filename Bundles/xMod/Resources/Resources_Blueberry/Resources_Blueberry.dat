@@ -1,0 +1,14 @@
+GUID a90b3e57d7b2433e909c9e8d90f307a0
+Type Resource
+ID 5901
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 5014
+Forage
+
+Reset 1000

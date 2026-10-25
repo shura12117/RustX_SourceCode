@@ -1,0 +1,34 @@
+Return_Button Продолжить
+Return_Button_Tooltip Вернуться в главное меню.
+
+Exit_Button Выйти
+Exit_Button_Tooltip Выйти на рабочий стол.
+
+Support_Label Тех. поддержка
+Support_Tooltip Сообщить о найденных ошибках.
+
+Trello_Button Планы разработки
+Trello_Button_Tooltip Планы разработчика на будущее.
+
+Twitter_Button Новости Twitter
+Twitter_Button_Tooltip Информация о планах разработчика.
+
+Bsky_Button Bluesky Новости
+Bsky_Button_Tooltip Информация о разработке и оповещения об обновлениях.
+
+Steam_Button Новости Steam
+Steam_Button_Tooltip Полная информация об обновлениях.
+
+Credits_Button Разработчики
+Credits_Button_Tooltip Информация о разработчиках игры.
+
+Forum_Button Форум
+Forum_Button_Tooltip Форум для обсуждений игры.
+
+Blog_Button Блог
+Blog_Button_Tooltip Блог разработчика игры.
+
+Wiki_Button Wiki
+Wiki_Button_Tooltip Библиотека сообщества игры.
+
+Overlay Необходимо включить Steam Overlay!

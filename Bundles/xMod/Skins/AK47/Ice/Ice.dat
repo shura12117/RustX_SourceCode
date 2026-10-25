@@ -1,0 +1,17 @@
+GUID c525b756e8794cf683542892ee655f0b
+Type Skin
+ID 2005
+
+Sight
+Tactical
+Grip
+Barrel
+Magazine
+
+Override_Meshes 1
+
+Secondary_Skins 1
+Secondary_0 5529
+
+Target_Item 5418
+Rarity 4

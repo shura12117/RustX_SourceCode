@@ -1,0 +1,22 @@
+GUID a2387246a5584bd6a3816bd035116ec1
+Type Magazine
+Rarity Uncommon
+ID 5550
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 5426
+Explosion 42803
+
+Barricade_Damage 10
+Structure_Damage 15
+Barricade_Damage_Id 5260
+Barricade_Damage_Override 350
+
+Projectile_Launch_Force_Multiplier 1.5
+Paintable

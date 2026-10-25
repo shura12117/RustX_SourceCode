@@ -1,0 +1,22 @@
+﻿GUID 755f6fe2456e489cad49025ca8b3482d
+Type Clothes
+ClothesType Mask
+Rarity Uncommon
+ID 40507
+
+Size_X 2
+Size_Y 2
+Size_Z 0.23
+
+Hair
+
+Armor 0.95
+
+Clothes_Mask Mask
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 27

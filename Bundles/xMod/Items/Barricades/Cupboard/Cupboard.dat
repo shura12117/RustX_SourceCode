@@ -1,0 +1,35 @@
+GUID 4daac7acd4314806b309155aba90bbdd
+Type Cupboard
+Useable Barricade
+Build Cupboard
+ID 5226
+
+Size_Z 0.6
+
+Health 100
+Range 4
+Radius 0.5
+Offset 1.3
+
+Lockable
+
+Storage_X 6
+Storage_Y 4
+
+
+Explosion 36
+
+Vulnerable
+Fire_Vulnerable
+Proof_Explosion
+Should_Close_When_Outside_Range true
+Only_Floor
+No_Placement_On_Barricade
+Multiuser
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 1000
+Blueprint_0_Build 27

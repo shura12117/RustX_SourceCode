@@ -1,0 +1,40 @@
+﻿GUID 4d0bf51e7475464d98b9ad57613d9a8a
+Type Clothes
+ClothesType Overall
+ID 5718
+
+Size_X 1
+Size_Y 1
+Size_Z 0.8
+
+Width 0
+Height 1
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+Beard_Visible False
+Hair_Visible False
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Clothes_Mask Overall
+
+Armor_Head 0.7
+Armor_Body 0.7
+Armor_Arm 0.7
+Armor_Leg 0.7
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5313
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5315
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 5305
+Blueprint_0_Supply_2_Amount 8
+Blueprint_0_Build 27

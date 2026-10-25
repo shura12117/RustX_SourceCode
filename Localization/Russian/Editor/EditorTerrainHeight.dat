@@ -1,0 +1,25 @@
+Mode_Adjust Поднять / Опустить [{0}]
+Mode_Flatten Выровнять [{0}]
+Mode_Smooth Сгладить [{0}]
+Mode_Ramp Протянуть [{0}]
+Mode_Label Режим
+
+BrushRadius Радиус кисти [{0}]
+BrushFalloff Жёсткость кисти [{0}]
+BrushStrength Сила кисти [{0}]
+
+SmoothMethod_BrushAverage Выровнять по кисти
+SmoothMethod_PixelAverage Выровнять по пикселям
+SmoothMethod_Label Метод сглаживания
+
+FlattenMethod_Regular Обычный
+FlattenMethod_Min Минимальный
+FlattenMethod_Max Максимальный
+FlattenMethod_Label Способ выравнивания
+
+FlattenTarget Целевая высота [{0}]
+MaxPreviewSamples Максимум образцов предпросмотра
+
+Hint_Adjust Опустить: [{0}]
+Hint_Flatten Скопировать высоту под курсором: [{0}]
+Hint_Ramp Отмена: [{0}]

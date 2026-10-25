@@ -1,0 +1,84 @@
+Requirements_Label Необходимо {0}
+Requirements_Separator ", "
+Requirements_Skill {0} {1}
+
+BlueprintAmountLabel {0} из {1}
+BlueprintAmountLabel_Missing {0} из {1} {2}
+MissingAmount НЕХВАТАЕТ {0}
+
+BlueprintCategoryLabel Категория: {0}
+
+BlueprintTitle_ItemSeparator " + "
+BlueprintTitle_ToolItem (инструмент)
+BlueprintTitle_OutputSeparator " = "
+BlueprintTitle_OperationRepair Починка {0} {1} + {2}
+BlueprintTitle_OperationFill Заполнение {0} +{1} + {2}
+
+Details_RepairTitle Починить {0}
+Details_RepairDescription Качество +{0} (от {1} до {2})
+Details_FillTitle Заполнить {0}
+Details_FillDescription Сумма +{0} (от x{1} до x{2})
+Details_SalvageTitle Разобрать {0}
+Details_CraftTitle Создать {0}
+Details_TargetItem Цель
+Details_InputItems Компоненты
+Details_ToolItems Инструменты
+Details_OutputItems Результат
+Details_RequiredSkills Требуемые навыки
+Details_RequiredTags Требуемые возможности
+Details_Conditions Условия
+Details_Rewards Награды
+Details_TagMissing ОТСУТСТВУЕТ
+
+Search_Field_Hint Фильтр рецептов по слову
+Search Поиск
+Search_Tooltip Искать рецепт
+Hide_Uncraftable_Toggle_Label Скрыть недоступные
+Hide_Uncraftable_Toggle_Tooltip Исключить чертежи, которые вы в данный момент не можете создать.
+Show_Ignored_Toggle_Label Показать запрещенные
+Show_Ignored_Toggle_Tooltip Включить чертежи, которые вы запретили.
+No_Blueprints Нет доступных чертежей, соответствующих фильтрам.
+NoBlueprints_ZeroAvailableItems У вас нет предметов для создания.
+NoBlueprints_HasAvailableItems Ни в каких чертежах не используются те элементы, которые у вас есть.
+Favorites_Label Избранное
+Favorites_Tooltip Показать чертежи, которые вы добавили в избранное.
+
+Header_Categories Категории
+Header_TagProviders Рабочие зоны
+Header_AvailableTags Возможности
+
+FilteringDescription_Format Фильтрация рецептов {0}
+FilteringDescription_Separator ", "
+FilteringDescription_Favorites_Format вы {0}
+FilteringDescription_Favorites_Label Избранный
+FilteringDescription_Name по слову "{0}"
+FilteringDescription_TagProvider в рабочей зоне {0}
+FilteringDescription_Tag необходимо {0}
+FilteringDescription_Category в категории {0}
+FilteringDescription_Category_Multiple в категориях {0}
+FilteringDescription_Category_Separator ", "
+
+TagProvider_Tooltip {0} даёт возможности:
+
+ResetFilters_Label Сбросить фильтры
+ResetFilters_Tooltip Показать чертежи, которые можно создать из имеющихся у вас предметов. (по умолчанию)
+
+// Nelson 2025-05-16: renaming Visibility to Preferences.
+VisibilityButton_Visible_Label Разрешённый
+VisibilityButton_Visible_Tooltip Виден и разрешен к изготовлению. Нажмите, чтобы запретить этот чертеж.
+VisibilityButton_Hidden_Label Запрещённый
+VisibilityButton_Hidden_Tooltip Скрыт и запрещён для создания. Нажмите, чтобы разрешить этот чертеж.
+PreferencesButton_Favorited_Label Избранный
+PreferencesButton_Favorited_Tooltip Добавлен в избранное. Нажмите, чтобы удалить этот чертеж из избранного.
+
+CombineFiltersTooltip Объединить фильтры [{0} + ЛКМ]
+InvertSkipCraftingTooltip Переключить панель сведений [{0} + ЛКМ]
+
+Craft Создать
+
+NotCraftable_Header В настоящее время невозможно, потому что:
+NotCraftable_LineItemPrefix "- "
+NotCraftable_MissingInputItem Нехватает предмета {0}
+NotCraftable_MissingSkill Требуется навык {0}
+NotCraftable_MissingCraftingTag Отсутствует возможность {0}
+NotCraftable_UnmetConditions Не выполнены условия

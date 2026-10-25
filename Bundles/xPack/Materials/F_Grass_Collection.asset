@@ -1,0 +1,147 @@
+"Metadata"
+{
+	"GUID" "ddef5d4b82ca441f8133ae875b686088"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			//Дерево 1
+			"Asset"
+			{
+				"GUID" "879d1f1b046f4a8e9c8e31e3b3db80f3"
+			}
+			"Weight" "0.8"
+		}
+		{
+			//Дерево 2
+			"Asset"
+			{
+				"GUID" "721b4563fee34d9ebb53a20c2345cc4d"
+			}
+			"Weight" "0.8"
+		}
+		{
+			//Дерево 3
+			"Asset"
+			{
+				"GUID" "11a9b7ba6eda4b328d0e0d28e542ccb7"
+			}
+			"Weight" "0.8"
+		}
+		
+		{
+			//Камни_Сера
+			"Asset"
+			{
+				"GUID" "057c0a51e50f410cafdbb3e5675e7850"
+			}
+			"Weight" "0.35"
+		}
+		{
+			//Камни_Камень
+			"Asset"
+			{
+				"GUID" "08d4c26d327b497484ab3e84dd0b531e"
+			}
+			"Weight" "0.5"
+		}
+		{
+			//Камни_Металл
+			"Asset"
+			{
+				"GUID" "818f791c20624d0f96ce70eb00f2eca6"
+			}
+			"Weight" "0.45"
+		}
+		
+		{
+			//Сажанец
+			"Asset"
+			{
+				"GUID" "302cca68fc6d468db5b305c880096143"
+			}
+			"Weight" "0.2"
+		}
+		
+		{
+			//Трава 1
+			"Asset"
+			{
+				"GUID" "14346acb6f64469aafa12127a6503e6f"
+			}
+			"Weight" "0.2"
+		}
+		{
+			//Трава 2
+			"Asset"
+			{
+				"GUID" "eabddb9df5b74030a5f9b79e21bbaef4"
+			}
+			"Weight" "0.05"
+		}
+		{
+			//Трава 3
+			"Asset"
+			{
+				"GUID" "26b20ce233894dc68d2adeae3682b791"
+			}
+			"Weight" "0.1"
+		}
+		
+		{
+			//Цветок 1
+			"Asset"
+			{
+				"GUID" "53833fc3f5f34135b3eefc234e640b38"
+			}
+			"Weight" "1"
+		}
+		{
+			//Цветок 2
+			"Asset"
+			{
+				"GUID" "4b15478038b6459689d10bc2c5dedb43"
+			}
+			"Weight" "1"
+		}
+		{
+			//Цветок 3
+			"Asset"
+			{
+				"GUID" "97dcf28164ad466db2e206d3efba789b"
+			}
+			"Weight" "1"
+		}
+		
+		{
+			//Куст 1
+			"Asset"
+			{
+				"GUID" "19955d06803f4f8382b618f4f008ace8"
+			}
+			"Weight" "1"
+		}
+		
+		{
+			//Ткань
+			"Asset"
+			{
+				"GUID" "4a5dcf09013b47b193e59f719ed96a69"
+			}
+			"Weight" "0.25"
+		}
+		
+		{
+			//Камушки
+			"Asset"
+			{
+				"GUID" "e145629762c3442782d40a2fcd15e306"
+			}
+			"Weight" "0.8"
+		}
+	]
+}

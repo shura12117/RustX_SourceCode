@@ -1,0 +1,85 @@
+GUID 06e1a40aa76047419816dcb88e21bdf3
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Secondary
+ID 5421
+
+Size_X 2
+Size_Y 2
+Size_Z 1.2
+Size2_Z 0.9
+
+Sight 5587
+Magazine 5538
+
+Ammo_Types 3
+Ammo_0_Stack 5567
+Ammo_0_Magazine 5538
+Ammo_1_Stack 5569
+Ammo_1_Magazine 5540
+Ammo_2_Stack 5568
+Ammo_2_Magazine 5539
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+Hook_Grip
+
+Ammo_Min 1
+Ammo_Max 5
+
+
+Semi
+
+Caliber 5421
+
+Range 500
+Firerate 23
+Action Bolt
+Backward
+
+Player_Damage 80
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 150
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.3
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 8
+Structure_Damage 15
+Vehicle_Damage 4
+Resource_Damage 30
+Object_Damage 75
+
+Durability 0.15
+
+Wear 3
+
+Ballistic_Steps 50
+Ballistic_Travel 49
+
+Spread_Aim 0.001
+Spread_Hip 0.25
+
+Recoil_Aim 0.2
+Recoil_Min_X 0
+Recoil_Min_Y 0.5
+Recoil_Max_X 0
+Recoil_Max_Y 0.5
+
+Recover_X 0.25
+Recover_Y 0.25
+
+
+Muzzle 4

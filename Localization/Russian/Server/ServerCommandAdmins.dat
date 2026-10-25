@@ -1,0 +1,9 @@
+NoAdminsErrorText Не удалось найти ни одного администратора.
+
+AdminsCommandText Admins
+AdminsInfoText Admins
+AdminsHelpText Это показывает список текущих администраторов.
+
+AdminsText Администраторы:
+AdminNameText ID игрока: {0}
+AdminJudgeText ID судьи: {0}

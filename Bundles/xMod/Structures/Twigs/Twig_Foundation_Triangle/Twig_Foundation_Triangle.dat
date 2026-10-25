@@ -1,0 +1,16 @@
+GUID aadb9281469a4fb7b358660d272f0943
+Type Structure
+Useable Structure
+Construct Floor_Poly
+ID 7101
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

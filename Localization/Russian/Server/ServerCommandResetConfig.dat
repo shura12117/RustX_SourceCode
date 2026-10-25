@@ -1,0 +1,5 @@
+ResetConfigCommandText ResetConfig
+ResetConfigInfoText ResetConfig
+ResetConfigHelpText Это сбрасывает файл конфигурации к значениям по умолчанию.
+
+ResetConfigText Конфигурация успешно сброшена!

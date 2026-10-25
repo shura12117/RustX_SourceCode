@@ -1,0 +1,14 @@
+GUID e5abe81020374a83b81d827ab4936cfb
+Type Structure
+Useable Structure
+Construct Floor
+ID 7140
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36

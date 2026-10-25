@@ -1,0 +1,21 @@
+GUID 2202ea6aae474840aae7df16f7321d24
+Type Magazine
+Rarity Uncommon
+ID 5521
+
+Size_X 2
+Size_Y 2
+Size_Z 0.225
+
+Amount 24
+Count_Min 16
+Count_Max 24
+
+Calibers 1
+Caliber_0 5414
+
+Tracer 48
+
+Paintable
+Spread 0.8
+Range 40

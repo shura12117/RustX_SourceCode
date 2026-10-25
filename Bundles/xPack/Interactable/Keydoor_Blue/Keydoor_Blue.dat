@@ -1,0 +1,18 @@
+GUID c087506e7e0344c88d69d267ef8c49b6
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Door
+ID 3202
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 9999
+Range 4
+Radius 1
+Offset 1.25
+
+Explosion 19
+Server_Immortal

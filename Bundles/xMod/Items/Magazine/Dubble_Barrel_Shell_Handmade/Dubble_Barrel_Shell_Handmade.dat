@@ -1,0 +1,20 @@
+GUID 77c45b1e69c84045ba6872daf304a61c
+Type Magazine
+Rarity Uncommon
+ID 5514
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 5410
+
+Pellets 6
+Tracer 48
+Spread 1.15
+Delete_Empty

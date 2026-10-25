@@ -1,0 +1,22 @@
+GUID 468a25cef50649fd944e42a39ebc3c5a
+Type Supply
+ID 5328
+
+Amount 100
+
+Size_X 2
+Size_Y 2
+Size_Z 0.13
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5309
+Blueprint_0_Supply_0_Amount 50
+Blueprint_0_Supply_1_ID 5311
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 5303
+Blueprint_0_Supply_2_Amount 10
+Blueprint_0_Supply_3_ID 5307
+Blueprint_0_Supply_3_Amount 10
+Blueprint_0_Build 27

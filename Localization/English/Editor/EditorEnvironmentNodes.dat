@@ -1,0 +1,30 @@
+Name_Label Location
+Radius_Label Radius
+Width_Label Width
+Height_Label Height
+Length_Label Length
+Item_ID_Label ID
+Cost_Label Cost
+Spawn_ID_Label Spawn ID
+Effect_ID_Label Effect ID
+No_Water_Label No Water
+No_Lighting_Label No Lighting
+No_Weapons_Label No Weapons
+No_Buildables_Label No Buildables
+
+Shape_Tooltip Shape
+Sphere Sphere
+Box Box
+
+DeadzoneType_DefaultRadiation Default
+DeadzoneType_FullSuitRadiation Full Suit
+DeadzoneType_Tooltip Deadzone Type
+
+Type_Tooltip Type
+Location Location
+Safezone Safezone
+Purchase Purchase
+Arena Arena
+Deadzone Deadzone
+Airdrop Airdrop
+Effect Effect

@@ -1,0 +1,31 @@
+GUID fc3aad58614e428d93db38c1c21bb583
+Type Barricade
+Useable Barricade
+Build Bed
+ID 5240
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 300
+Range 4
+Radius 0.2
+Offset 0.8
+
+Explosion 38
+Vulnerable
+Fire_Vulnerable
+Only_Floor
+No_Placement_On_Barricade
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 60
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 100
+Blueprint_0_Supply_2_ID 5313
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 27

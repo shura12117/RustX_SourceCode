@@ -1,0 +1,459 @@
+ManifestFileVersion: 0
+CRC: 329471712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3942c420d4c68fbb076bb3b4d674396d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20b3277b5661163767091187f877f375
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3942c420d4c68fbb076bb3b4d674396d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89e283a5114c5dc4c88efc1f32b07da2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_9/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_7/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_1/Clip.prefab
+- Assets/xPack/Boulders/BoulderSnow_2/Nav.prefab
+- Assets/xPack/Boulders/BoulderSnow_8/Object.prefab
+- Assets/xPack/Resources/OreStone_0/Stump.prefab
+- Assets/xPack/Locations/Satelite/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_4/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_2/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_1/Object.prefab
+- Assets/xPack/Locations/Warehouse/Nav.prefab
+- Assets/xPack/Locations/Fishing_Vilage_B/Skybox.prefab
+- Assets/xPack/Resources/Pine_2/Stump.prefab
+- Assets/xPack/Locations/Millitry_Tunels/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_3/Clip.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Resource.prefab
+- Assets/xPack/Resources/Palm_2/Resource.prefab
+- Assets/xPack/Locations/Supermarket/Nav.prefab
+- Assets/xPack/Resources/OreSulfur_0/Resource.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_2/Clip.prefab
+- Assets/xPack/Customs/Portal_Artic/Skybox.prefab
+- Assets/xPack/Roadside/Powerline_5/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_3/Nav.prefab
+- Assets/xPack/Boulders/Boulder_3/Object.prefab
+- Assets/xPack/Boulders/BoulderSnow_1/Object.prefab
+- Assets/xPack/Resources/Palm_0/Skybox.prefab
+- Assets/xPack/Boulders/BoulderVertical_2/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Resource.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_3/Clip.prefab
+- Assets/xPack/Boulders/BoulderSnow_3/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_6/Skybox.prefab
+- Assets/xPack/Locations/Sphere/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_5/Skybox.prefab
+- Assets/xPack/Customs/Portal_Artic/Nav.prefab
+- Assets/xPack/Locations/Outpost/TurretIdle.wav
+- Assets/xPack/Music/Loop.ogg
+- Assets/xPack/Boulders/BoulderGrass_6/Nav.prefab
+- Assets/xPack/Locations/WaterTreatment/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_10/Nav.prefab
+- Assets/xPack/Resources/Keycard_Red/Resource.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_1/Clip.prefab
+- Assets/xPack/Roadside/Powerline_4/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_8/Nav.prefab
+- Assets/xPack/Boulders/Boulder_6/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_3/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSand_8/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_6/Clip.prefab
+- Assets/xPack/Locations/Gas/Object.prefab
+- Assets/xPack/Locations/Fishing_Vilage_A/Object.prefab
+- Assets/xPack/Boulders/BoulderVertical_2/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_6/Object.prefab
+- Assets/xPack/Boulders/Boulder_1/Skybox.prefab
+- Assets/xPack/Materials/Grass.png
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_4/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_8/Nav.prefab
+- Assets/xPack/Boulders/Boulder_7/Nav.prefab
+- Assets/xPack/Foliage/Grass/Grass_3.png
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_9/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Stump.prefab
+- Assets/xPack/Boulders/Boulder_1/Nav.prefab
+- Assets/xPack/Boulders/Boulder_9/Object.prefab
+- Assets/xPack/Locations/LightHouse/Object.prefab
+- Assets/xPack/Roadside/Powerline_3/Object.prefab
+- Assets/xPack/Locations/Artic_base/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_3/Nav.prefab
+- Assets/xPack/Resources/Palm_0/Stump.prefab
+- Assets/xPack/Boulders/BoulderSand_6/Skybox.prefab
+- Assets/xPack/Caves/Cave_Small/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Resource_Clip.prefab
+- Assets/xPack/Customs/Portal_MainPVP/Nav.prefab
+- Assets/xPack/Foliage/Grass/Grass_1.png
+- Assets/xPack/Boulders/Boulder_8/Object.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Resource_Clip.prefab
+- Assets/xPack/Resources/Palm_1/Stump.prefab
+- Assets/xPack/Customs/Custom_Sphere/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_1/Object.prefab
+- Assets/xPack/Locations/Fishing_Vilage_B/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_3/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_4/Object.prefab
+- Assets/xPack/Locations/LightHouse/Skybox.prefab
+- Assets/xPack/Locations/Airfield/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_4/Skybox.prefab
+- Assets/xPack/Locations/Gas/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_4/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_4/Skybox.prefab
+- Assets/xPack/Locations/Satelite/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSand_1/Object.prefab
+- Assets/xPack/Boulders/BoulderSnow_7/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_2/Nav.prefab
+- Assets/xPack/Boulders/BoulderGrass_9/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_4/Clip.prefab
+- Assets/xPack/Boulders/BoulderSnow_5/Object.prefab
+- Assets/xPack/Resources/PineWinter_1/Resource.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_5/Object.prefab
+- Assets/xPack/Boulders/BoulderSnow_4/Nav.prefab
+- Assets/xPack/Roadside/BusStop/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_2/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Stump_Clip.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_7/Object.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_5/Nav.prefab
+- Assets/xPack/Materials/Boulder.png
+- Assets/xPack/Customs/Portal_GasStaishen/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_3/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_1/Nav.prefab
+- Assets/xPack/Boulders/Boulder_7/Object.prefab
+- Assets/xPack/Roadside/Powerline_2/Clip.prefab
+- Assets/xPack/Materials/UnderWater.png
+- Assets/xPack/Resources/Cactus_2/Stump.prefab
+- Assets/xPack/Resources/Cactus_0/Stump.prefab
+- Assets/xPack/Materials/Dirt.png
+- Assets/xPack/Locations/Airfield/Object.prefab
+- Assets/xPack/Locations/Millitry_Tunels/Nav.prefab
+- Assets/xPack/Boulders/Boulder_2/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_1/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSand_7/Nav.prefab
+- Assets/xPack/Boulders/BoulderSnow_3/Skybox.prefab
+- Assets/xPack/Roadside/Powerline_3/Nav.prefab
+- Assets/xPack/Customs/Portal_Artic/Object.prefab
+- Assets/xPack/Locations/Sphere/Skybox.prefab
+- Assets/xPack/Resources/Pine_1/Stump.prefab
+- Assets/xPack/Boulders/BoulderGrass_4/Nav.prefab
+- Assets/xPack/Resources/Keycard_Blue/Resource.prefab
+- Assets/xPack/Roadside/BusStop/Nav.prefab
+- Assets/xPack/Locations/Harbor/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_1/Nav.prefab
+- Assets/xPack/Boulders/BoulderSnow_5/Nav.prefab
+- Assets/xPack/Customs/Portal_Sand_Base/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_7/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_6/Skybox.prefab
+- Assets/xPack/Foliage/Grass/Flowers_1.mat
+- Assets/xPack/Boulders/BoulderSnow_4/Skybox.prefab
+- Assets/xPack/Boulders/BoulderVertical_3/Object.prefab
+- Assets/xPack/Locations/Outpost/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Material.mat
+- Assets/xPack/Customs/Portal_OilRigBig/Skybox.prefab
+- Assets/xPack/Locations/Outpost/Nav.prefab
+- Assets/xPack/Resources/Palm_2/Debris.prefab
+- Assets/xPack/Resources/Pine_2/Resource.prefab
+- Assets/xPack/Boulders/Boulder_7/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_4/Object.prefab
+- Assets/xPack/Caves/Cave_Small/Nav.prefab
+- Assets/xPack/Boulders/BoulderVertical_2/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_7/Nav.prefab
+- Assets/xPack/Locations/Gas/Skybox.prefab
+- Assets/xPack/Interactable/Keydoor_Blue/Barricade.prefab
+- Assets/xPack/Boulders/BoulderGrass_3/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_1/Skybox.prefab
+- Assets/xPack/Interactable/Keydoor_Blue/Nav.prefab
+- Assets/xPack/Locations/Powerplant/Nav.prefab
+- Assets/xPack/Interactable/Keydoor_Blue/Item.prefab
+- Assets/xPack/Boulders/BoulderGrass_2/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Mesh.fbx
+- Assets/xPack/Resources/Keycard_Green/Resource.prefab
+- Assets/xPack/Resources/PineWinter_0/Debris.prefab
+- Assets/xPack/Roadside/Powerline_2/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_8/Skybox.prefab
+- Assets/xPack/Locations/Sphere/SkyBoxModel.fbx
+- Assets/xPack/Roadside/Powerline_3/Skybox.prefab
+- Assets/xPack/Customs/Portal_OilRigSmail/Skybox.prefab
+- Assets/xPack/Foliage/Grass/Grass_3.mat
+- Assets/xPack/Resources/Pine_1/Debris.prefab
+- Assets/xPack/Boulders/BoulderSand_4/Nav.prefab
+- Assets/xPack/Locations/Supermarket/Skybox.prefab
+- Assets/xPack/Customs/Portal_GasStaishen/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_1/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_8/Object.prefab
+- Assets/xPack/Boulders/BoulderSnow_8/Nav.prefab
+- Assets/xPack/Locations/Millitry_Tunels/Object.prefab
+- Assets/xPack/Resources/Pine_1/Resource.prefab
+- Assets/xPack/Caves/Cave_Small/Skybox.prefab
+- Assets/xPack/Foliage/Grass/BlackGrass_1.mat
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_8/Object.prefab
+- Assets/xPack/Foliage/Grass/Flowers_2.mat
+- Assets/xPack/Boulders/BoulderSand_5/Nav.prefab
+- Assets/xPack/Boulders/Boulder_6/Skybox.prefab
+- Assets/xPack/Foliage/Grass/Flowers_3.mat
+- Assets/xPack/Locations/Sand_base/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_6/Object.prefab
+- Assets/xPack/Locations/Powerplant/Object.prefab
+- Assets/xPack/Locations/Fishing_Vilage_B/Clip.prefab
+- Assets/xPack/Customs/Portal_OilRigBig/Object.prefab
+- Assets/xPack/Boulders/BoulderVertical_3/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_2/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_3/Nav.prefab
+- Assets/xPack/Resources/Keycard_Blue/Stump.prefab
+- Assets/xPack/Locations/Sphere/Clip.prefab
+- Assets/xPack/Roadside/Powerline_5/Clip.prefab
+- Assets/xPack/Locations/Warehouse/Object.prefab
+- Assets/xPack/Resources/Pine_1/Skybox.prefab
+- Assets/xPack/Boulders/BoulderVertical_1/Skybox.prefab
+- Assets/xPack/Locations/Oil_Rig_Small/Object.prefab
+- Assets/xPack/Materials/Boulder_black.png
+- Assets/xPack/Customs/Portal_Sand_Base/Nav.prefab
+- Assets/xPack/Resources/Palm_0/Debris.prefab
+- Assets/xPack/Customs/Portal_MainPVP/Skybox.prefab
+- Assets/xPack/Resources/Keycard_Red/Stump.prefab
+- Assets/xPack/Boulders/BoulderSand_8/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_5/Clip.prefab
+- Assets/xPack/Boulders/BoulderSand_2/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_2/Nav.prefab
+- Assets/xPack/Customs/Portal_OilRigBig/Nav.prefab
+- Assets/xPack/Roadside/Powerline_3/Clip.prefab
+- Assets/xPack/Materials/Snow.png
+- Assets/xPack/Resources/Palm_2/Skybox.prefab
+- Assets/xPack/Roadside/Powerline_5/Object.prefab
+- Assets/xPack/Boulders/Boulder_9/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Stump_Clip.prefab
+- Assets/xPack/Interactable/Keydoor_Green/Barricade.prefab
+- Assets/xPack/Materials/Dirt_black.png
+- Assets/xPack/Boulders/BoulderSand_5/Object.prefab
+- Assets/xPack/Boulders/Boulder_1/Object.prefab
+- Assets/xPack/Foliage/Grass/Grass_1.mat
+- Assets/xPack/Interactable/Keydoor_Blue/Animations.prefab
+- Assets/xPack/Boulders/BoulderVertical_1/Nav.prefab
+- Assets/xPack/Materials/Grass_black.png
+- Assets/xPack/Locations/Artic_base/Nav.prefab
+- Assets/xPack/Resources/OreMetal_0/Stump.prefab
+- Assets/xPack/Resources/Pine_2/Skybox.prefab
+- Assets/xPack/Resources/PineWinter_0/Skybox.prefab
+- Assets/xPack/Resources/Palm_0/Resource.prefab
+- Assets/xPack/Interactable/Keydoor_Green/Item.prefab
+- Assets/xPack/Boulders/BoulderGrass_2/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_6/Skybox.prefab
+- Assets/xPack/Resources/PineWinter_0/Resource.prefab
+- Assets/xPack/Roadside/Powerline_2/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_2/Skybox.prefab
+- Assets/xPack/Boulders/BoulderVertical_3/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_6/Nav.prefab
+- Assets/xPack/Roadside/BusStop/Object.prefab
+- Assets/xPack/Interactable/Keydoor_Red/Barricade.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_8/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSand_6/Nav.prefab
+- Assets/xPack/Locations/Oil_Rig/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_5/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Mesh.fbx
+- Assets/xPack/Boulders/BoulderSand_2/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_9/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_2/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_1/Skybox.prefab
+- Assets/xPack/Resources/Keycard_Green/Stump.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_4/Clip.prefab
+- Assets/xPack/Locations/Fishing_Vilage_A/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_3/Skybox.prefab
+- Assets/xPack/Locations/Fishing_Vilage_B/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Texture.png
+- Assets/xPack/Resources/Pine_0/Debris.prefab
+- Assets/xPack/Resources/Palm_1/Resource.prefab
+- Assets/xPack/Boulders/Boulder_8/Nav.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_3/Nav.prefab
+- Assets/xPack/Roadside/Powerline_1/Clip.prefab
+- Assets/xPack/Boulders/BoulderGrass_5/Nav.prefab
+- Assets/xPack/Locations/WaterTreatment/Object.prefab
+- Assets/xPack/Resources/Cactus_2/Resource.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_4/Skybox.prefab
+- Assets/xPack/Locations/Supermarket/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_5/Object.prefab
+- Assets/xPack/Locations/Airfield/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Stump.prefab
+- Assets/xPack/Boulders/BoulderGrass_8/Object.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_3/Object.prefab
+- Assets/xPack/Locations/Sand_base/Nav.prefab
+- Assets/xPack/Locations/Outpost/Object.prefab
+- Assets/xPack/Resources/Pine_0/Stump.prefab
+- Assets/xPack/Resources/Pine_0/Resource.prefab
+- Assets/xPack/Interactable/Keydoor_Green/Animations.prefab
+- Assets/xPack/Foliage/Grass/Grass_2.png
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_2/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_7/Clip.prefab
+- Assets/xPack/Resources/Pine_0/Skybox.prefab
+- Assets/xPack/Resources/OreStone_0/Resource.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_2/Object.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Texture.png
+- Assets/xPack/Locations/Artic_base/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_9/Clip.prefab
+- Assets/xPack/Boulders/BoulderSnow_6/Object.prefab
+- Assets/xPack/Locations/Fishing_Vilage_A/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_8/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_7/Skybox.prefab
+- Assets/xPack/Locations/LightHouse/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_4/Nav.prefab
+- Assets/xPack/Locations/Warehouse/Skybox.prefab
+- Assets/xPack/Roadside/Powerline_1/Nav.prefab
+- Assets/xPack/Boulders/BoulderGrass_7/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_5/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_10/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_6/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Material.mat
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_2/Clip.prefab
+- Assets/xPack/Locations/Satelite/Object.prefab
+- Assets/xPack/Boulders/BoulderSnow_7/Object.prefab
+- Assets/xPack/Customs/Portal_OilRigSmail/Nav.prefab
+- Assets/xPack/Locations/Oil_Rig_Small/Slots.prefab
+- Assets/xPack/Boulders/Boulder_4/Object.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_3/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_9/Object.prefab
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_1/Skybox.prefab
+- Assets/xPack/Resources/Palm_1/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_5/Object.prefab
+- Assets/xPack/Boulders/Boulder_5/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_10/Skybox.prefab
+- Assets/xPack/Customs/Portal_MainPVP/Object.prefab
+- Assets/xPack/Boulders/BoulderGrass_3/Nav.prefab
+- Assets/xPack/Boulders/Boulder_5/Object.prefab
+- Assets/xPack/Locations/WaterTreatment/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Material.mat
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_1/Nav.prefab
+- Assets/xPack/Resources/Pine_2/Debris.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_1/Stump.prefab
+- Assets/xPack/Foliage/Grass/Flowers_3.png
+- Assets/xPack/Boulders/Boulder_4/Nav.prefab
+- Assets/xPack/Locations/Oil_Rig/Object.prefab
+- Assets/xPack/Boulders/Boulder_9/Nav.prefab
+- Assets/xPack/Roadside/Powerline_2/Skybox.prefab
+- Assets/xPack/Locations/Fishing_Vilage_A/Clip.prefab
+- Assets/xPack/Resources/OreMetal_0/Resource.prefab
+- Assets/xPack/Locations/Sphere/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Texture.png
+- Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_4/Nav.prefab
+- Assets/xPack/Locations/Artic_base/Slots.prefab
+- Assets/xPack/Locations/Oil_Rig_Small/Skybox.prefab
+- Assets/xPack/Interactable/Keydoor_Red/Animations.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_9/Skybox.prefab
+- Assets/xPack/Boulders/BoulderVertical_1/Object.prefab
+- Assets/xPack/Foliage/Grass/BlackGrass_1.png
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_4/Object.prefab
+- Assets/xPack/Foliage/Grass/Grass_4.png
+- Assets/xPack/Materials/Sand.png
+- Assets/xPack/Boulders/BoulderSnow_1/Nav.prefab
+- Assets/xPack/Roadside/Powerline_4/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Bush_1/Stump_Clip.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_2/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_5/Nav.prefab
+- Assets/xPack/Locations/Harbor/Skybox.prefab
+- Assets/xPack/Interactable/Keydoor_Red/Nav.prefab
+- Assets/xPack/Interactable/Keydoor_Green/Open.wav
+- Assets/xPack/Foliage/Grass/Grass_2.mat
+- Assets/xPack/Resources/PineWinter_1/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_5/Clip.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Mesh.fbx
+- Assets/xPack/Roadside/Powerline_1/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Resource.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_7/Skybox.prefab
+- Assets/xPack/Resources/Cactus_0/Resource.prefab
+- Assets/xPack/Roadside/Powerline_1/Skybox.prefab
+- Assets/xPack/Boulders/BoulderSnow_5/Skybox.prefab
+- Assets/xPack/Foliage/Grass/Flowers_2.png
+- Assets/xPack/Interactable/Keydoor_Blue/Open.wav
+- Assets/xPack/Locations/Harbor/Nav.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_2/Object.prefab
+- Assets/xPack/Resources/OreSulfur_0/Stump.prefab
+- Assets/xPack/Roadside/Powerline_5/Nav.prefab
+- Assets/xPack/Roadside/BusStop/Clip.prefab
+- Assets/xPack/Foliage/Grass/Flowers_1.png
+- Assets/xPack/Resources/PineWinter_0/Stump.prefab
+- Assets/xPack/Boulders/BoulderGrass_1/Nav.prefab
+- Assets/xPack/Customs/Portal_Sand_Base/Skybox.prefab
+- Assets/xPack/Resources/Palm_2/Stump.prefab
+- Assets/xPack/Interactable/Keydoor_Red/Open.wav
+- Assets/xPack/Locations/Oil_Rig/Skybox.prefab
+- Assets/xPack/Roadside/Powerline_4/Skybox.prefab
+- Assets/xPack/Resources/Palm_1/Debris.prefab
+- Assets/xPack/Locations/Oil_Rig_Small/Nav.prefab
+- Assets/xPack/Locations/Sand_base/Skybox.prefab
+- Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_8/Clip.prefab
+- Assets/xPack/Boulders/Boulder_4/Skybox.prefab
+- Assets/xPack/Customs/Custom_Sphere/Object.prefab
+- Assets/xPack/Foliage/Grass/Grass_4.mat
+- Assets/xPack/Customs/Custom_Sphere/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_2/Resource_Clip.prefab
+- Assets/xPack/Boulders/BoulderGrass_1/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_2/Object.prefab
+- Assets/xPack/Resources/Cactus_1/Resource.prefab
+- Assets/xPack/Resources/PineWinter_1/Debris.prefab
+- Assets/xPack/Locations/Powerplant/Skybox.prefab
+- Assets/xPack/Boulders/Boulder_3/Skybox.prefab
+- Assets/xPack/Interactable/Keydoor_Green/Nav.prefab
+- Assets/xPack/Resources/Cactus_1/Stump.prefab
+- Assets/xPack/Boulders/BoulderSnow_6/Nav.prefab
+- Assets/xPack/Boulders/Boulder_8/Skybox.prefab
+- Assets/xPack/Boulders/BoulderGrass_3/Skybox.prefab
+- Assets/xPack/Customs/Portal_GasStaishen/Object.prefab
+- Assets/xPack/Boulders/BoulderSand_5/Skybox.prefab
+- Assets/xPack/Locations/Satelite/Clip.prefab
+- Assets/xPack/Roadside/Powerline_4/Clip.prefab
+- Assets/xPack/Boulders/Boulder_6/Object.prefab
+- Assets/xPack/Customs/Portal_OilRigSmail/Object.prefab
+- Assets/xPack/Resources/PineWinter_1/Stump.prefab
+- Assets/xPack/Boulders/BoulderSnow_7/Nav.prefab
+- Assets/xPack/Boulders/Boulder_5/Nav.prefab
+- Assets/xPack/Boulders/BoulderSand_3/Object.prefab
+- Assets/xPack/Interactable/Keydoor_Red/Item.prefab
+- Assets/xPack/Boulders/BoulderSand_7/Object.prefab
+Dependencies: []

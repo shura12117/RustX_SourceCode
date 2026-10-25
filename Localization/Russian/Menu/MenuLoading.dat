@@ -1,0 +1,53 @@
+VAC_Secure VAC
+VAC_Insecure No VAC
+BattlEye_Secure BattlEye
+BattlEye_Insecure No BattlEye
+Streamer Режиме стримера
+Offline Одиночная игра
+
+Loading_Level_Play Загрузка {0} v{1} на {2} [{3}]
+Loading_Level_Edit Загрузка {0}
+
+Loading Загрузка
+Loading_Connect Подключение
+Loading_Clean Очистка
+Loading_Blueprints Загрузка чертежей для создания
+Loading_Spawns Загрузка точек появления
+Loading_Misc Загрузка прочего
+Loading_MainMenu Загрузка главного меню
+Loading_Asset_Bundles Загружено {0} из {1} наборов ресурсов
+Loading_Search Выполнен поиск {0} из {1} локаций и найдено {2} файлов объектов
+Loading_Read Прочтено {0} из {1} содержимого файлов объектов в память
+Loading_Asset_Definitions Загружено {0} из {1} объектов
+Assets_Scan Поиск {0}: {1}
+Assets_Load Загрузка {0}: {1}/{2}
+Master_Bundle_Progress Загрузка {0}: {1}%
+Master_Bundle_Progress_Hash Хеширование {0}: {1}%
+Download_Progress Скачивание {0}
+Level_Load Загрузка уровня: {0}%
+Queue_Position Место в очереди: #{0}
+Queue_Cancel Отмена
+Queue_Cancel_Tooltip Покинуть очередь
+
+PingMismatchWarning Внимание: пинг в игре ({0} ms) выше пинга браузера серверов ({1} ms). Вероятно, из-за механизма защиты от DDoS. Высокий пинг может привести к более медленному геймплею, чем ожидается.
+
+Asset файлов
+Item предметов
+Effect эффектов
+Object объектов
+Resource ресурсов
+Vehicle транспорта
+Animal животных
+Mythic мифов
+Skin оболочек
+Spawn таблиц
+Map карты
+Workshop_Shared контента в мастерскую
+Workshop_Server контента с сервера
+Workshop_Client контента из мастерской
+Bundles_Server сервера
+NPC персонажей
+
+Creators Создатель:
+Collaborators Помощники:
+Thanks Особая благодарность:

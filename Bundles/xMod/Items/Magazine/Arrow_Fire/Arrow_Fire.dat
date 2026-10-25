@@ -1,0 +1,29 @@
+GUID eb1f44b2a16d4fe795dc306d0426df5d
+Type Magazine
+Rarity Uncommon
+ID 5501
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 1
+
+Calibers 3
+Caliber_0 5400
+Caliber_1 5401
+Caliber_2 5402
+
+Player_Damage 20
+Zombie_Damage 5
+Animal_Damage 5
+Vehicle_Damage 5
+Resource_Damage 5
+
+Range 1
+Explosion 15535
+Explosive
+
+Tracer 48
+
+Stuck 5

@@ -1,0 +1,11 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Причина].
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось выгнать игрока, так как сервер не работает.
+
+KickCommandText Kick
+KickInfoText Kick [SteamID | Имя игрока]/[Причина]
+KickHelpText Это отключает указанного игрока от сервера.
+
+KickText Игрок {0} успешно выгнан!
+KickTextReason причина не указана.

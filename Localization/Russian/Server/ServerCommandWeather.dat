@@ -1,0 +1,12 @@
+NoWeatherErrorText Не удалось найти погоду с названием {0}.
+
+WeatherCommandText Погода
+WeatherInfoText Weather [None | Disable | Storm | Blizzard | GUID]
+WeatherHelpText Это запускает или останавливает текущий цикл погоды.
+
+WeatherText Успешно установлена погода на {0}!
+
+WeatherNone None
+WeatherDisable Disable
+WeatherStorm Storm
+WeatherBlizzard Blizzard

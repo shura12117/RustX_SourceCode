@@ -1,0 +1,115 @@
+Sensitivity_Field_Label Чувствительность
+Invert_Toggle_Label Инвентирование
+Invert_Flight_Toggle_Label Инвентирование в полёте
+Scroll_Hotbar_Toggle_Label Прокрутка хотбара на колесико
+Aiming_Label Прицелиться
+Crouching_Label Присесть
+Proning_Label Прилечь
+Sprinting_Label Бежать
+Leaning_Label Наклониться
+Voice_Mode_Label Режим микрофона
+
+SensitivityScalingMode_Label Режим масштабирования
+SensitivityScalingMode_ProjectionRatio Фокусное
+SensitivityScalingMode_ProjectionRatio_Tooltip Чувствительность по соотношению c полем зрения.
+SensitivityScalingMode_ZoomFactor Коэффициентное
+SensitivityScalingMode_ZoomFactor_Tooltip Чувствительность зависит от кратности прицела.
+SensitivityScalingMode_Legacy Классическое
+SensitivityScalingMode_Legacy_Tooltip Чувствительность как до обновления 3.22.8.0.
+SensitivityScalingMode_None Выключить
+SensitivityScalingMode_None_Tooltip Чувствительность при прицеливании не изменяется.
+
+ProjectionRatioCoefficient_Label Коэффициент проекции
+ProjectionRatioCoefficient_Tooltip Множитель чувствительности для "Фокусного" режима масштабирования.
+
+Hold Удерживать клавишу
+Toggle Нажать клавишу
+
+Layout_0 ДВИЖЕНИЕ
+Layout_1 ПОЗИЦИЯ
+Layout_2 ДЕЙСТВИЕ
+Layout_3 ПРЕДМЕТЫ
+Layout_4 КОММУНИКАЦИЯ
+Layout_5 ИНТЕРФЕЙС
+Layout_6 ТРАНСПОРТ
+Layout_7 РЕДАКТОР
+Layout_8 МОДЫ И ПЛАГИНЫ
+Layout_9 ПАНЕЛЬ БЫСТРОГО ДОСТУПА
+
+Key_0_Button Влево [{0}]
+Key_1_Button Вправо [{0}]
+Key_2_Button Вперёд [{0}]
+Key_3_Button Назад [{0}]
+Key_4_Button Прыжок [{0}]
+Key_5_Button Свободный осмотр [{0}]
+Key_6_Button Наклон вправо [{0}]
+Key_7_Button Стрельба, использование [{0}]
+Key_8_Button Прицеливание [{0}]
+Key_9_Button Использовать, осмотреть [{0}]
+Key_10_Button Сесть [{0}]
+Key_11_Button Лечь [{0}]
+Key_12_Button Бег [{0}]
+Key_13_Button Перезарядка [{0}]
+Key_14_Button Модификация [{0}]
+Key_15_Button Режим стрельбы [{0}]
+Key_16_Button Таблица [{0}]
+Key_17_Button Инвентарь [{0}]
+Key_18_Button Создание [{0}]
+Key_19_Button Навыки [{0}]
+Key_20_Button Карта [{0}]
+Key_21_Button Отклонить [{0}]
+Key_22_Button Микрофон [{0}] 
+Key_23_Button Модернизация [{0}]
+Key_24_Button Захват [{0}]
+Key_25_Button Фокусировка [{0}]
+Key_26_Button Инструмент #1 [{0}]
+Key_27_Button Инструмент #2 [{0}]
+Key_28_Button Инструмент #3 [{0}]
+Key_29_Button Переключить HUD [{0}]
+Key_30_Button Быстрое действие [{0}]
+Key_31_Button Глобальный чат [{0}]
+Key_32_Button Локальный чат [{0}]
+Key_33_Button Групповой чат [{0}]
+Key_34_Button Движения, анимация [{0}]
+Key_35_Button Переключить ПНВ [{0}]
+Key_36_Button Фонарь, лазер [{0}]
+Key_37_Button Вид от 3-го лица [{0}]
+Key_38_Button Убрать из рук [{0}]
+Key_39_Button Смена позы [{0}]
+Key_40_Button Крен влево [{0}]
+Key_41_Button Крен вправо [{0}]
+Key_42_Button Тангаж вверх [{0}]
+Key_43_Button Тангаж вниз [{0}]
+Key_44_Button Рыскание влево [{0}]
+Key_45_Button Рыскание вправо [{0}]
+Key_46_Button Увеличить тягу [{0}]
+Key_47_Button Уменьшить тягу [{0}]
+Key_48_Button Осмотреть [{0}]
+Key_49_Button Повернуть предмет [{0}]
+Key_50_Button Инструмент #4 [{0}]
+Key_51_Button Восхождение [{0}]
+Key_52_Button Снижение [{0}]
+Key_53_Button Закрыть [{0}]
+Key_54_Button Принять [{0}]
+Key_55_Button Терминал [{0}]
+Key_56_Button Сделать снимок [{0}]
+Key_57_Button Перезагрузить активы [{0}]
+Key_58_Button Буфер обмена [{0}]
+Key_59_Button Горячая клавиша #1 [{0}]
+Key_60_Button Горячая клавиша #2 [{0}]
+Key_61_Button Горячая клавиша #3 [{0}]
+Key_62_Button Горячая клавиша #4 [{0}]
+Key_63_Button Горячая клавиша #5 [{0}]
+Key_64_Button Предмет #1 [{0}]
+Key_65_Button Предмет #2 [{0}]
+Key_66_Button Предмет #3 [{0}]
+Key_67_Button Предмет #4 [{0}]
+Key_68_Button Предмет #5 [{0}]
+Key_69_Button Предмет #6 [{0}]
+Key_70_Button Предмет #7 [{0}]
+Key_71_Button Предмет #8 [{0}]
+Key_72_Button Предмет #9 [{0}]
+Key_73_Button Предмет #10 [{0}]
+Key_74_Button Отпустить курсор [{0}]
+Key_75_Button Пропуск меню создания [{0}]
+Key_76_Button Отменить [{0}]

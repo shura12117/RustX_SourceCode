@@ -1,0 +1,10 @@
+RadiusSliderLabelText Radius
+RotationSliderLabelText Angle
+
+AddButtonText Add [{0}]
+AddButtonTooltip Create Spawnpoint
+
+RemoveButtonText Sub [{0}]
+RemoveButtonTooltip Remove Spawnpoints
+
+AltLabelText Alt

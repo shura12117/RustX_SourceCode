@@ -1,0 +1,19 @@
+GUID d597acead702457fac42f2da2d8a278c
+Type Magazine
+Rarity Uncommon
+ID 5520
+
+Size_X 2
+Size_Y 2
+Size_Z 0.225
+
+Amount 24
+Count_Min 16
+Count_Max 24
+
+Calibers 1
+Caliber_0 5414
+
+Tracer 48
+
+Paintable

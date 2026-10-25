@@ -1,0 +1,29 @@
+GUID f3026fac6ef540d2a0665a15f97af1d7
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Torch
+ID 5244
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 50
+Range 4
+Offset 0.15
+
+Explosion 15
+Vulnerable
+Fire_Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Supply_1_ID 5311
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Supply_2_ID 5300
+Blueprint_0_Supply_2_Amount 20
+Blueprint_0_Build 27

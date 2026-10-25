@@ -1,0 +1,9 @@
+GUID 6036877df14042f089f29c3cb11c638e
+
+Type Effect
+ID 42803
+
+CameraShake_Radius 32
+CameraShake_MagnitudeDegrees 16
+
+Blast 137

@@ -1,0 +1,16 @@
+GUID d70c6de7d60d4bdbb0d532987378453e
+Type Resource
+ID 5940
+Category Barrel
+
+Health 75
+Radius 4
+Scale_Min 0.3
+Scale_Max 0.3
+
+Explosion 43
+
+Log 5332
+Forage
+
+Reset 1000

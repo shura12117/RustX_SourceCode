@@ -1,0 +1,29 @@
+GUID 5c83c80cf9de4d13b40aa512508c2642
+Type Sleeper
+Rarity Rare
+Useable Barricade
+Build Sleeper
+ID 5267
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 6
+Storage_Y 6
+Multiuser
+
+Explosion 29
+Should_Close_When_Outside_Range true
+Vulnerable
+Fire_Vulnerable
+
+Ignored_Items 3
+Ignored_Item_0 5600
+Ignored_Item_1 5601
+Ignored_Item_2 5001

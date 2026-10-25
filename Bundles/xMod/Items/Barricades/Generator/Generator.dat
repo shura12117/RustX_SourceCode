@@ -1,0 +1,33 @@
+GUID 35e3ebc19e3f4a80bbdc19df2376e8b0
+Type Generator
+Rarity Uncommon
+Useable Barricade
+Build Generator
+ID 5258
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 100
+Range 4
+Radius 0.5
+Offset 0.63
+
+Vulnerable
+
+Capacity 10000
+Wirerange 24.0
+Burn 20.0
+
+Explosion 36
+No_Placement_On_Barricade
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27

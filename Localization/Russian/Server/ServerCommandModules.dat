@@ -1,0 +1,9 @@
+NoModulesErrorText Не удалось найти загруженные модули.
+
+ModulesCommandText Modules
+ModulesInfoText Modules
+ModulesHelpText Это отображает список загруженных модулей.
+
+ModulesText Загруженные модули:
+Version Version: {0}
+SeparatorText ------------------------------

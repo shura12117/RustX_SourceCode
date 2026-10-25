@@ -1,0 +1,50 @@
+GUID 53dfa874638148dea96f65c8df8949e0
+Type Furnace
+Rarity Uncommon
+Useable Barricade
+Build Furnace
+ID 5234
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Health 1500
+Range 5
+Radius 0.9
+Offset 2.0
+
+Fuel_Item_ID 5300
+Burn_Product_ID 5308
+Bake_Effect_ID 6804
+Bake_Interval 2
+
+Fuel_Slots 2
+Input_Slots 5
+Output_Slots 10
+
+Bake_Items 4
+Bake_0_Remove 5304
+Bake_0_Add 5305
+Bake_1_Remove 5306
+Bake_1_Add 5307
+Bake_2_Remove 5302
+Bake_2_Add 5303
+Bake_3_Remove 5310
+Bake_3_Add 5311
+
+Explosion 19
+Should_Close_When_Outside_Range true
+No_Placement_On_Barricade
+Only_Ground
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 600
+Blueprint_0_Supply_1_ID 5301
+Blueprint_0_Supply_1_Amount 500
+Blueprint_0_Supply_2_ID 5311
+Blueprint_0_Supply_2_Amount 75
+Blueprint_0_Build 27

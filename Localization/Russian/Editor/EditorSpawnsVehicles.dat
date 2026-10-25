@@ -1,0 +1,30 @@
+TableNameFieldLabelText Таблица
+AddTableButtonText Создать
+AddTableButtonTooltip Создать таблицу
+RemoveTableButtonText Удалить
+RemoveTableButtonTooltip Удалить таблицу
+
+SelectionBoxLabelText Выбрано
+
+TableIDFieldLabelText ID появления
+
+TierNameFieldLabelText Ряд
+AddTierButtonText Создать
+AddTierButtonTooltip Создать ряд
+RemoveTierButtonText Удалить
+RemoveTierButtonTooltip Удалить ряд
+
+VehicleIDFieldLabelText ID
+AddVehicleButtonText Добавить
+AddVehicleButtonTooltip Добавить транспорт
+RemoveVehicleButtonText Удалить
+RemoveVehicleButtonTooltip Удалить транспорт
+
+RadiusSliderLabelText Радиус
+RotationSliderLabelText Угол
+
+AddButtonText Добавить [{0}]
+AddButtonTooltip Создать точку появления
+
+RemoveButtonText Удалить [{0}]
+RemoveButtonTooltip Удалить точку появления

@@ -1,0 +1,29 @@
+GUID e93b6139b3ba4de0ba6cbd70d4bb706d
+Type Sentry
+Rarity Epic
+Useable Barricade
+Build Sentry
+ID 5259
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Can_Player_Equip false
+
+Health 300
+Range 4
+Radius 0.75
+Offset 0.75
+
+Storage_X 2
+Storage_Y 2
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+Infinite_Quality true
+Requires_Power False

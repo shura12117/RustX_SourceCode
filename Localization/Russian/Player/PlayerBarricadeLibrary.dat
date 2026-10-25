@@ -1,0 +1,17 @@
+Capacity_Text {0}/{1}
+Capacity_Label Вместимость
+Wallet_Label Доступно
+Amount_Label Количество
+Transaction_Label Транзакция
+Tax_Label Налог
+Net_Label Сеть
+
+Deposit Добавить
+Deposit_Label Добавить куда
+Withdraw Забрать
+Withdraw_Label Забрать откуда
+
+Yes_Button Завершить
+Yes_Button_Tooltip Сохранить изменения
+No_Button Отмена
+No_Button_Tooltip Отменить изменения

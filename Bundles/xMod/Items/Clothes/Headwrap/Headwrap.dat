@@ -1,0 +1,23 @@
+﻿GUID 398f32010b474f6e87727f8ee6fc238a
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 40535
+
+Size_X 2
+Size_Y 2
+Size_Z 0.36
+
+Armor 0.85
+
+Clothes_Mask Head
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+
+
+

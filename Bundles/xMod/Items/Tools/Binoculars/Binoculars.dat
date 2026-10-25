@@ -1,0 +1,20 @@
+GUID 1943431bffb24456ac3882f71a6b2699
+Type Optic
+Rarity Uncommon
+Useable Optic
+ID 5612
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Zoom 10
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5318
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 40
+Blueprint_0_Build 27

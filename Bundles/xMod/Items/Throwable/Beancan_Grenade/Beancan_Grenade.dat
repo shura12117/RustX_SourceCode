@@ -1,0 +1,35 @@
+GUID 57891f8ed3c344228f230ed877ce1ac8
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 5022
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 5
+
+Player_Damage 115
+Zombie_Damage 115
+Animal_Damage 115
+Barricade_Damage 19
+Structure_Damage 19
+Vehicle_Damage 19
+Resource_Damage 19
+Object_Damage 19
+
+Range 5
+Explosion 41400
+Fuse_Length 4
+
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5309
+Blueprint_0_Supply_0_Amount 60
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 20
+Blueprint_0_Build 32

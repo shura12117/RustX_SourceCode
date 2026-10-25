@@ -1,0 +1,7 @@
+RunningErrorText Не удалось включить синхронизацию во время работы.
+
+SyncCommandText Sync
+SyncInfoText Sync
+SyncHelpText Это позволяет игрокам обмениваться сохранёнными данными между вашими серверами.
+
+SyncText Синхронизация успешно включена.

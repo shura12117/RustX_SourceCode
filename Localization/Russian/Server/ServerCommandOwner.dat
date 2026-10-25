@@ -1,0 +1,8 @@
+InvalidSteamIDErrorText Не удалось преобразовать {0} в Steam ID.
+RunningErrorText Не удалось установить владельца во время работы сервера.
+
+OwnerCommandText Owner
+OwnerInfoText Owner [SteamID]
+OwnerHelpText Это устанавливает владельца сервера.
+
+OwnerText Владельцем успешно установлен {0}!

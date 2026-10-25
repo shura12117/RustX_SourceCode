@@ -1,0 +1,10 @@
+NoBansErrorText Не удалось найти активные баны.
+
+BansCommandText Bans
+BansInfoText Bans
+BansHelpText Это отображает список текущих банов.
+
+BansText Баны:
+BanNameText ID игрока: {0}
+BanJudgeText ID судьи: {0}
+BanStatusText Причина: {0} Продолжительность: {1} Осталось: {2}

@@ -1,0 +1,8 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [Задержка]/[Объяснение].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+ShutdownCommandText Shutdown
+ShutdownInfoText Shutdown [Задержка]/[Объяснение]
+ShutdownHelpText Это корректно сохраняет состояние сервера, отключает клиентов и закрывает программу.
+
+ShutdownText Успешно установлена задержка перед отключением!

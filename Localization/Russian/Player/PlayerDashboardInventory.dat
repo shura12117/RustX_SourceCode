@@ -1,0 +1,281 @@
+Rarity_0 [Обычный]
+Rarity_1 [Необычный]
+Rarity_2 [Редкий]
+Rarity_3 [Эпичный]
+Rarity_4 [Легендарный]
+Rarity_5 [Мистический]
+
+Type_0 шапка
+Type_1 штаны
+Type_2 футболка
+Type_3 маска
+Type_4 рюкзак
+Type_5 бронежилет
+Type_6 очки
+Type_7 огнестрельное оружие
+Type_8 прицел
+Type_9 тактическое устройство
+Type_10 рукоять
+Type_11 ствол
+Type_12 магазин
+Type_13 еда
+Type_14 ёмкость
+Type_15 медикамент
+Type_16 оружие ближнего боя
+Type_17 канистра
+Type_18 инструмент
+Type_19 баррикада
+Type_20 ячейка хранения
+Type_21 маяк
+Type_22 растение
+Type_23 ловушка
+Type_24 структура
+Type_25 элемент
+Type_26 амуниция
+Type_27 удобрение
+Type_28 оптическое устройство
+Type_29 бутылка
+Type_30 удочка
+Type_31 парашют
+Type_32 карта
+Type_33 ключ
+Type_34 коробка
+Type_35 ключ
+Type_36 наручники
+Type_37 хранилище
+Type_38 генератор
+Type_39 детонатор
+Type_40 дистанционная взрывчатка
+Type_41 ячейка хранения опыта
+Type_42 фильтр противогаза
+Type_43 турель
+Type_44 инструмент
+Type_45 инструмент
+Type_46 компас
+Type_47 топливный насос
+Type_48 краска
+
+Hotkey_Set Горячая клавиша: {0}
+Hotkey_Unset Горячая клавиша: [3-9]
+
+Rarity_Type_Label {0} {1}
+Quality Качество: {0}%
+Amount Количество: {0}
+
+Fuel Топливо: {0}%
+Refill Вода: {0}
+Empty Пустая
+Full Полная
+Clean Чистый
+Salty Солёный
+Dirty Грязный
+
+Ammo Патроны: {0} {1}/{2}
+None Пусто
+
+ItemDescription_AmountWithCapacity Магазин: {0}/{1}
+ItemDescription_SightAttachment Прицел: {0}
+ItemDescription_TacticalAttachment Цевьё: {0}
+ItemDescription_GripAttachment Крепление: {0}
+ItemDescription_BarrelAttachment Ствол: {0}
+ItemDescription_Clothing_Armor Броня: {0}
+ItemDescription_Clothing_Earpiece Прослушивает радиопереговоры.
+ItemDescription_Clothing_ExplosionArmor Взрывы: {0}
+ItemDescription_Clothing_FireProof Защищает от огня.
+ItemDescription_Clothing_RadiationProof Защищает от радиации.
+ItemDescription_Clothing_FallingBoneBreakingProof Защищает от переломов.
+ItemDescription_ClothingMovementSpeedModifier Скорость передвижения при одевании: {0}
+ItemDescription_FallingDamageModifier Урон от падения: {0}
+ItemDescription_FilterDegradationRateMultiplier Деградация фильтра: {0}
+ItemDescription_EquipableMovementSpeedModifier Скорость передвижения при ношении: {0}
+ItemDescription_PelletCount Пули: {0}
+ItemDescription_BulletDamageModifier Пулевой урон: {0}
+ItemDescription_RecoilModifier_X Горизонтальная отдача: {0}
+ItemDescription_RecoilModifier_Y Вертикальная отдача: {0}
+ItemDescription_RecoilModifier_Aiming Отдача при прицеливании: {0}
+ItemDescription_AimDurationModifier Скорость прицеливания: {0}
+ItemDescription_AimingMovementSpeedModifier Скорость при прицеливании: {0}
+ItemDescription_SpreadModifier Точность: {0}
+ItemDescription_SwayModifier Качание прицела: {0}
+ItemDescription_AimingSpreadModifier Точность прицеливания: {0}
+ItemDescription_ZoomFactor Увеличение: {0}x
+ItemDescription_ThirdPersonZoomFactor Увеличение (от 3-го лица): {0}x
+ItemDescription_BulletGravityModifier Вес пули: {0}
+ItemDescription_InvulnerableModifier Улучшает оружие до тяжелого: Может наносить урон сильным существам.
+ItemDescription_Consumeable_Explosive Взрывается при потреблении.
+ItemDescription_Consumeable_HealthPositive Здоровье: +{0}%
+ItemDescription_Consumeable_HealthNegative Здоровье: -{0}%
+ItemDescription_Consumeable_FoodPositive Голод: +{0}%
+ItemDescription_Consumeable_FoodNegative Голод: -{0}%
+ItemDescription_Consumeable_WaterPositive Жажда: +{0}%
+ItemDescription_Consumeable_WaterNegative Жажда: -{0}%
+ItemDescription_Consumeable_VirusPositive Иммунитет: +{0}%
+ItemDescription_Consumeable_VirusNegative Иммунитет: -{0}%
+ItemDescription_Consumeable_StaminaPositive Выносливость: +{0}%
+ItemDescription_Consumeable_StaminaNegative Выносливость: -{0}%
+ItemDescription_Consumeable_OxygenPositive Кислород: +{0}%
+ItemDescription_Consumeable_OxygenNegative Кислород: -{0}%
+ItemDescription_Consumeable_WarmthPositive Греет: {0}
+ItemDescription_ConsumeableBleeding_Heal Останавливает кровотечение.
+ItemDescription_ConsumeableBleeding_Cut Вызывает кровотечение.
+ItemDescription_ConsumeableBones_Heal Лечит перелом.
+ItemDescription_ConsumeableBones_Break Вызывает перелом.
+ItemDescription_ConsumeableMoldy Низкое качество вредит иммунитету.
+ItemDescription_Firerate Скорострельность: {0} выс/мин
+ItemDescription_Spread Разброс (от бедра): {0} °
+ItemDescription_Spread_Aim Разброс (в прицеле): {0} °
+ItemDescription_DamageFalloff Снижение урона начинается с {0} до {2} на {1}.
+ItemDescription_WeaponRange Дальность: {0}
+ItemDescription_WeaponDamage_Player_Head Урон в голову игрокам: {0}
+ItemDescription_WeaponDamage_Player_Body Урон в тело игрокам: {0}
+ItemDescription_WeaponDamage_Player_Arm Урон в руку игрокам: {0}
+ItemDescription_WeaponDamage_Player_Leg Урон в ногу игрокам: {0}
+ItemDescription_WeaponDamage_Player_FoodPositive Попадание восполняет голод: {0}
+ItemDescription_WeaponDamage_Player_FoodNegative Попадание расходует голод: {0}
+ItemDescription_WeaponDamage_Player_WaterPositive Попадание восполняет жажду: {0}
+ItemDescription_WeaponDamage_Player_WaterNegative Попадание расходует жажду: {0}
+ItemDescription_WeaponDamage_Player_VirusPositive Попадание восполняет иммунитет: +{0}%
+ItemDescription_WeaponDamage_Player_VirusNegative Попадание расходует иммунитет: -{0}%
+ItemDescription_WeaponDamage_Player_HallucinationPositive Попадание вызывает галлюцинации: {0}
+ItemDescription_WeaponDamage_Player_HallucinationNegative Попадание останавливает галлюцинации: {0}
+ItemDescription_WeaponBleeding_Always Попадание вызывает кровотечение.
+ItemDescription_WeaponBleeding_Heal Попадание останавливает кровотечение.
+ItemDescription_WeaponBones_Always Попадание вызывает перелом.
+ItemDescription_WeaponBones_Heal Попадание лечит перелом.
+ItemDescription_WeaponDamage_Zombie_Head Урон в голову зомби: {0}
+ItemDescription_WeaponDamage_Zombie_Body Урон в тело зомби: {0}
+ItemDescription_WeaponDamage_Zombie_Arm Урон в руку зомби: {0}
+ItemDescription_WeaponDamage_Zombie_Leg Урон в ногу зомби: {0}
+ItemDescription_WeaponDamage_Animal_Head Урон в голову животным: {0}
+ItemDescription_WeaponDamage_Animal_Body Урон в тело животным: {0}
+ItemDescription_WeaponDamage_Animal_Limb Урон в конечность животным: {0}
+ItemDescription_WeaponDamage_Barricade Урон баррикадам: {0}
+ItemDescription_WeaponDamage_Structure Урон структурам: {0}
+ItemDescription_WeaponDamage_Vehicle Урон транспорту: {0}
+ItemDescription_WeaponDamage_Resource Урон ресурсам: {0}
+ItemDescription_WeaponDamage_Object Урон объектам: {0}
+ItemDescription_WeaponDamage_Invulnerable Тяжёлое оружие: Наносит урон прочному транспорту и постройкам.
+ItemDescription_ExplosiveBullet Взрывается при попадании.
+ItemDescription_ExplosionBlastRadius Радиус взрыва: {0}
+ItemDescription_ExplosionPlayerDamage Урон игрокам (взрывной): {0}
+ItemDescription_ExplosionZombieDamage Урон зомби (взрывной): {0}
+ItemDescription_ExplosionAnimalDamage Урон животным (взрывной): {0}
+ItemDescription_ExplosionBarricadeDamage Урон баррикадам (взрывной): {0}
+ItemDescription_ExplosionStructureDamage Урон структурам (взрывной): {0}
+ItemDescription_ExplosionVehicleDamage Урон транспорту (взрывной): {0}
+ItemDescription_ExplosionResourceDamage Урон ресурсам (взрывной): {0}
+ItemDescription_ExplosionObjectDamage Урон объектам (взрывной): {0}
+ItemDescription_Buildable_ArmorTier_Low Класс брони: Низкий
+ItemDescription_Buildable_ArmorTier_High Класс брони: Высокий
+ItemDescription_Buildable_CannotPickup Невозможно забрать после размещения.
+ItemDescription_Buildable_CannotSalvage Не подлежит восстановлению при повреждении.
+ItemDescription_Buildable_CannotRepair Не подлежит ремонту при повреждении.
+ItemDescription_Buildable_Health Прочность: {0}
+ItemDescription_Buildable_ExplosionProof Не повреждается взрывами.
+ItemDescription_Buildable_Lockable Закрыто для игроков вне вашей группы.
+ItemDescription_Buildable_Invulnerable Прочное: Может быть повреждено только тяжёлым оружием.
+ItemDescription_Farmable_GrowSpecificItem Производит: {0}
+ItemDescription_Farmable_RequiresSoil Размещается только на растительной почве.
+ItemDescription_Farmable_CanFertilize Рост ускоряется удобрением.
+ItemDescription_Farmable_AffectedByAgricultureSkill На результат влияет уровень навыка Земледелие / Agriculture.
+ItemDescription_Farmable_AffectedByRain Рост ускориться при дождливой погоде.
+ItemDescription_Trap_BreaksBones Ловушка ломает кости.
+ItemDescription_Trap_DamagesTires Ловушка ломает колёса.
+ItemDescription_Trap_RequiresPower Для работы ловушки необходимо электричество.
+ItemDescription_Trap_PlayerDamage Урон игрокам: {0}
+ItemDescription_Trap_ZombieDamage Урон зомби: {0}
+ItemDescription_Trap_AnimalDamage Урон животным: {0}
+ItemDescription_StorageDimensions Инвентарь: {0}x{1}
+ItemDescription_Throwable_Flash Ослепляет ближайших игроков, смотрящих в сторону взрыва.
+ItemDescription_Throwable_Sticky Прилипает к поверхности при столкновении.
+ItemDescription_Throwable_ExplodeOnImpact Взрывается при столкновении.
+ItemDescription_Throwable_FuseLength Длительность работы: {0}
+ItemDescription_Melee_StrongAttackModifier Урон силовой атакой: {0}
+ItemDescription_Melee_StrongAttackStamina Затраты выносливости при силовой атаке: {0}
+ItemDescription_ArrestEnd_UnlocksItem Открывает: {0}
+ItemDescription_FuelAmountWithCapacity Топливо: {0}/{1} ({2})
+ItemDescription_FuelCapacity Вместимость топлива: {0}
+ItemDescription_WaterCapacity Вместимость воды: {0}
+ItemDescription_FuelBurnRate Потрибляет топлива: {0}/час
+ItemDescription_FuelMaxRuntime Максимальное время работы: {0} час(ов)
+ItemDescription_AmmoConsumptionProbability Шанс уменьшения боеприпасов: {0}
+ItemDescription_QualityConsumptionProbability Вероятность снижения качества: {0}
+ItemDescription_ProvidesCraftingTags Даёт эффект:
+ItemDescription_ListItem - {0}
+
+Equip_Button Взять
+Equip_Button_Tooltip Взять в руки
+Dequip_Button Убрать
+Dequip_Button_Tooltip Убрать из рук
+Drop_Button Выбросить
+Drop_Button_Tooltip Выбросить на землю
+Pickup_Button Поднять
+Pickup_Button_Tooltip Поднять с земли
+
+Take_Button Забрать
+Take_Button_Tooltip Забрать из хранилища
+Store_Button Положить
+Store_Button_Tooltip Положить в хранилище
+
+Repair_Button Отремонтировать
+Repair_Button_Tooltip Отремонтировать предмет
+Salvage_Button Разобрать
+Salvage_Button_Tooltip Разобрать на компоненты
+Refill_Button Зарядить
+Refill_Button_Tooltip Зарядить магазин
+Stack_Button Собрать
+Stack_Button_Tooltip Объедините предметы в один брикет.
+Unstack_Button Разобрать
+Unstack_Button_Tooltip Разделить брикет на отдельные предметы.
+
+ActionBlueprint_SkipCraftingTooltip Использовать одну [{0} + ЛКМ]
+ActionBlueprint_CraftAllTooltip Использовать все [{0} + ЛКМ]
+
+Attachments_Button Снять
+Attachments_Button_Tooltip Снять модуль
+
+Craft_Rag_Button Сделать тряпку
+Craft_Rag_Button_Tooltip Разорвать на тряпки
+Craft_Bandage_Button Сделать повязку
+Craft_Bandage_Button_Tooltip Сшить в повязку
+Craft_Dressing_Button Сделать бинт
+Craft_Dressing_Button_Tooltip Изменить до бинта
+Craft_Seed_Button Сделать семя
+Craft_Seed_Button_Tooltip Собрать семена
+
+Swap_Cosmetics_Tooltip Одежда
+Swap_Skins_Tooltip Оружие
+Swap_Mythics_Tooltip Эффекты
+
+Vehicle_Lock_On Закрыть транспорт [{0}]
+Vehicle_Lock_Off Открыть транспорт [{0}]
+Vehicle_Lock_Tooltip Защита от воров
+Vehicle_Horn Гудок [{0}]
+Vehicle_Horn_Tooltip ВНИМАНИЕ: Очень громкий
+Vehicle_Headlights_On Включить фары [{0}]
+Vehicle_Headlights_Off Выключить фары [{0}]
+Vehicle_Headlights_Tooltip Хорошо освещают дорогу в ночное время суток
+Vehicle_Sirens_On Включить сирену [{0}]
+Vehicle_Sirens_Off Выключить сирену [{0}]
+Vehicle_Sirens_Tooltip ВНИМАНИЕ: Привлекает внимание окружающих
+Vehicle_Blimp_On Подняться [{0}]
+Vehicle_Blimp_Off Опуститься [{0}]
+Vehicle_Blimp_Tooltip Отрегулировать балласт
+Vehicle_Hook Буксировочный трос [{0}]
+Vehicle_Hook_Tooltip Очень крепкий, можно переносить тяжёлый транспорт
+Vehicle_Seat_Empty Пусто
+Vehicle_Seat_Slot {0} [{1}]
+Vehicle_Steal_Battery Украсть аккумулятор
+Vehicle_Steal_Battery_Tooltip Достать аккумулятор из транспорта
+Vehicle_Skin_On Установить скин
+Vehicle_Skin_Off Снять скин
+Vehicle_Skin_Tooltip Использовать активный скин для транспорта
+
+Hands Инвентарь
+Storage Ячейка хранения
+Storage_Trunk Багажник ({0})
+Area На земле
+
+Rot_X X++
+Rot_Y Y++
+Rot_Z Z++

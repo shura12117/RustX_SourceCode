@@ -1,0 +1,21 @@
+GUID e102fd9b33f04cddbe2d2601293e47fa
+Type Magazine
+Rarity Uncommon
+ID 5510 
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 15
+Count_Min 5
+Count_Max 15
+
+Calibers 1
+Caliber_0 5408
+
+Tracer 48
+
+Paintable
+Spread 0.8
+Range 40

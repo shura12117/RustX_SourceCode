@@ -1,0 +1,13 @@
+NoCameraErrorText Не удалось найти перспективу с именем {0}.
+RunningErrorText Не удалось изменить перспективу во время работы.
+
+CameraCommandText Camera
+CameraInfoText Camera [First | Third | Both | Vehicle]
+CameraHelpText Это назначает перспективу сервера.
+
+CameraText Успешно установлена перспектива на {0}!
+
+CameraFirst First
+CameraThird Third
+CameraBoth Both
+CameraVehicle Vehicle

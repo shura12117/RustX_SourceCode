@@ -1,0 +1,27 @@
+Equip_Text Надеть
+Equip_Tooltip Надеть предмет.
+
+Dequip_Text Снять
+Dequip_Tooltip Снять предмет.
+
+Target_Item_Text Установить
+Target_Item_Tooltip Установить предмет на что-нибудь.
+
+Contents_Text Открыть
+Contents_Tooltip Нажмите здесь, чтобы посмотреть, что внутри.
+
+Inspect_Text Осмотреть
+Inspect_Tooltip Нажмите здесь, чтобы осмотреть предмет.
+
+Market_Text Торговая площадка
+Market_Tooltip Нажмите здесь, чтобы перейти на страницу магазина.
+
+Delete_Text Удалить
+Delete_Tooltip Удалить предмет из инвентаря.
+
+Scrap_Text Разобрать
+Scrap_Tooltip Разобрать предмет на материал
+
+Overlay Необходимо включить Steam overlay!
+
+Unknown Что-то пошло не так, попробуйте позже!

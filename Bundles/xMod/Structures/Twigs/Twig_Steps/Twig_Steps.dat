@@ -1,0 +1,16 @@
+GUID 9b6c08f6ef5f420286cc5a28268d71c2
+Type Structure
+Useable Structure
+Construct Roof
+ID 7102
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

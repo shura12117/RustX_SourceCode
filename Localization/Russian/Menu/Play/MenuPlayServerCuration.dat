@@ -1,0 +1,78 @@
+Title Кураторы браузера серверов
+TitleInfo Обработка производится сверху вниз, поэтому кураторы, находящиеся выше в этом рейтинге, имеют приоритет.
+
+Tutorial Подпишитесь на список кураторов серверов в мастерской Steam, чтобы включить его здесь, или добавьте его из интернета, используя поле URL!\nКураторы могут помочь вам найти высококачественные, проверенные хосты в браузере серверов.
+
+URL_Placeholder https://example.com/curated-list.txt
+URL_Tooltip Ссылка на список кураторов, размещенный в интернете.
+AddURLButton_Label Добавить куратора
+AddURLButton_Tooltip Добавить в рейтинг список кураторов серверов по указанному URL-адресу.
+
+DefaultBehavior_Label Действие по умолчанию
+DefaultBehavior_Show_Label Показывать
+DefaultBehavior_Show_Tooltip Серверы, не соответствующие ни одному правилу, отображаются в браузере серверов. (по умолчанию)
+DefaultBehavior_Hide_Label Скрывать
+DefaultBehavior_Hide_Tooltip Серверы, не соответствующие ни одному правилу, скрыты в браузере серверов.
+DefaultBehavior_MoveToBottom_Label Переместить вниз
+DefaultBehavior_MoveToBottom_Tooltip Серверы, не соответствующие ни одному правилу, перемещаются вниз браузера серверов.
+
+DenyMode_Label Режим блококировки
+DenyMode_Hide_Label Скрывать
+DenyMode_Hide_Tooltip Серверы, соответствующие правилу "Запретить", скрыты от браузера сервера.
+DenyMode_MoveToBottom_Label Переместить вниз
+DenyMode_MoveToBottom_Tooltip Серверы, соответствующие правилу «Запретить», перемещаются в нижнюю часть браузера серверов.
+
+Activate_Label Активировать
+Activate_Tooltip Включить список кураторов сервера.
+Deactivate_Label Деактивировать
+Deactivate_Tooltip Отключить список кураторов сервера.
+
+Reload_Label Перезагрузить
+Reload_Tooltip Обновить содержимое этого списка кураторов сервера.
+
+Remove_Tooltip Удалить этот список кураторов сервера.
+MoveUp_Tooltip Поднимитесь выше в рейтинге, чтобы повысить приоритет.
+MoveDown_Tooltip Переместитесь ниже в рейтинге, чтобы уменьшить приоритет.
+
+WebItemPending Запрос...
+NoWebRequests Невозможно выполнить запрос, поскольку включен параметр -NoWebRequests.
+
+Rule_Action_Label Этикетка
+Rule_Action_Allow Позволять
+Rule_Action_Deny Запретить
+
+Rule_Type_Name Имя
+Rule_Type_IPv4 IPv4
+Rule_Type_ServerID ID сервера
+
+Rule_NotInverted_Format {0} {1} {2}
+Rule_Inverted_Format {0} {1} Нет {2}
+
+Rule_ApplyLabel Применяет этикетку: {0}
+BlockCount Последнее обновление заблокированных серверов: {0}
+
+Test_Visible_Label Показать инструмент тестирования
+Test_Visible_Tooltip Инструмент для проверки воображаемого сервера.
+
+Test_Input_Name_Label Тестовое имя
+Test_Input_Name_Tooltip Отображение имени в браузере серверов. Все серверы должны иметь имя.
+
+Test_Input_Address_Label Тестовый адрес
+Test_Input_Address_Tooltip IPv4 адрес и порт сервера.
+
+Test_Input_ServerID_Label Тестовый ID сервера
+Test_Input_ServerID_Tooltip Steam ID сервера, также называемый "кодом сервера".
+
+Test_NameInvalid Тестовое имя пусто.
+Test_AddressInvalid Тестовый адрес и/или порт недействительны.
+Test_ServerIdInvalid ID тестового сервера недействителен.
+
+Test_NoMatch Нет совпадений.
+Test_Match_Count Соответствует {0} правилу(ам)
+Test_Match_Allowed Допустимый
+Test_Match_Denied Отклонен
+Test_Match_HasLabels Этикетки: {0}
+Test_Match_NoLabels Нет этикеток
+Test_Match_Rule Rule "{0}" в "{1}"
+Test_Match_Format {0} - {1} - {2}
+Test_Match_Final Финальное совпадение: {0}

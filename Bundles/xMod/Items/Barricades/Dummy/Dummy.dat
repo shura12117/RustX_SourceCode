@@ -1,0 +1,18 @@
+GUID 7006d3a15f01475891b8e74c84f9b6c3
+Type Barricade
+Useable Barricade
+Build Mannequin
+ID 5274
+
+Size_Z 0.65
+
+Health 200
+Range 4
+Radius 0.8
+Offset 1
+
+Explosion 37
+Vulnerable
+Fire_Vulnerable
+Only_Floor
+No_Placement_On_Barricade

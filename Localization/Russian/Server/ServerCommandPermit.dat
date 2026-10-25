@@ -1,0 +1,10 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID]/[Тэг].
+InvalidSteamIDErrorText Не удалось преобразовать {0} в Steam ID.
+
+NotRunningErrorText Не удалось разрешить игроку доступ, пока сервер не запущен.
+
+PermitCommandText Permit
+PermitInfoText Permit [SteamID]/[Тэг]
+PermitHelpText Это добавляет указанного игрока в список пользователей, которым разрешен вход на сервер.
+
+PermitText Успешно разрешен доступ {0} {1}!

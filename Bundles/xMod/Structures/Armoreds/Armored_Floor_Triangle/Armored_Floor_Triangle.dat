@@ -1,0 +1,17 @@
+GUID 3c1339d0c5d64f3e8cf66968b308ce42
+Type Structure
+Useable Structure
+Construct Roof_Poly
+ID 7185
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 8
+
+Armor_Tier 0
+
+Explosion 36
+Has_Clip_Prefab false

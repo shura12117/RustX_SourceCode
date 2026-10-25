@@ -1,0 +1,17 @@
+GUID da8bd5c86ad34a4ba70cb0d7d5a47ef4
+Type Structure
+Useable Structure
+Construct Wall_Half
+ID 7192
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

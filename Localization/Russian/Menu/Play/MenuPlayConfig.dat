@@ -1,0 +1,213 @@
+Items ПРЕДМЕТЫ
+Vehicles ТРАНСПОРТ
+Zombies ЗОМБИ
+Animals ЖИВОТНЫЕ
+Barricades БАРРИКАДЫ
+Structures СТРУКТУРЫ
+Players ИГРОКИ
+Objects ОБЪЕКТЫ
+Events СОБЫТИЯ
+Gameplay ИГРОВОЙ ПРОЦЕСС
+
+Spawn_Chance Шанс появления [0-1]
+Respawn_Time Интервал появления
+Unlocked_After_Seconds_In_Safezone Авто. открытие ТС в безопасной зоне
+Decay_Time Интервал появления
+Damage_Multiplier Урон от удара
+Armor_Multiplier Множитель жизней
+NonHeadshot_Armor_Multiplier Множитель брони
+Child_Explosion_Armor_Multiplier Множитель урона от взрывов
+Backstab_Multiplier Множитель урона для удара в спину
+Armor_Lowtier_Multiplier Множитель защиты от патронов мелкого калибра
+Armor_Hightier_Multiplier Множитель защиты от патронов большого калибра
+Gun_Lowcal_Damage_Multiplier Урон от огнестрельного оружия мелкого калибра
+Gun_Highcal_Damage_Multiplier Урон от огнестрельного оружия крупного калибра
+Melee_Damage_Multiplier Урон от оружия ближнего боя
+
+Max_Instances_Tiny Max инстанты на мелкой карте
+Max_Instances_Small Max инстанты на маленькой карте
+Max_Instances_Medium Max инстанты на средней карте
+Max_Instances_Large Max инстанты на большой карте
+Max_Instances_Insane Max инстанты на огромной карте
+
+Despawn_Dropped_Time Интервал исчезновения предметов
+Despawn_Natural_Time Интервал появления предметов
+Has_Durability Предметы имеют качество
+
+Quality_Full_Chance Шанс предметов с max качеством [0-1]
+Quality_Multiplier Качество в сетевой игре
+
+Gun_Bullets_Full_Chance Шанс оружия с полным магазином [0-1]
+Gun_Bullets_Multiplier Патроны в сетевой игре
+Magazine_Bullets_Full_Chance Шанс полных магазинов [0-1]
+Magazine_Bullets_Multiplier Обоймы в сетевой игре
+Crate_Bullets_Full_Chance Шанс создать полный магазин [0-1]
+Crate_Bullets_Multiplier Создать пули в сетевой игре
+
+Loot_Chance Шанс выпадания предметов [0-1]
+Crawler_Chance Шанс ползучих [0-0.5]
+Sprinter_Chance Шанс быстрых [0-0.5]
+Flanker_Chance Шанс невидимок [0-0.5]
+Burner_Chance Шанс поджигателей [0-0.5]
+Acid_Chance Шанс плюющихся [0-0.5]
+Boss_Electric_Chance Шанс электро-босса [0-0.5]
+Boss_Wind_Chance Шанс воздушного босса [0-0.5]
+Boss_Fire_Chance Шанс босса-поджигателя [0-0.5]
+Spirit_Chance Шанс призрачных [0-0.5]
+DL_Red_Volatile_Chance Шанс DL Red [0-0.5]
+DL_Blue_Volatile_Chance Шанс DL Blue [0-0.5]
+Boss_Elver_Stomper_Chance Шанс босса Elver Stomper [0-0.5]
+Respawn_Day_Time Интервал появления днём
+Respawn_Night_Time Интервал появления ночью
+Respawn_Beacon_Time Интервал появления от маяка
+Quest_Boss_Respawn_Interval Интервал появления квестовых боссов
+Beacon_Experience_Multiplier Опыт за зомби от генератора призыва зомби
+Full_Moon_Experience_Multiplier Опыт за зомби при полной луне
+Min_Drops Min выпадение
+Max_Drops Max выпадение
+Min_Mega_Drops Min выпадание из мега-зомби
+Max_Mega_Drops Max выпадание из мега-зомби
+Min_Boss_Drops Min выпадание из зомби-босса
+Max_Boss_Drops Max выпадание из зомби-босса
+Slow_Movement Замедление
+Can_Stun Можно оглушить
+Weapons_Use_Player_Damage Оружие наносит урон игрокам
+Only_Critical_Stuns Только критические попадания останавливают зомби
+
+Can_Target_Barricades Могут атаковать баррикады
+Can_Target_Structures Могут атаковать структуры
+Can_Target_Vehicles Могут атаковать транспорт
+
+Beacon_Max_Rewards Max кол-во предметов с генератора призыва зомби
+Beacon_Max_Participants Max кол-во участников генератора призыва зомби
+Beacon_Rewards_Multiplier Множитель генератора призыва зомби
+
+Has_Battery_Chance Шанс появления с аккумулятором
+Min_Battery_Charge Min заряд аккумулятора
+Max_Battery_Charge Max заряд аккумулятора
+Has_Tire_Chance  Шанс появления с колёсами
+
+Experience_Multiplier Количество опыта
+Detect_Radius_Multiplier Радиус обнаружения NPC
+Ray_Aggressor_Distance Дистанция фиксирования попадания
+
+Health_Regen_Min_Food Min кол-во еды для регенерации
+Health_Regen_Min_Water Min кол-во воды для регенерации
+Health_Regen_Ticks Скорость восстановления здоровья
+
+Food_Use_Ticks Интервал расходования еды
+Food_Damage_Ticks Интервал урона от голода
+
+Water_Use_Ticks Интервал расходования воды
+Water_Damage_Ticks Интервал урона от истощения
+
+Virus_Infect Порог уровня инфекции
+Virus_Use_Ticks Интервал расходования инфекции
+Virus_Damage_Ticks Интервал урона от инфекции
+
+Leg_Regen_Ticks Скорость восстановления ноги
+Bleed_Damage_Ticks Частота урона от кровотечения
+Bleed_Regen_Ticks Скорость восстановления крови
+
+Lose_Skills_PvP Потеря навыков после смерти (PvP)
+Lose_Skills_PvE Потеря навыков после смерти (PvE)
+Lose_Experience_PvP Потеря опыта после смерти (PvP)
+Lose_Experience_PvE Потеря опыта после смерти (PvE)
+Lose_Items_PvP Потеря предметов после смерти (PvP)
+Lose_Items_PvE Потеря предметов после смерти (PvE)
+Lose_Clothes_PvP Потеря одежды после смерти (PvP)
+Lose_Clothes_PvE Потеря одежды после смерти (PvE)
+Lose_Weapons_PvP Потеря оружия после смерти (PvE)
+Lose_Weapons_PvE Потеря оружия после смерти (PvP)
+
+Can_Hurt_Legs Можно повредить ноги
+Can_Break_Legs Можно сломать ноги
+Can_Fix_Legs Можно вылечить ноги
+Can_Start_Bleeding Можно кровоточить
+Can_Stop_Bleeding Можно залатать ранение
+
+Spawn_With_Max_Skills Максимальные навыки при спавне
+Spawn_With_Stamina_Skills Максимальные навыки выносливости при спавне
+Allow_Instakill_Headshots Разрешить мгновенные убийства в голову
+Allow_Per_Character_Saves Разрешить индивидуальное сохранение
+
+Rain_Frequency_Min Min частота дождя
+Rain_Frequency_Max Max частота дождя
+Rain_Duration_Min Min продолжительность дождя
+Rain_Duration_Max Max продолжительность дождя
+
+Snow_Frequency_Min Min частота снега
+Snow_Frequency_Max Max частота снега
+Snow_Duration_Min Min продолжительность снега
+Snow_Duration_Max Max продолжительность снега
+
+Weather_Frequency_Multiplier Множитель частоты погоды
+Weather_Duration_Multiplier Множитель продолжительности погоды
+
+Binary_State_Reset_Multiplier Множитель интервала восстановления
+Fuel_Reset_Multiplier Интервал восстановления топлива
+Water_Reset_Multiplier Интервал восстановления воды
+Resource_Reset_Multiplier Интервал восстановления ресурсов
+Resource_Drops_Multiplier Интервал восстановления выпадающих ресурсов
+Rubble_Reset_Multiplier Интервал восстановления металла
+Allow_Holiday_Drops Разрешить праздничный сброс груза
+
+Airdrop_Frequency_Min Min интервал сброса груза
+Airdrop_Frequency_Max Max интервал сброса груза
+Airdrop_Speed Скорость груза
+Airdrop_Force Сила груза
+
+Arena_Min_Players Min кол-во игроков для запуска арены
+Arena_Compactor_Damage Урон от границы на арене
+
+Arena_Clear_Timer Время очистки на арене
+Arena_Finale_Timer Время финала на арене
+Arena_Restart_Timer Время перезапуска арены
+
+Use_Airdrops Включить сброс груза
+Arena_Use_Compactor_Pause Включить паузы при движении границы арены
+
+Arena_Compactor_Delay_Timer Интервал движения границы на арене
+Arena_Compactor_Pause_Timer Интервал пауз границы на арене
+
+Arena_Compactor_Speed_Tiny Скорость движения границы на мелкой карте
+Arena_Compactor_Speed_Small Скорость движения границы на маленькой карте
+Arena_Compactor_Speed_Medium Скорость движения границы на средней карте
+Arena_Compactor_Speed_Large Скорость движения границы на большой карте
+Arena_Compactor_Speed_Insane Скорость движения границы на огромной карте
+Arena_Compactor_Shrink_Factor Фактор сокращения границы на арене
+
+Repair_Level_Max Max уровень ремонта
+Hitmarkers Есть индикаторы попадания
+Crosshair Есть прицел
+Ballistics Есть баллистика для пуль
+Chart Есть карта
+Satellite Есть GPS
+Compass Есть компас
+Group_Map Показывать группу на карте
+Group_HUD Показывать группу на HUD'e
+Group_Player_List Показывать группы в списке игроков
+Allow_Static_Groups Можно создать свои лобби
+Allow_Dynamic_Groups Можно создать свои группы
+Allow_Shoulder_Camera Камера от 3-го лица сбоку
+Can_Suicide Кнопка "Самоубийство" активна
+Friendly_Fire Огонь по своим
+Bypass_Buildable_Mobility Кровати и турели на транспорте
+Allow_Freeform_Buildables Разрешить сборку произвольной формы
+
+Timer_Exit Задержка при выходе
+Timer_Respawn Задержка перед возрождением
+Timer_Home Задержка перед возрождением дома
+Timer_Leave_Group Задержка перед выходом из группы
+Max_Group_Members Max кол-во игроков в группе
+
+Default Сбросить настройки
+Default_Tooltip Вернуть стандартные настройки
+
+Allow_Item_Placement_On_Vehicle Разрешить размещение предметов на транспортном средстве
+Allow_Trap_Placement_On_Vehicle Разрешить размещение ловушек на транспортном средстве
+Max_Item_Distance_From_Hull Max Максимальное расстояние предмета от корпуса
+Max_Trap_Distance_From_Hull Max Trap Максимальное расстояние ловушки от корпуса
+
+ThirdPerson_RecoilMultiplier Множитель отдачи от третьего лица
+ThirdPerson_SpreadMultiplier Множитель разброса от третьего лица

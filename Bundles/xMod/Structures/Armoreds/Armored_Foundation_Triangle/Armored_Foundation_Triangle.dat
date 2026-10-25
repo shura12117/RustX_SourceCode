@@ -1,0 +1,17 @@
+GUID 26268e8a3f1345afab03de471e7a8f3c
+Type Structure
+Useable Structure
+Construct Floor_Poly
+ID 7181
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

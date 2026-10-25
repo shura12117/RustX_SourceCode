@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "2f32aefcc341426c9337df966f55910f"
+	"Type" "RXS.RustX.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "xPack.masterbundle"
+		"Path" "Materials/Grass.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "ddef5d4b82ca441f8133ae875b686088"
+	}
+}

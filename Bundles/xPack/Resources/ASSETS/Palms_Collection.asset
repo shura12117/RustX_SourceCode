@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "7b6f49a341184ec6a1120fba2afe7645"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				// Palm_1
+				"GUID" "ec764d1e4e88425f8816fed97dfb72e5"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// Palm_2
+				"GUID" "83150feb4b6b40fcad16e687932f0e41"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// Palm_3
+				"GUID" "fc2445c75a904f4e937c48f7bebf91bc"
+			}
+			"Weight" "1"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+GUID 7c7501dac83f4141a02fd83fde3fee9b
+Type Vehicle
+Rarity Epic
+ID 5803
+
+Speed_Min -4
+Speed_Max 35
+
+Steer_Min 8
+Steer_Max 32
+
+Pitch_Drive 0.02
+
+Brake 32
+Lift 8
+
+Fuel 2000
+
+Health_Min 400
+Health_Max 600
+Health 600
+
+Exit 3
+
+Cam_Follow_Distance 7.5
+
+Air_Turn_Responsiveness 4
+Air_Steer_Min 32
+Air_Steer_Max 64
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Tires_Invulnerable
+Can_Be_Locked False
+Can_Steal_Battery False
+Battery_Burn_Rate -1
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 5427
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera

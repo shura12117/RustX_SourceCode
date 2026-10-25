@@ -1,0 +1,9 @@
+NoPermitsErrorText Не удалось найти разрешения.
+
+PermitsCommandText Permits
+PermitsInfoText Permits
+PermitsHelpText Это отображает список текущих игроков, которым разрешен вход на сервер.
+
+PermitsText Разрешения:
+PermitNameText ID игрока: {0} Тег: {1}
+PermitJudgeText ID судьи: {0}

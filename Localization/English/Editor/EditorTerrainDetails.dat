@@ -1,0 +1,30 @@
+MaxPreviewSamples Max Preview Samples
+
+DensityTarget Density Target
+BrushStrength Brush Strength [{0}]
+BrushFalloff Brush Falloff [{0}]
+BrushRadius Brush Radius [{0}]
+
+Mode_Paint Paint [{0}]
+Mode_Exact Exact [{0}]
+Mode_Bake Bake [{0}]
+Mode_Label Mode
+
+Bake_Cancel Bake Cancel
+Bake_Local Bake Nearby
+Bake_Global Bake Global
+Bake_Clear Bake Clear
+Bake_ApplyScale Bake Apply Scale
+Bake_Objects Bake Objects
+Bake_Resources Bake Resources
+Bake_InstancedMeshes Bake Instanced Meshes
+
+SelectedAsset Selected Asset [{0}]
+
+SearchType_Assets Assets
+SearchType_Collections Collections
+SearchType_Label Search Type
+
+SearchHint Name Filter
+
+Hint_Paint Remove: [{0}] Remove selected: [{1}] Remove baked: [{2}]

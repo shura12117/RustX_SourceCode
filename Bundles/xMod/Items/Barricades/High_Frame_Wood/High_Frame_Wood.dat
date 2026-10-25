@@ -1,0 +1,27 @@
+GUID af17c1fa4350465185bf913aa507e2b5
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 5250
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Health 500
+Range 8
+Radius 0.5
+Offset 5.5
+
+Explosion 36
+Fire_Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 3000
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27

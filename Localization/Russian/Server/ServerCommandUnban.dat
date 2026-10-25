@@ -1,0 +1,9 @@
+InvalidSteamIDErrorText Не удалось преобразовать {0} в Steam ID.
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось снять бан у игрока, так как сервер не запущен.
+
+UnbanCommandText Unban
+UnbanInfoText Unban [SteamID]
+UnbanHelpText Это удаляет указанного игрока из списка пользователей, которым запрещено присоединяться к серверу.
+
+UnbanText Успешно снят бан с {0}!

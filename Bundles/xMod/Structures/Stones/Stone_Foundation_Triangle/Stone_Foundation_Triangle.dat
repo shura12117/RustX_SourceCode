@@ -1,0 +1,15 @@
+GUID 65590b42fa4944fa8f33b50684ea499c
+Type Structure
+Useable Structure
+Construct Floor_Poly
+ID 7141
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36
+Armor_Tier 0

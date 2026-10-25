@@ -1,0 +1,14 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[ID предмета]/[Количество].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+InvalidItemIDErrorText Не удалось преобразовать {0} в ID предмета.
+
+NoItemIDErrorText Не удалось найти предмет с именем {0}.
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось выдать предмет игроку, когда выполнение не запущено.
+CheatsErrorText Не удалось выдать предмет с отключенными читами.
+
+GiveCommandText Give
+GiveInfoText Give [SteamID | Имя игрока]/[ID предмета]/[Количество]
+GiveHelpText Это выдает игроку предмет.
+
+GiveText Успешно выдано {0} {1} x{2}!

@@ -1,0 +1,104 @@
+"Metadata"
+{
+	"GUID" "c09428729fee490eb978d9158bda297e"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			//Дерево 1
+			"Asset"
+			{
+				"GUID" "879d1f1b046f4a8e9c8e31e3b3db80f3"
+			}
+			"Weight" "2"
+		}
+		{
+			//Дерево 2
+			"Asset"
+			{
+				"GUID" "721b4563fee34d9ebb53a20c2345cc4d"
+			}
+			"Weight" "2"
+		}
+		{
+			//Дерево 3
+			"Asset"
+			{
+				"GUID" "11a9b7ba6eda4b328d0e0d28e542ccb7"
+			}
+			"Weight" "2"
+		}
+		
+		{
+			//Камни_Сера
+			"Asset"
+			{
+				"GUID" "057c0a51e50f410cafdbb3e5675e7850"
+			}
+			"Weight" "0.35"
+		}
+		{
+			//Камни_Камень
+			"Asset"
+			{
+				"GUID" "08d4c26d327b497484ab3e84dd0b531e"
+			}
+			"Weight" "0.5"
+		}
+		{
+			//Камни_Металл
+			"Asset"
+			{
+				"GUID" "818f791c20624d0f96ce70eb00f2eca6"
+			}
+			"Weight" "0.45"
+		}
+		
+		{
+			//Трава Germany_03
+			"Asset"
+			{
+				"GUID" "b1672792b0334aedbeaca1853f2b42b9"
+			}
+			"Weight" "0.1"
+		}
+		
+		{
+			//Мухоморы
+			"Asset"
+			{
+				"GUID" "e1736a0de6f246d1880361f4189f7897"
+			}
+			"Weight" "3"
+		}
+		{
+			//Ткань
+			"Asset"
+			{
+				"GUID" "4a5dcf09013b47b193e59f719ed96a69"
+			}
+			"Weight" "0.5"
+		}
+		{
+			//Черника
+			"Asset"
+			{
+				"GUID" "717531faebc545e3929191d9bbf5971e"
+			}
+			"Weight" "0.2"
+		}
+		
+		{
+			//Камушки
+			"Asset"
+			{
+				"GUID" "e145629762c3442782d40a2fcd15e306"
+			}
+			"Weight" "0.8"
+		}
+	]
+}

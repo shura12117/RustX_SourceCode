@@ -1,0 +1,140 @@
+Space Не хватает места
+Item Поднять {0} [Нажмите {1}]
+Vehicle_Enter_Locked Сесть в {0} [Нажмите {1}] [Закрыто]
+Vehicle_Enter_Unlocked Сесть в {0} [{1}] [Открыто]
+Vehicle_Exit Выйти из транспорта [Нажмите {0}]
+Vehicle_Swap Пересесть [Нажмите F1-F{0}]
+Reload Перезарядка [Нажмите {0}]
+Safety Предохранитель [Нажмите {0}]
+Light Вкл/Выкл фонарь [Нажмите {0}]
+Laser Вкл/Выкл лазер [Нажмите {0}]
+Rangefinder Вкл/Выкл дальномер [Нажмите {0}]
+Enemy {0}
+Door_Open Открыть [Нажмите {0}]
+Door_Close Закрыть [Нажмите {0}]
+Locked Закрыто
+Blocked Заблокировано
+Pillar Не хватает столба
+Post Запрещено
+Roof Не хватает столбов
+Wall Не хватает столбов
+Corner Не хватает угла
+Ground Не хватает земли
+Doorway Не хватает дверного проема
+Garage Не хватает гаражного проема
+Window Не хватает оконного проема
+Bed_On Занять кровать [Нажмите {0}]
+Bed_Off Освободить кровать [Нажмите {0}]
+Bed_Claimed Занято
+Bounds Слишком близко к запрещенной зоне
+Experience +{0} опыта
+Storage Открыть хранилище [Нажмите {0}]
+Farm Собрать [Нажмите {0}]
+Grow Вырастить растение
+Soil Не хватает почвы
+Fire_On Зажечь [Нажмите {0}]
+Fire_Off Потушить [Нажмите {0}]
+Forage Собрать [Нажмите {0}]
+Generator_On Включить генератор [Нажмите {0}]
+Generator_Off Выключить генератор [Нажмите {0}]
+Spot_On Включить [Нажмите {0}]
+Spot_Off Выключить [Нажмите {0}]
+Empty Пустая
+Full Полная
+Moon_On Полнолуние началось!
+Moon_Off Полнолуние закончилось!
+Safezone_On Вы находитесь в зелёной зоне!
+Safezone_Off Вы покинули зелёную зону!
+Deadzone_On Вы находитесь в заражённой зоне!
+Deadzone_Off Вы покинули заражённую зону!
+Purchase Купить {0} за {1} [Нажмите {2}]
+Wave_On Зомби возвращаются, крепитесь!
+Wave_Off Зомби отступают, пока что...
+Power Не хватает энергии
+Use Использовать [Нажмите {0}]
+Salvage Собрать [Удерживайте {0}]
+Claim Территория занята
+Underwater Слишком влажно
+Nav Слишком далеко от города
+Spawn Слишком близко от точки появления игроков
+Mobile Нельзя установить на транспорт
+Oil Запасы нефти отсутствуют
+Volume_Water Запасы воды: {0}
+Volume_Fuel Запасы топлива:
+Busy Занят
+Trapdoor Не хватает потолка с отверстием
+Fuel Топливо: {0}%
+Clean Чисто
+Salty Солёно
+Dirty Грязно
+Talk Говорить [{0}]
+Reputation {0} Репутация
+Safezone Слишком близко к безопасной зоне
+Bayonet Штык-нож [{0}]
+Vehicle_Locked Закрыто [{0}]
+Vehicle_Unlocked Открыто [{0}]
+Build_On_Occupied_Vehicle Автомобиль занят
+Not_Allowed_Here Заблокировано
+Cannot_Build_On_Vehicle Невозможно установить на транспорте
+Too_Far_From_Hull Слишком далеко от корпуса
+Cannot_Build_While_Seated Невозможно установить сидя в транспорте
+Climb Залезть [{0}]
+PlacementObstructedBy Заблокировано: {0}
+PlacementObstructedByGround Не может быть установлено под землей
+FreeformBuildableNotAllowed Сборка произвольной формы запрещена
+NotPaintable Не краситься
+Limited Превышен лимит количества
+
+VehicleGear_Reverse R
+VehicleGear_Neutral N
+VehicleEngineStatus Передача: {0} Об/мин: {1}
+
+Chat_Global [Г] {0}: {1}
+Chat_Local [Л] {0}: {1}
+Chat_Group [К] {0}: {1}
+Chat_Welcome [П] {0}: {1}
+Chat_Say [С] {0}: {1}
+SendChat_Tooltip Отправить сообщение [{0}]
+
+Vote_Kick {0} [{1}] начал голосование против {2} [{3}]
+Votes_Needed Кол-во необходимых согласий для исключение: {0}
+Vote_Yes За [{0}] кол-во: {1}
+Vote_No Против [{0}] кол-во: {1}
+Vote_Off Голосование отключено на этом сервере
+Vote_Delay Вы должны подождать, прежде чем начинать новое голосование
+Vote_Players На сервере не хватает игроков для начала голосования
+Vote_Pass Голосование было успешно окончено!
+Vote_Fail Голосование было отменено!
+
+List_Joint_0 , 
+List_Joint_1  и 
+
+Arena_Lobby Ожидание игроков...
+Arena_Warm_Up Вы готовы к бою?!
+Arena_Play Игра началась!
+Arena_Died {0} умер!
+Arena_Abandoned {0} остался!
+Arena_Win {0} выиграл!
+Arena_Lose Игра окончена!
+Arena_Intermission Перерыв...
+
+Mode_Global Глобал
+Mode_Global_Tooltip Отправить всем игрокам [{0}]
+Mode_Local Локал
+Mode_Local_Tooltip Отправить ближайшим игрокам [{0}]
+Mode_Group Группа
+Mode_Group_Tooltip Отправить участникам вашей группы [{0}]
+
+Surrender Поднять руки
+Point Указать
+Wave Махать рукой
+Salute Козырнуть
+Rest Присесть
+Facepalm Рука-лицо
+Gesture_TPose Т-поза
+
+Round Волна: {0}
+Score Очки: {0}
+
+Stat_Tracker_Total_Kills Убито всего: {0}
+Stat_Tracker_Player_Kills Убито игроков: {0}

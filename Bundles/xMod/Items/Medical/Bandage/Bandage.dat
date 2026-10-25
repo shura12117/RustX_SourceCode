@@ -1,0 +1,20 @@
+GUID 347738716b7f400c8618d33732a7fca3
+Type Medical
+Useable Consumeable
+ID 5001
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 3
+
+Aid
+Bleeding
+Health 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 32

@@ -1,0 +1,16 @@
+﻿GUID 5fea28ac8f914258be90d9e8b0b80256
+Type Skin
+ID 20019
+
+Sight
+Tactical
+Grip
+Barrel
+Magazine
+
+Override_Meshes 1
+
+Secondary_Skins 1
+Secondary_0 5532
+Target_Item 5419
+Rarity 2

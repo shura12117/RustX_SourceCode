@@ -1,0 +1,28 @@
+GUID 4cff7d656984430a95eeaa59cf12bae1
+Type Magazine
+Rarity Uncommon
+ID 5542
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 30
+
+Calibers 1
+Caliber_0 5422
+
+Tracer 55
+Spread 1.15
+
+Range 4
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive

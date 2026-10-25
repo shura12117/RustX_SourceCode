@@ -1,0 +1,6 @@
+Stop_Button Стоп
+Stop_Button_Tooltip Пауза
+Close_Button Закрыть
+Close_Button_Tooltip Скрыть
+
+Volume_Slider_Label Громкость: {0}%

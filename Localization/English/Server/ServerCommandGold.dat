@@ -1,0 +1,7 @@
+RunningErrorText Failed to change prime status while running.
+
+GoldCommandText Prime
+GoldInfoText Prime
+GoldHelpText This marks the server as joinable only by Prime players.
+
+GoldText Successfully set prime status!

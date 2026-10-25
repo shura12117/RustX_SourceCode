@@ -1,0 +1,15 @@
+GUID a26a33a3f47e45e89f79ca40cdab2c37
+Type Structure
+Useable Structure
+Construct Rampart
+ID 7153
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36
+Armor_Tier 0

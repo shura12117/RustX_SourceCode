@@ -1,0 +1,19 @@
+GUID 8898e630e6554e6eb16efc4b74089e36
+Type Magazine
+Rarity Uncommon
+ID 40850
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 18
+Count_Min 4
+Count_Max 18
+
+Calibers 1
+Caliber_0 40868
+
+Tracer 48
+Spread 0.8
+Range 40

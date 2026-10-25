@@ -1,0 +1,16 @@
+Save_Button Сохранить
+Save_Button_Tooltip Сохранить
+
+Map_Button Создать GPS
+Map_Button_Tooltip Сделать снимок со спутника
+
+Chart_Button Нарисовать карту
+Chart_Button_Tooltip Создать картографию
+
+Legacy_Spawns Устаревшие появления
+Legacy_Spawns_Tooltip Экспорт таблиц устаревших появления
+Proxy_Spawns Новые появления
+Proxy_Spawns_Tooltip Экспорт таблиц новых появлений
+
+Exit_Button Отключиться
+Exit_Button_Tooltip Вернуться в главное меню

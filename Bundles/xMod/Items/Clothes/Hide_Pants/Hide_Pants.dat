@@ -1,0 +1,23 @@
+﻿GUID e5587f5ef0264a589a5ddc33d34c795a
+Type Clothes
+ClothesType Pants
+Rarity Uncommon
+ID 40554
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Width 0
+Height 1
+
+Armor 0.9
+
+Clothes_Mask Pants
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27

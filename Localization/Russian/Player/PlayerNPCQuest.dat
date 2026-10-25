@@ -1,0 +1,40 @@
+Conditions Задача:
+Rewards Награда:
+
+Condition_Experience {0}/{1} Опыт
+Condition_Reputation {0}/{1} Репутация
+Condition_Item {0}/{1} {2}
+Condition_Currency {0} Валюта
+
+Condition_AnimalKills {0}/{1} Убито животных
+Condition_HordeKills {0}/{1} Убито в режиме орды
+Condition_ObjectKills {0}/{1} Уничтожено обьектов
+Condition_PlayerKills {0}/{1} Убито игроков
+Condition_TreeKills {0}/{1} {2}
+Condition_ZombieKills {0}/{1} Убито зомби
+
+Reward_Experience {0} Опыт
+Reward_Reputation {0} Репутация
+Reward_Item {1} x{0}
+Reward_Item_Random Случайный предмет x{0}
+Reward_Vehicle {0} x1
+Reward_Currency {0} Валюта
+Reward_Health {0} Здоровье
+Reward_Food {0} Еда
+Reward_Water {0} Вода
+Reward_Virus {0} Иммунитет
+Reward_Stamina {0} Выносливость
+
+Accept Принять
+Accept_Tooltip Взять задание
+Decline Отклонить
+Decline_Tooltip Отказаться от задания
+Continue Завершить
+Continue_Tooltip Завершить задание
+Track_On Отображать
+Track_Off Не отображать
+Track_Tooltip (Не)Отображать задание на экране
+Abandon Отменить
+Abandon_Tooltip Отказаться от выполнения задания
+Return Закрыть
+Return_Tooltip Свернуть окно

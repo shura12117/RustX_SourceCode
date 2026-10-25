@@ -1,0 +1,13 @@
+SelectedType_Label Выбранный тип
+ActiveVisibility_Label Видимость
+
+Visibility_Hidden Скрыто
+Visibility_Wireframe Сетка
+Visibility_Solid Сплошной
+
+# todo move into per-volume-manager classes
+WantsUnderwaterEffects Включить подводные эффекты
+WantsWaterSurface Видимость поверхности воды
+RefreshCullingVolumes Обновить объекты
+RefreshCullingVolumes_Tooltip Обновите список объектов, находящихся внутри отбраковываемых объемов.
+PreviewCulling Preview Выбраковка

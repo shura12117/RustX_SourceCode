@@ -1,0 +1,15 @@
+GUID 5042b9a1b01f4f5e83564e02e3cb4e91
+Type Structure
+Useable Structure
+Construct Floor
+ID 7120
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Fire_Vulnerable

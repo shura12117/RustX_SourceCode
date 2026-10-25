@@ -1,0 +1,29 @@
+GUID 6d18126328484b4883cf87ca8f150f6e
+Type Charge
+Rarity Common
+Useable Barricade
+Build Charge
+ID 5224
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 8
+Offset 0.125
+
+Explosion 28
+
+Vulnerable
+Fire_Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 300
+Blueprint_0_Supply_1_ID 5314
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 27

@@ -1,0 +1,32 @@
+Hint_Remove Remove selected: [{0}]
+
+RepairEdges_Label Repair Edges
+RepairEdges_Tooltip Useful if an error has desynchronized heightmap edges between tiles. If that happens please report it as a bug!
+
+ApplyToAllTiles_Label Copy Layers to All Tiles
+ApplyToAllTiles_Tooltip Copy these materials to every terrain tile.
+ApplyToAllTiles_Confirm_Label Apply
+ApplyToAllTiles_Confirm_Tooltip Proceed with copy.
+ApplyToAllTiles_Deny_Label Cancel
+ApplyToAllTiles_Deny_Tooltip Do NOT copy.
+
+ResetSplatmap_Label Reset Materials
+ResetSplatmap_Tooltip Paint first layer material across tile.
+ResetSplatmap_Confirm_Label Reset
+ResetSplatmap_Confirm_Tooltip Proceed with material reset.
+ResetSplatmap_Deny_Label Cancel
+ResetSplatmap_Deny_Tooltip Do NOT reset materials.
+
+ResetHeightmap_Label Reset Heights
+ResetHeightmap_Tooltip Flatten terrain tile back to zero height.
+ResetHeightmap_Confirm_Label Reset
+ResetHeightmap_Confirm_Tooltip Proceed with height reset.
+ResetHeightmap_Deny_Label Cancel
+ResetHeightmap_Deny_Tooltip Do NOT reset heights.
+
+SelectedLayer Selected Layer
+LayerGuid Asset Guid
+ResetAsset Reset Asset
+
+LayerNull Empty
+LayerMissing Invalid

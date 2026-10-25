@@ -1,0 +1,8 @@
+NoPlayersErrorText Не удалось найти игроков.  
+
+PlayersCommandText Players
+PlayersInfoText Players
+PlayersHelpText Это отображает список текущих игроков на сервере.  
+
+PlayersText Игроки:  
+PlayerIDText ID игрока: {0} Имя: {1} Персонаж: {2} Пинг: {3}

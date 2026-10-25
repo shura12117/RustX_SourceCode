@@ -1,0 +1,25 @@
+﻿GUID e853c2896e69477fb15809d08b1032ca
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 5706
+
+Hair
+Beard
+
+Vision Headlamp
+
+Armor 0.9
+
+Clothes_Mask Face
+
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 15
+Blueprint_0_Supply_1_ID 5311
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Build 27

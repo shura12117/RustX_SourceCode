@@ -1,0 +1,22 @@
+GUID 806e6a4e4c1a4f8db59f1b1494d1c87c
+Type Resource
+ID 5938
+Category Barrel
+
+Health 500
+Radius 4
+Scale_Min 0.3
+Scale_Max 0.3
+
+Explosion 43
+Reward_ID 0
+Reward_Min 2
+Reward_Max 3
+
+BladeID 4
+
+No_Debris
+Reset 2000
+Reward_Damage false
+Reward_Destroy true
+Destroy_Auto_Pickup false

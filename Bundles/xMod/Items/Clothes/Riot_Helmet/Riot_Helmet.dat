@@ -1,0 +1,29 @@
+﻿GUID bb12e0b486b9476580d1bdb32cbf1ce2
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 5714
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.75
+
+Clothes_Mask Face
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 50
+Blueprint_0_Supply_1_ID 5312
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5307
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

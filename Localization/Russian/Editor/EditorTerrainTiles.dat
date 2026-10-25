@@ -1,0 +1,32 @@
+Hint_Remove Удалить выделенное: [{0}]
+
+RepairEdges_Label Починить края
+RepairEdges_Tooltip Полезно если края карты высот не синхронизированы между плитками. Если это произошло, сообщите об этом как об ошибке!
+
+ApplyToAllTiles_Label Копировать слои на все плитки
+ApplyToAllTiles_Tooltip Скопировать эти материалы на все плитки.
+ApplyToAllTiles_Confirm_Label Применить
+ApplyToAllTiles_Confirm_Tooltip Подтвердить копирование.
+ApplyToAllTiles_Deny_Label Отмена
+ApplyToAllTiles_Deny_Tooltip НЕ копировать.
+
+ResetSplatmap_Label Сбросить материалы
+ResetSplatmap_Tooltip Закрасить всю плитку первым слоем.
+ResetSplatmap_Confirm_Label Сбросить
+ResetSplatmap_Confirm_Tooltip Выполнить сброс материалов.
+ResetSplatmap_Deny_Label Отмена
+ResetSplatmap_Deny_Tooltip НЕ сбрасывать материалы.
+
+ResetHeightmap_Label Сбросить высоты
+ResetHeightmap_Tooltip Разровнять высоту плитки до нуля.
+ResetHeightmap_Confirm_Label Сбросить
+ResetHeightmap_Confirm_Tooltip Выполнить сброс высоты.
+ResetHeightmap_Deny_Label Отмена
+ResetHeightmap_Deny_Tooltip НЕ сбрасывать высоты.
+
+SelectedLayer Выбранный слой
+LayerGuid GUID объекта
+ResetAsset Сбросить объект
+
+LayerNull Пусто
+LayerMissing Инвалид

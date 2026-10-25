@@ -1,0 +1,11 @@
+Experience Опыт (Деньги): {0}
+Return Вернуться
+Return_Tooltip Окончить торговлю
+
+Buying Продать:
+Selling Купить:
+
+Amount_Buy {0}/{1}
+Amount_Sell x{0}
+Price Стоимость: {0}
+Cost Цена: {0}

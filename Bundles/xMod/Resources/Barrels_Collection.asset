@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "2e2feed0239343e88f9cc15f97d53ecd"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				// Barrel_Unique
+				"GUID" "350e9fb704fa473895a011f8bd9c7fcf"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// Barrel_Common
+				"GUID" "420bd5353a9d4152a04086a46aaad70d"
+			}
+			"Weight" "1"
+		}
+	]
+}

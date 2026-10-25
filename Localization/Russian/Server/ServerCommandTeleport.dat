@@ -1,0 +1,18 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[SteamID | Имя игрока | Местоположение].
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NoLocationErrorText Не удалось найти никого или место с именем {0}.
+NotRunningErrorText Не удалось телепортировать игрока, так как сервер не запущен.
+NoVehicleErrorText Не удалось телепортировать игрока, так как он находится в транспорте.
+
+TeleportCommandText Teleport
+TeleportInfoText Teleport [SteamID | Имя игрока]/[SteamID | Имя игрока | Местоположение]
+TeleportHelpText Это телепортирует игрока к другому игроку или на указанное место.
+
+TeleportText Успешно телепортирован {0} к {1}!
+TeleportObstructed Не удалось телепортировать {0}, так как {1} был заблокирован.
+
+WaypointCommand WP
+WaypointText точка на карте
+BedCommand Bed
+BedText кровать

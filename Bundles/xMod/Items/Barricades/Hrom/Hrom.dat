@@ -1,0 +1,16 @@
+GUID 569a66a2eccb4207be7282f577731437
+Type Charge
+Rarity Common
+Useable Barricade
+Build Charge
+ID 41416
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 8
+Offset 0.125
+
+Explosion 28

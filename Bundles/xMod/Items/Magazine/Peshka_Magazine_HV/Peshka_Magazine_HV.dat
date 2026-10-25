@@ -1,0 +1,19 @@
+GUID eacca31fdf324cdabe44b42d12a9d224
+Type Magazine
+Rarity Uncommon
+ID 5508
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 10
+Count_Min 4
+Count_Max 10
+
+Calibers 1
+Caliber_0 5407
+
+Tracer 48
+Spread 0.8
+Range 40

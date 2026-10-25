@@ -1,0 +1,19 @@
+SelectionBoxLabelText Выбрано
+
+WidthFieldLabelText Ширина
+HeightFieldLabelText Высота
+DepthFieldLabelText Глубина
+ConcreteToggleLabelText Твердость
+
+BakeRoadsButtonText Построить дороги
+BakeRoadsButtonTooltip Построить дороги
+
+ModeButtonTooltipText Режим
+OffsetFieldLabelText Смещение
+IgnoreTerrainToggleLabelText Игнорировать ландшафт
+LoopToggleLabelText Петля
+RoadIndexLabelText Индекс дороги
+
+Mirror Зеркально
+Aligned Ровно
+Free Свободно

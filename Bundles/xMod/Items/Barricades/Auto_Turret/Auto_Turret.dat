@@ -1,0 +1,41 @@
+GUID a0099f0341d3481f9d641af57d0a765b
+Type Sentry
+Rarity Epic
+Useable Barricade
+Build Sentry
+ID 5260
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 1000
+Range 4
+Radius 0.35
+Offset 0.35
+
+Storage_X 6
+Storage_Y 1
+Display
+Locked
+Mode Hostile
+Only_Floor
+Square_Limit 12
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+Infinite_Quality true
+Is_Auto_Reload true
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Supply_1_ID 5329
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5330
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27

@@ -1,0 +1,41 @@
+GUID 71dcf83f7d954f43b2f861e347e6feb3
+Type Barrel
+ID 5584
+
+Size_X 2
+Size_Y 2
+Size_Z 0.17
+
+Calibers 14
+Caliber_0 5405
+Caliber_1 5407
+Caliber_2 5408
+Caliber_3 5414
+Caliber_4 5415
+Caliber_5 5416
+Caliber_6 5417
+Caliber_7 5418
+Caliber_8 5419
+Caliber_9 5420
+Caliber_10 5421
+Caliber_11 5422
+Caliber_12 5423
+Caliber_13 5428
+Caliber_14 40868
+
+Durability 1
+
+Spread 1.8
+
+Recoil_X 0.5
+Recoil_Y 0.5
+Damage 0.85
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Build 27

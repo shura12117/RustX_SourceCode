@@ -1,0 +1,29 @@
+TableNameFieldLabelText Table
+AddTableButtonText Add
+AddTableButtonTooltip Create Table
+RemoveTableButtonText Sub
+RemoveTableButtonTooltip Remove Table
+
+SelectionBoxLabelText Selection
+
+TableIDFieldLabelText Spawn ID
+
+TierNameFieldLabelText Tier
+AddTierButtonText Add
+AddTierButtonTooltip Create Tier
+RemoveTierButtonText Sub
+RemoveTierButtonTooltip Remove Tier
+
+AnimalIDFieldLabelText ID
+AddAnimalButtonText Add
+AddAnimalButtonTooltip Create Animal
+RemoveAnimalButtonText Sub
+RemoveAnimalButtonTooltip Remove Animal
+
+RadiusSliderLabelText Radius
+
+AddButtonText Add [{0}]
+AddButtonTooltip Create Spawnpoint
+
+RemoveButtonText Sub [{0}]
+RemoveButtonTooltip Remove Spawnpoints

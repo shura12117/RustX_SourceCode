@@ -1,0 +1,28 @@
+﻿GUID 0c4cb78f388d45b387280c6fc9979a16
+Type Clothes
+ClothesType Shirt
+Rarity Uncommon
+ID 5710
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Width 0
+Height 1
+
+Armor 0.85
+
+Clothes_Mask Shirt
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 30
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5312
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

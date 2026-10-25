@@ -1,0 +1,22 @@
+﻿GUID 7486506f470b48809ef0ba73b3f9e39a
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 40522
+
+Size_X 2
+Size_Y 2
+Size_Z 0.23
+
+Beard
+
+Armor 0.9
+
+Clothes_Mask Face
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 27

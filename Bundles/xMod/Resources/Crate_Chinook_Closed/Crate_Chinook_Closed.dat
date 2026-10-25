@@ -1,0 +1,22 @@
+GUID e81ce63e91d4464da9f6ac7c1650985d
+Type Storage
+Useable Barricade
+Build Storage
+ID 5920
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 9999
+Range 4
+Radius 0.6
+Offset 0.75
+
+Storage_X 6
+Storage_Y 2
+
+Explosion 36
+Should_Close_When_Outside_Range true
+Proof_Explosion
+Server_Immortal

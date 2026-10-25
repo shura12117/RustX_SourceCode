@@ -1,0 +1,20 @@
+BrowseButtonText Мастерская
+BrowseButtonTooltip Открыть мастерскую
+SubmitButtonText Загрузить
+SubmitButtonTooltip Загрузить контент
+EditorButtonText Редактор
+EditorButtonTooltip Редактор карт
+ErrorButtonText Лог
+ErrorButtonTooltip Лог ошибок
+LocalizationButtonText Локализация
+LocalizationButtonTooltip Сравнить локализации
+SpawnsButtonText Таблица
+SpawnsButtonTooltip Таблица отладки
+ModulesButtonText Модули
+ModulesButtonTooltip Отобразить загруженные модули
+SubscriptionsButtonText Управление
+SubscriptionsButtonTooltip Управлять подписками
+DocsButtonText Документы
+DocsButtonTooltip Читать документацию для разработчиков
+
+Overlay Steam overlay должен быть включён!

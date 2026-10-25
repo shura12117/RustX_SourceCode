@@ -1,0 +1,17 @@
+GUID fd3100a67e6f48e7a5b7ac8d2c56aa8f
+Type Magazine
+Rarity Uncommon
+ID 5503
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Amount 8
+Count_Min 2
+Count_Max 8
+
+Calibers 1
+Caliber_0 5405
+
+Tracer 48

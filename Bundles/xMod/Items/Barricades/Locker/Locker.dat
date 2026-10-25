@@ -1,0 +1,36 @@
+GUID 5224dbcd14164a3bb526e14747f51825
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 5229
+
+Size_X 2
+Size_Y 2
+Size_Z 0.38
+
+Health 600
+Range 4
+Radius 0.5
+Offset 1.65
+
+
+Storage_X 6
+Storage_Y 4
+
+
+Explosion 29
+Should_Close_When_Outside_Range true
+Vulnerable
+No_Placement_On_Barricade
+Only_Floor
+Multiuser
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5319
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 200
+Blueprint_0_Build 27

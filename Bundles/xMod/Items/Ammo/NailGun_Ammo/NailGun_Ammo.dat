@@ -1,0 +1,21 @@
+GUID ae45f1ecf6f348fd96c7722709f20bcf
+Type Magazine
+Rarity Rare
+ID 40809
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 64
+
+Calibers 1
+Caliber_0 5403
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Products 5
+Blueprint_0_Build 27

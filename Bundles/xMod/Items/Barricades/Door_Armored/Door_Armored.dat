@@ -1,0 +1,28 @@
+GUID 22c64f54f2ad40eda1fc0ca8b93c434c
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Door
+ID 5204
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 1000
+Range 4
+Radius 1
+Offset 1.25
+
+Lockable
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Build 27

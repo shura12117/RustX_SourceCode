@@ -1,0 +1,71 @@
+"Metadata"
+{
+	"GUID" "4b412686eb464919ad9f9a09ec77f30b"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			//Зимнее дерево 1
+			"Asset"
+			{
+				"GUID" "3d96196d94564bd59300d459c64733a2"
+			}
+			"Weight" "1"
+		}
+		{
+			//Зимнее дерево 2
+			"Asset"
+			{
+				"GUID" "68bffa41aeac411fa57dabb177b64e18"
+			}
+			"Weight" "1"
+		}
+		
+		{
+			// Зимняя трава
+			"Asset"
+			{
+				"GUID" "bdcaaba29f6d44749d392418378fafd6"
+			}
+			"Weight" "0.1"
+		}
+		
+		{
+			//Камни_Сера
+			"Asset"
+			{
+				"GUID" "057c0a51e50f410cafdbb3e5675e7850"
+			}
+			"Weight" "0.35"
+		}
+		{
+			//Камни_Камень
+			"Asset"
+			{
+				"GUID" "08d4c26d327b497484ab3e84dd0b531e"
+			}
+			"Weight" "0.5"
+		}
+		{
+			//Камни_Металл
+			"Asset"
+			{
+				"GUID" "818f791c20624d0f96ce70eb00f2eca6"
+			}
+			"Weight" "0.45"
+		}
+		
+		{
+			//Камушки
+			"Asset"
+			{
+				"GUID" "e145629762c3442782d40a2fcd15e306"
+			}
+			"Weight" "0.8"
+		}
+	]
+}

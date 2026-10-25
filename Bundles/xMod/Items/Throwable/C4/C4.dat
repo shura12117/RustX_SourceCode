@@ -1,0 +1,40 @@
+GUID f48cbe7773e74c58b8865c8ff5e1eeb2
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 5024
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 10
+
+Player_Damage 550
+Zombie_Damage 550
+Animal_Damage 550
+Barricade_Damage 550
+Structure_Damage 270
+Vehicle_Damage 550
+Resource_Damage 550
+Object_Damage 550
+
+Range 4
+Explosion 41402
+Fuse_Length 10
+Weak_Throw_Force 550
+Strong_Throw_Force 550
+
+Explosive
+Sticky
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5328
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Supply_1_ID 5312
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 5323
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 32

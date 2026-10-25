@@ -1,0 +1,14 @@
+﻿GUID bd2aeefb1cc541e6ace34359134e3352
+Type Fisher
+Rarity Uncommon
+Useable Fisher
+ID 40612
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+EquipableModelParent LeftHook
+
+Reward_ID 2
+

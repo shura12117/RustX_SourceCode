@@ -1,0 +1,17 @@
+GUID c755c97b35f749e5953643f985a21454
+Type Magazine
+Rarity Uncommon
+ID 40849
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 18
+Count_Min 4
+Count_Max 18
+
+Calibers 1
+Caliber_0 40868
+
+Tracer 48

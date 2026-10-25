@@ -1,0 +1,28 @@
+﻿GUID 9cf9427383b7476cafaf8a7ad03cc71f
+Type Clothes
+ClothesType Vest
+Rarity Uncommon
+ID 5726
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 0
+Height 1
+
+Clothes_Mask Body
+
+Armor 0.25
+Armor_Arm 0.25
+Movement_Speed_Multiplier 0.6
+Block_Aim
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 5331
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27

@@ -1,0 +1,17 @@
+Cosmetics_Button Отобразить
+Cosmetics_Button_Tooltip Отобразить косметическую одежду
+Add_Button Надеть [Нажмите {0}]
+Add_Button_Tooltip Надеть на манекен предмет из рук
+Remove_Button Снять [Нажмите {0}]
+Remove_Button_Tooltip Снять с манекена всю одежду
+Swap_Button Сменить
+Swap_Button_Tooltip Сменить одежду
+Pose_Button_Tooltip Установить позу
+Mirror_Button Отразить
+Mirror_Button_Tooltip Сменить основную руку
+Cancel_Button Отмена
+Cancel_Button_Tooltip Закрыть меню
+
+T Т-поза
+Classic Классическая
+Lie Расслабленная

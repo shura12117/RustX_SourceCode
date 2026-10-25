@@ -1,0 +1,19 @@
+SelectionBoxLabelText Selection
+
+WidthFieldLabelText Width
+HeightFieldLabelText Height
+DepthFieldLabelText Depth
+ConcreteToggleLabelText Concrete
+
+BakeRoadsButtonText Bake Roads
+BakeRoadsButtonTooltip Generate Roads
+
+ModeButtonTooltipText Mode
+OffsetFieldLabelText Offset
+IgnoreTerrainToggleLabelText Ignore Terrain
+LoopToggleLabelText Loop
+RoadIndexLabelText Road Index
+
+Mirror Mirror
+Aligned Aligned
+Free Free

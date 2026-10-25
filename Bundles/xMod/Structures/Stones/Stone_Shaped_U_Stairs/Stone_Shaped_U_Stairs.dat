@@ -1,0 +1,14 @@
+GUID 779fe3391d9f4413b705c5028e0a846e
+Type Structure
+Useable Structure
+Construct Roof
+ID 7154
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36

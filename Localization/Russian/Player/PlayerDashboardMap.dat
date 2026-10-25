@@ -1,0 +1,22 @@
+Home_SlotFree_Content Свободный слот\nустановите claim
+Home_SlotFree_Label Доступно
+Home_SlotBlocked_Content Нет прав\nслот недоступен
+Home_SlotBlocked_Label Заблокировано
+Home_CombatBlock_Content Боевая блокировка\nтелепорт недоступен
+Home_RaidBlock_Content Рейд блокировка\nтелепорт недоступен
+Home_Unavailable_Label Недоступно
+Home_Cooldown_Label Оставшееся время
+Home_Available_Label Доступно
+Home_Teleport_Label Телепорт на дом
+
+Death_Distance {0} м
+Death_Killer_Bleeding Кровотечение
+Death_Killer_Bones Перелом
+Death_Killer_Food Голод
+Death_Killer_Water Жажда
+Death_Killer_Animal Животное
+Death_Killer_Infection Инфекция
+Death_Killer_Breath Удушье
+Death_Killer_Vehicle Транспорт
+Death_Weapon_Hands Руки
+Death_Weapon_Default Оружие

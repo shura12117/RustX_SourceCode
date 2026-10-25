@@ -1,0 +1,8 @@
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось снять админку у игрока, так как сервер не запущен.
+
+UnadminCommandText Unadmin
+UnadminInfoText Unadmin [SteamID | Имя игрока]
+UnadminHelpText Это удаляет указанного игрока из списка пользователей, которым разрешено использовать команды администратора в чате.
+
+UnadminText Успешно снята админка у {0}!

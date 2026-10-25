@@ -1,0 +1,30 @@
+﻿GUID 544c7b7b1cb8474089e33967059a3e82
+Type Clothes
+ClothesType Shirt
+Rarity Rare
+ID 5712
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Width 0
+Height 1
+
+Armor 0.8
+
+Clothes_Mask Shirt
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 40
+Blueprint_0_Supply_1_ID 5313
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5312
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

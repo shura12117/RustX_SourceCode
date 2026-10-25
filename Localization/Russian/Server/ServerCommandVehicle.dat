@@ -1,0 +1,14 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[ID транспорта].  
+InvalidNumberErrorText Не удалось преобразовать {0} в число.  
+InvalidVehicleIDErrorText Не удалось преобразовать {0} в VehicleID.  
+
+NoVehicleIDErrorText Не удалось найти транспортное средство с именем {0}.  
+NoPlayerErrorText Не удалось найти игрока с именем {0}.  
+NotRunningErrorText Не удалось выдать игроку транспортное средство, так как сервер не запущен.  
+CheatsErrorText Не удалось выдать транспортное средство, так как чит-коды отключены.  
+
+VehicleCommandText Vehicle
+VehicleInfoText Vehicle [SteamID | Имя игрока]/[ID транспорта]  
+VehicleHelpText Это выдает игроку транспортное средство.  
+
+VehicleText Успешно выдано {0} {1}!

@@ -1,0 +1,100 @@
+GUID 6d0425e3f9ad4ab3b7a4f561e693095b
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 5415
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Magazine 5522
+
+Ammo_Types 2
+Ammo_0_Stack 5565
+Ammo_0_Magazine 5522
+Ammo_1_Stack 5566
+Ammo_1_Magazine 5523
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 20
+Ammo_Max 20
+
+
+Auto
+
+Caliber 5415
+
+Range 150
+Firerate 462
+Unplace 0.18
+Replace 0.43
+Action Trigger
+
+Player_Damage 37
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 24
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 3.75
+Structure_Damage 15
+Vehicle_Damage 1.875
+Resource_Damage 15
+Object_Damage 15
+
+Durability 0.15
+
+Spread_Aim 0.02
+Spread_Hip 0.2
+
+Recoil_Min_X -0.4
+Recoil_Min_Y 1.5
+Recoil_Max_X 0.4
+Recoil_Max_Y 1.5
+
+
+
+Shake_Min_X -0.001
+Shake_Min_Y 0.001
+Shake_Min_Z -0.005
+Shake_Max_X 0.001
+Shake_Max_Y -0.001
+Shake_Max_Z -0.01
+
+Muzzle 3
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 5305
+Blueprint_1_Supply_0_Amount 10
+Blueprint_1_Supply_1_ID 5300
+Blueprint_1_Supply_1_Amount 100
+Blueprint_1_Supply_2_ID 5326
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 5321
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Build 27

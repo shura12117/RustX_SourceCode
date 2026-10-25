@@ -1,0 +1,35 @@
+TableNameFieldLabelText Table
+AddTableButtonText Add
+AddTableButtonTooltip Create Table
+RemoveTableButtonText Sub
+RemoveTableButtonTooltip Remove Table
+
+SelectionBoxLabelText Selection
+
+MegaToggleLabelText Mega
+HealthFieldLabelText Health
+DamageFieldLabelText Damage
+LootIndexFieldLabelText Loot Index
+LootIDFieldLabelText Loot ID
+XPFieldLabelText XP
+RegenFieldLabelText Regen
+DifficultyGUIDFieldLabelText Difficulty GUID
+
+ItemIDFieldLabelText ID
+AddItemButtonText Add
+AddItemButtonTooltip Create Item
+RemoveItemButtonText Sub
+RemoveItemButtonTooltip Remove Item
+
+RadiusSliderLabelText Radius
+
+AddButtonText Add [{0}]
+AddButtonTooltip Create Spawnpoint
+
+RemoveButtonText Sub [{0}]
+RemoveButtonTooltip Remove Spawnpoints
+
+Slot_0 Shirt
+Slot_1 Pants
+Slot_2 Hat
+Slot_3 Gear

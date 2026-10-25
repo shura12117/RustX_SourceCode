@@ -1,0 +1,12 @@
+GUID d4cab16d9fd54943a98539ae4f1cf7b9
+Type Supply
+ID 5311
+
+Amount 500
+
+Use_As_Ammo
+Use_As_Ammo_Multiplier 5
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25

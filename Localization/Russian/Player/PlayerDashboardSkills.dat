@@ -1,0 +1,199 @@
+Speciality_0_Tooltip Атака
+Speciality_1_Tooltip Защита
+Speciality_2_Tooltip Поддержка
+
+Speciality_0_Skill_0 Смертельный удар / Overkill
+Speciality_0_Skill_0_Tooltip Увеличивает силу удара в ближнем бою.
+Speciality_0_Skill_0_Level_1 +7% удар / ближний бой
+Speciality_0_Skill_0_Level_2 +14% удар / ближний бой
+Speciality_0_Skill_0_Level_3 +21% удар / ближний бой
+Speciality_0_Skill_0_Level_4 +29% удар / ближний бой
+Speciality_0_Skill_0_Level_5 +36% удар / ближний бой
+Speciality_0_Skill_0_Level_6 +43% удар / ближний бой
+Speciality_0_Skill_0_Level_7 +50% удар / ближний бой
+Speciality_0_Skill_1 Меткий стрелок / Sharpshooter
+Speciality_0_Skill_1_Tooltip Стабилизирует отдачу и увеличивает точность.
+Speciality_0_Skill_1_Level_1 +7% стабильность / точность
+Speciality_0_Skill_1_Level_2 +14% стабильность / точность
+Speciality_0_Skill_1_Level_3 +21% стабильность / точность
+Speciality_0_Skill_1_Level_4 +29% стабильность / точность
+Speciality_0_Skill_1_Level_5 +36% стабильность / точность
+Speciality_0_Skill_1_Level_6 +43% стабильность / точность
+Speciality_0_Skill_1_Level_7 +50% стабильность / точность
+Speciality_0_Skill_1_Levels_V2 +{0} Стабильность / +{0} Точность
+Speciality_0_Skill_2 Ловкость / Dexterity
+Speciality_0_Skill_2_Tooltip Увеличивает скорость перезарядки и ударов.
+Speciality_0_Skill_2_Level_1 +10% перезарядка / скорость удара
+Speciality_0_Skill_2_Level_2 +20% перезарядка / скорость удара
+Speciality_0_Skill_2_Level_3 +30% перезарядка / скорость удара
+Speciality_0_Skill_2_Level_4 +40% перезарядка / скорость удара
+Speciality_0_Skill_2_Level_5 +50% перезарядка / скорость удара
+Speciality_0_Skill_3 Кардио / Cardio
+Speciality_0_Skill_3_Tooltip Увеличивает скорость регенерации выносливости и кислорода.
+Speciality_0_Skill_3_Level_1 +10% скорость регенерации
+Speciality_0_Skill_3_Level_2 +20% скорость регенерации
+Speciality_0_Skill_3_Level_3 +30% скорость регенерации
+Speciality_0_Skill_3_Level_4 +40% скорость регенерации
+Speciality_0_Skill_3_Level_5 +50% скорость регенерации
+Speciality_0_Skill_4 Марафонец / Exercise
+Speciality_0_Skill_4_Tooltip Уменьшает растрату выносливости и увеличивает скорость движения.
+Speciality_0_Skill_4_Level_1 +5% скорость движения / +50% уменьшение растраты выносливости
+Speciality_0_Skill_4_Level_2 +10% скорость движения / +100% уменьшение растраты выносливости
+Speciality_0_Skill_4_Level_3 +15% скорость движения / +150% уменьшение растраты выносливости
+Speciality_0_Skill_4_Level_4 +20% скорость движения / +200% уменьшение растраты выносливости
+Speciality_0_Skill_4_Level_5 +25% скорость движения / +250% уменьшение растраты выносливости
+Speciality_0_Skill_5 Дайвинг / Diving
+Speciality_0_Skill_5_Tooltip Уменьшает растрату кислорода и увеличивает скорость движения в воде.
+Speciality_0_Skill_5_Level_1 +5% скорость плавания / +50% уменьшение растраты кислорода / +10% увеличение стабилизации оптики
+Speciality_0_Skill_5_Level_2 +10% скорость плавания / +100% уменьшение растраты кислорода / +20% увеличение стабилизации оптики
+Speciality_0_Skill_5_Level_3 +15% скорость плавания / +150% уменьшение растраты кислорода / +30% увеличение стабилизации оптики
+Speciality_0_Skill_5_Level_4 +20% скорость плавания / +200% уменьшение растраты кислорода / +40% увеличение стабилизации оптики
+Speciality_0_Skill_5_Level_5 +25% скорость плавания / +250% уменьшение растраты кислорода / +50% увеличение стабилизации оптики
+Speciality_0_Skill_6 Паркур / Parkour
+Speciality_0_Skill_6_Tooltip Увеличивает высоту прыжка и уменьшает растрату выносливости при прыжке.
+Speciality_0_Skill_6_Level_1 +5% увеличение высоты прыжка / +10% уменьшение растраты выносливости при прыжке
+Speciality_0_Skill_6_Level_2 +10% Увеличение высоты прыжка / +20% уменьшение растраты выносливости при прыжке
+Speciality_0_Skill_6_Level_3 +15% увеличение высоты прыжка / +30% уменьшение растраты выносливости при прыжке
+Speciality_0_Skill_6_Level_4 +20% увеличение высоты прыжка / +40% уменьшение растраты выносливости при прыжке
+Speciality_0_Skill_6_Level_5 +25% увеличение высоты прыжка / +50% уменьшение растраты выносливости при прыжке
+
+Speciality_1_Skill_0 Скрытность / Sneakybeaky
+Speciality_1_Skill_0_Tooltip Увеличивает тишину шага и уменьшает вероятность нападения зомби, когда вы крадётесь или ползёте.
+Speciality_1_Skill_0_Level_1 +11% скрытность
+Speciality_1_Skill_0_Level_2 +21% скрытность
+Speciality_1_Skill_0_Level_3 +32% скрытность
+Speciality_1_Skill_0_Level_4 +43% скрытность
+Speciality_1_Skill_0_Level_5 +54% скрытность
+Speciality_1_Skill_0_Level_6 +64% скрытность 
+Speciality_1_Skill_0_Level_7 +75% скрытность
+Speciality_1_Skill_1 Живучесть / Vitality
+Speciality_1_Skill_1_Tooltip Увеличивает скорость регенерации здоровья при полной шкале еды и воды.
+Speciality_1_Skill_1_Level_1 +10% скорость регенерации
+Speciality_1_Skill_1_Level_2 +20% скорость регенерации
+Speciality_1_Skill_1_Level_3 +30% скорость регенерации
+Speciality_1_Skill_1_Level_4 +40% скорость регенерации
+Speciality_1_Skill_1_Level_5 +50% скорость регенерации
+Speciality_1_Skill_2 Иммунитет / Immunity
+Speciality_1_Skill_2_Tooltip Увеличивает иммунитет к заражению от испорченной еды, галлюциногенов и зомби.
+Speciality_1_Skill_2_Level_1 +10% иммунитет к заражению
+Speciality_1_Skill_2_Level_2 +20% иммунитет к заражению
+Speciality_1_Skill_2_Level_3 +30% иммунитет к заражению
+Speciality_1_Skill_2_Level_4 +40% иммунитет к заражению
+Speciality_1_Skill_2_Level_5 +50% иммунитет к заражению
+Speciality_1_Skill_3 Стойкость / Toughness
+Speciality_1_Skill_3_Tooltip Уменьшает потрясывания экрана при получении урона.
+Speciality_1_Skill_3_Level_1 +15% уменьшение потрясывания
+Speciality_1_Skill_3_Level_2 +30% уменьшение потрясывания
+Speciality_1_Skill_3_Level_3 +45% уменьшение потрясывания
+Speciality_1_Skill_3_Level_4 +60% уменьшение потрясывания
+Speciality_1_Skill_3_Level_5 +75% уменьшение потрясывания
+Speciality_1_Skill_4 Сила / Strength
+Speciality_1_Skill_4_Tooltip Уменьшает длительность кровотечения и перелома кости, а также урон от падения.
+Speciality_1_Skill_4_Level_1 +10% уменьшение длительности кровотечения и перелома / +15% уменьшение урона от падения
+Speciality_1_Skill_4_Level_2 +20% уменьшение длительности кровотечения и перелома / +30% уменьшение урона от падения
+Speciality_1_Skill_4_Level_3 +30% уменьшение длительности кровотечения и перелома / +45% уменьшение урона от падения
+Speciality_1_Skill_4_Level_4 +40% уменьшение длительности кровотечения и перелома / +60% уменьшение урона от падения
+Speciality_1_Skill_4_Level_5 +50% уменьшение длительности кровотечения и перелома / +75% уменьшение урона от падения
+Speciality_1_Skill_5 Теплокровность / Warmblooded
+Speciality_1_Skill_5_Tooltip Защищает от холода, уменьшает количество затраты еды при замерзании.
+Speciality_1_Skill_5_Level_1 +20% увеличение защиты от холода
+Speciality_1_Skill_5_Level_2 +40% увеличение защиты от холода
+Speciality_1_Skill_5_Level_3 +60% увеличение защиты от холода
+Speciality_1_Skill_5_Level_4 +80% увеличение защиты от холода
+Speciality_1_Skill_5_Level_5 +100% увеличение защиты от холода
+Speciality_1_Skill_6 Выживание / Survival
+Speciality_1_Skill_6_Tooltip Уменьшает затраты воды и еды.
+Speciality_1_Skill_6_Level_1 +5% уменьшение затрат пищи
+Speciality_1_Skill_6_Level_2 +10% уменьшение затрат пищи
+Speciality_1_Skill_6_Level_3 +15% уменьшение затрат пищи
+Speciality_1_Skill_6_Level_4 +20% уменьшение затрат пищи
+Speciality_1_Skill_6_Level_5 +25% уменьшение затрат пищи
+
+Speciality_2_Skill_0 Лечение / Healing
+Speciality_2_Skill_0_Tooltip Увеличивает эффективность медикаментов.
+Speciality_2_Skill_0_Level_1 +7% увеличение эффективности
+Speciality_2_Skill_0_Level_2 +14% увеличение эффективности
+Speciality_2_Skill_0_Level_3 +21% увеличение эффективности
+Speciality_2_Skill_0_Level_4 +29% увеличение эффективности
+Speciality_2_Skill_0_Level_5 +36% увеличение эффективности
+Speciality_2_Skill_0_Level_6 +43% увеличение эффективности
+Speciality_2_Skill_0_Level_7 +50% увеличение эффективности
+Speciality_2_Skill_1 Создание / Crafting
+Speciality_2_Skill_1_Tooltip Увеличивает уровень создания предметов.
+Speciality_2_Skill_1_Level_1 самодельные предметы
+Speciality_2_Skill_1_Level_2 самодельные предметы / базовые предметы
+Speciality_2_Skill_1_Level_3 самодельные предметы / базовые предметы / комплексные предметы
+Speciality_2_Skill_2 Отшельничество / Outdoors
+Speciality_2_Skill_2_Tooltip Ускоряет добычу руды и деревьев.
+Speciality_2_Skill_2_Level_1 +10% ускорение добычи
+Speciality_2_Skill_2_Level_2 +20% ускорение добычи
+Speciality_2_Skill_2_Level_3 +30% ускорение добычи
+Speciality_2_Skill_2_Level_4 +40% ускорение добычи
+Speciality_2_Skill_2_Level_5 +50% ускорение добычи
+Speciality_2_Skill_3 Готовка / Cooking
+Speciality_2_Skill_3_Tooltip Увеличивает качество приготовленной еды.
+Speciality_2_Skill_3_Level_1 ииндигредиенты
+Speciality_2_Skill_3_Level_2 индигредиенты / закуски
+Speciality_2_Skill_3_Level_3 индигредиенты / закуски / официальные обеды
+Speciality_2_Skill_4 Рыбалка / Fishing
+Speciality_2_Skill_4_Tooltip Увеличивает эффективность ловли рыбы.
+Speciality_2_Skill_4_Level_1 +20% уменьшение времени на реакцию
+Speciality_2_Skill_4_Level_2 +40% уменьшение времени на реакцию
+Speciality_2_Skill_4_Level_3 +60% уменьшение времени на реакцию
+Speciality_2_Skill_4_Level_4 +80% уменьшение времени на реакцию
+Speciality_2_Skill_4_Level_5 +100% уменьшение времени на реакцию
+Speciality_2_Skill_5 Земледелие / Agriculture
+Speciality_2_Skill_5_Tooltip Увеличивает количество собранных растений и эффективность роста.
+Speciality_2_Skill_5_Level_1 14% увеличение эффективности сбора / +3% увеличение скорости роста
+Speciality_2_Skill_5_Level_2 29% увеличение эффективности сбора / +7% увеличение скорости роста
+Speciality_2_Skill_5_Level_3 43% увеличение эффективности сбора / +10% увеличение скорости роста
+Speciality_2_Skill_5_Level_4 57% увеличение эффективности сбора / +14% увеличение скорости роста
+Speciality_2_Skill_5_Level_5 71% увеличение эффективности сбора / +18% увеличение скорости роста
+Speciality_2_Skill_5_Level_6 86% увеличение эффективности сбора / +21% увеличение скорости роста
+Speciality_2_Skill_5_Level_7 100% увеличение эффективности сбора / +25% увеличение скорости роста
+Speciality_2_Skill_6 Механик / Mechanic
+Speciality_2_Skill_6_Tooltip Увеличивает эффективность ремонта построек и транспорта.
+Speciality_2_Skill_6_Level_1 +20% ускорение ремонта
+Speciality_2_Skill_6_Level_2 +40% ускорение ремонта
+Speciality_2_Skill_6_Level_3 +60% ускорение ремонта
+Speciality_2_Skill_6_Level_4 +80% ускорение ремонта
+Speciality_2_Skill_6_Level_5 +100% ускорение ремонта
+Speciality_2_Skill_7 Инженер / Engineer
+Speciality_2_Skill_7_Tooltip Увеличивает уровень создания и ремонта предметов.
+Speciality_2_Skill_7_Level_1 самодельные предметы
+Speciality_2_Skill_7_Level_2 самодельные предметы / базовые предметы
+Speciality_2_Skill_7_Level_3 самодельные предметы / базовые предметы / комплексные предметы
+
+Boost_0 Случайный навык
+Boost_0_Tooltip Получить случайный навык.
+Boost_1 Закалённый / Hardened
+Boost_1_Tooltip Уменьшает урон получаемый от зомби.
+Boost_1_Bonus +25% уменьшение урона от зомби
+Boost_2 Брызги / Splatterific
+Boost_2_Tooltip Увеличивает количество луж крови от врагов.
+Boost_2_Bonus +700% увеличение крови
+Boost_3 Полет / Flight
+Boost_3_Tooltip Откидывание при убийстве и домкратом.
+Boost_3_Bonus +700% откидывание трупов и транспорта
+Boost_4 Олимпиец / Olympic
+Boost_4_Tooltip Увеличивает дальность броска предметов.
+Boost_4_Bonus +100% увеличение броска
+
+Skill {0} [{1}]
+Bonus_Current Текущий уровень: {0} 
+Bonus_Next Следующий уровень: {0} 
+Cost Стоимость улучшения: {0}
+Full Максимальный уровень
+Experience Количество опыта: {0}
+
+Level_0 -
+Level_1 I
+Level_2 II
+Level_3 III
+Level_4 IV
+Level_5 V
+Level_6 VI
+Level_7 VII
+Level_8 VIII
+Level_9 IX
+Level_10 X

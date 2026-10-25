@@ -1,0 +1,20 @@
+GUID ff0acb3239af42f2a2f110f78797580f
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Sign
+ID 7961
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 9999
+Range 4
+Radius 0.5
+Offset 1.25
+
+Explosion 0
+Proof_Explosion
+
+Has_Clip_Prefab false

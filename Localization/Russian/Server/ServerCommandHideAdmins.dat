@@ -1,0 +1,7 @@
+RunningErrorText Не удалось скрыть администраторов во время работы.
+
+HideAdminsCommandText Hide_Admins
+HideAdminsInfoText Hide_Admins
+HideAdminsHelpText Это скрывает видимость меток администраторов от игроков.
+
+HideAdminsText Администраторы успешно скрыты.

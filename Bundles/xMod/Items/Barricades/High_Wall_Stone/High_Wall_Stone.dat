@@ -1,0 +1,29 @@
+GUID 6992be29bfb94fa2b43413cbd9332728
+Type Trap
+Useable Barricade
+Build Wire
+ID 5249
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 500
+Range 6
+Radius 0.5
+Offset 3.4
+
+Player_Damage 15
+Zombie_Damage 175
+Animal_Damage 175
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5301
+Blueprint_0_Supply_0_Amount 4000
+Blueprint_0_Supply_1_ID 5331
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 27

@@ -1,0 +1,12 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Задание].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось выдать задание игроку, когда сервер не запущен.
+CheatsErrorText Не удалось выдать задание с отключенными читами.
+
+QuestCommandText Quest
+QuestInfoText Quest [SteamID | Имя игрока]/[Задание]
+QuestHelpText Это выдает игроку задание.
+
+QuestText Задание {1} успешно выдано {0}!

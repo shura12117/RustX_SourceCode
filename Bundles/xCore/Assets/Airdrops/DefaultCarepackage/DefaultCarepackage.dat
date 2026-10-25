@@ -1,0 +1,185 @@
+﻿GUID b3199b8e6bc9496fb4a18371ce9c2144
+Type Spawn
+ID 2000
+
+Tables
+[
+	// === AMMO ===
+	{
+		// 5.56 Ammo
+		LegacyAssetId 5567
+		Weight 78
+	},
+	{
+		// 5.56 Explosive
+		LegacyAssetId 5568
+		Weight 13
+	},
+	{
+		// 9mm ammo
+		LegacyAssetId 5565
+		Weight 98
+	},
+	{
+		// Shotgun Shells
+		LegacyAssetId 5563
+		Weight 50
+	},
+	{
+		// Shotgun Slug
+		LegacyAssetId 5565
+		Weight 86
+	},
+	{
+		// 5.56 AmmoHV
+		LegacyAssetId 5569
+		Weight 13
+	},
+
+	// === GUNS ===
+	{
+		// Thompson
+		LegacyAssetId 5415
+		Weight 39
+	},
+	{
+		// Pump
+		LegacyAssetId 5411
+		Weight 39
+	},
+	{
+		// Custom SMG
+		LegacyAssetId 5414
+		Weight 39
+	},
+	{
+		// LR300
+		LegacyAssetId 5419
+		Weight 4
+	},
+	{
+		// MP5
+		LegacyAssetId 5416
+		Weight 18
+	},
+	{
+		// SPAS12
+		LegacyAssetId 5413
+		Weight 18
+	},
+	{
+		// Beretta
+		LegacyAssetId 5408
+		Weight 18
+	},
+	{
+		// M39
+		LegacyAssetId 5408
+		Weight 18
+	},
+	{
+		// Berdan
+		LegacyAssetId 5417
+		Weight 39
+	},
+
+	// === EXPLOSIVES ===
+	{
+		// Satchel Charge
+		LegacyAssetId 5023
+		Weight 49
+	},
+	{
+		// C4 (rare)
+		LegacyAssetId 5024
+		Weight 26
+	},
+	{
+		// F1
+		LegacyAssetId 5021
+		Weight 49
+	},
+
+	// === RESOURCES ===
+	{
+		// HQ Metal
+		LegacyAssetId 5305
+		Weight 56
+	},
+	{
+		// Scrap
+		LegacyAssetId 5316
+		Weight 56
+	},
+	
+	// === Tools ===
+	{
+		// Chainsaw
+		LegacyAssetId 5306
+		Weight 27
+	},
+	{
+		// Jackhammer
+		LegacyAssetId 5310
+		Weight 26
+	},
+	
+	// === COMPONENTS ===
+	{
+		// SHEET METAL
+		LegacyAssetId 5331
+		Weight 16
+	},
+	{
+		// Pipe
+		LegacyAssetId 5317
+		Weight 16
+    },
+	{
+		// Gears
+		LegacyAssetId 5318
+		Weight 16
+    },
+	{
+		// Tech_trash
+		LegacyAssetId 5323
+		Weight 16
+    },
+	
+	// === CLOTHES ===
+	{
+		// Rad_Mask
+		LegacyAssetId 5718
+		Weight 36
+	},
+	{
+		//  Road_Sign_Chestplate
+		LegacyAssetId 5721
+		Weight 37
+	},
+	{
+		// Pants
+		LegacyAssetId 5711
+		Weight 36
+	},
+	{
+		//  Riot_Helmet
+		LegacyAssetId 5714
+		Weight 36
+	},
+	{
+		//  Coffee_Helmet
+		LegacyAssetId 5712
+		Weight 36
+	},
+	{
+		//  Coffee_Helmet
+		LegacyAssetId 5712
+		Weight 36
+	},
+	{
+		// Hat_Bucket
+		LegacyAssetId 5713
+		Weight 36
+	}
+]

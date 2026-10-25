@@ -1,0 +1,25 @@
+﻿GUID 21b9136d9f1f4286bb4bb7280f4e2b52
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 5707
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Hair
+Beard
+
+Vision Military
+
+Clothes_Mask Face
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5323
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5305
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Build 27

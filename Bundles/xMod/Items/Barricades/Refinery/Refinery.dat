@@ -1,0 +1,44 @@
+GUID dc0ebdad7a3d47f98708e434dee830ba
+Type Furnace
+Rarity Rare
+Useable Barricade
+Build Furnace
+ID 5262
+
+Size_X 2
+Size_Y 2
+Size_Z 0.9
+
+Health 450
+Range 4
+Radius 0.5
+Offset 0.75
+
+Fuel_Item_ID 5300
+Burn_Product_ID 5308
+Bake_Effect_ID 6805
+Bake_Interval 3
+
+Fuel_Slots 2
+Input_Slots 4
+Output_Slots 5
+
+Bake_Items 1
+Bake_0_Remove 5310
+Bake_0_Add 5311
+
+Explosion 36
+Should_Close_When_Outside_Range true
+Server_Immortal
+Only_Ground
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 40
+Blueprint_0_Supply_1_ID 5307
+Blueprint_0_Supply_1_Amount 100
+Blueprint_0_Supply_2_ID 5311
+Blueprint_0_Supply_2_Amount 250
+Blueprint_0_Build 27

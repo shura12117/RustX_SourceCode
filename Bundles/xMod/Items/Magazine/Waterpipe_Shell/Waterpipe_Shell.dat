@@ -1,0 +1,18 @@
+GUID d0fd260cd7f94de888720a36cba6e88b
+Type Magazine
+Rarity Uncommon
+ID 5512
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Amount 1
+
+Calibers 2
+Caliber_0 5404
+Caliber_1 5409
+
+Pellets 6
+Tracer 48
+Delete_Empty

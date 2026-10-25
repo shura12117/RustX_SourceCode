@@ -1,0 +1,28 @@
+GUID 9a47bb9cb4c04fbaa1d82695ad0977ac
+Type Magazine
+Rarity Rare
+ID 5564
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 64
+
+Calibers 6
+Caliber_0 5404
+Caliber_1 5409
+Caliber_2 5410
+Caliber_3 5411
+Caliber_4 5412
+Caliber_5 5413
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 5309
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Products 2
+Blueprint_0_Build 27

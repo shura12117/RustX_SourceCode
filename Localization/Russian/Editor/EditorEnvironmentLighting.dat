@@ -1,0 +1,38 @@
+AzimuthSliderLabelText Азимут
+BiasSliderLabelText Смещение
+FadeSliderLabelText Затемнение
+Sea_Level_Slider_Label Уровень моря
+Snow_Level_Slider_Label Уровень снега
+Rain_Freq_Label Множитель частоты дождей
+Rain_Dur_Label Множитель длительности дождей
+Snow_Freq_Label Множитель частоты снежных бурь
+Snow_Dur_Label Множитель длительности снежных бурь
+WeatherPreview_Label Предпросмотр погоды
+Rain_Toggle_Label Дожди
+Snow_Toggle_Label Снегопады
+MoonSliderLabelText Луна
+TimeSliderLabelText Время
+
+Time_0 Рассвет
+Time_1 Полдень
+Time_2 Закат
+Time_3 Полночь
+
+Color_0 Солнце
+Color_1 Море
+Color_2 Туман
+Color_3 Верхние слоя неба
+Color_4 Средние слоя неба
+Color_5 Нижние слоя неба
+Color_6 Верхние слоя окружения
+Color_7 Средние слоя окружения
+Color_8 Нижние слоя окружения
+Color_9 Облака
+Color_10 Лучи
+Color_11 Освещение частиц
+
+Single_0 Интенсивность
+Single_1 Туман
+Single_2 Облака
+Single_3 Тени
+Single_4 Лучи

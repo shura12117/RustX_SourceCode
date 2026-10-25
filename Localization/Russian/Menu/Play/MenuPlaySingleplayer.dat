@@ -1,0 +1,68 @@
+Play_Button Играть
+Play_Button_Tooltip Начать играть
+Browse_Servers_Label Обзор серверов
+Browse_Servers_Tooltip Найти интернет-серверы с этой картой.
+
+Any_Button Любая сложность
+Easy_Button Легко
+Normal_Button Норма
+Hard_Button Сложно
+
+Config_Button Настроить
+Config_Button_Tooltip Изменить дополнительные настройки игры.
+
+Reset_Button Стереть сохранение
+Reset_Button_Tooltip Очистить карту от всех действий.
+Reset_Button_Confirm Да
+Reset_Button_Confirm_Tooltip Да, очистить карту.
+Reset_Button_Deny Нет
+Reset_Button_Deny_Tooltip Нет, не очищать карту.
+
+Maps_Official Основные
+Maps_Official_Tooltip Карты созданные Nelson'ом.
+Maps_Curated Курируемые
+Maps_Curated_Tooltip Картаы созданные игроками и одобренные Nelson'ом.
+Maps_Workshop Скачанные
+Maps_Workshop_Tooltip Карты созданные игроками.
+Maps_Misc Прочие
+Maps_Misc_Tooltip Карты созданные Nelson'ом или тестерами.
+
+Retired_View_Label Найти в мастерской
+Retired_View_Tooltip Найти карту в мастерской Steam.
+Retired_Manage_Sub Подписаться
+Retired_Manage_Unsub Отписаться
+Retired_Manage_Tooltip Автоматически устанавливать или удалять карту.
+Retired_Label УДАЛЕНО
+
+Manage_Workshop_Label Настроить подписки
+Manage_Workshop_Tooltip Открыть список подписок в мастерской Steam.
+
+Tiny Мелкая
+Small Маленькая
+Medium Средняя
+Large Большая
+Insane Огромная
+
+Curated_Map_Timed LIMITED
+Curated_Map_Timestamp {0}
+Curated_Map_Timestamp_Format MMM/dd/yy
+
+Cheats_Label Чит-коды
+
+Survival Выживание
+Horde Зомби [Альфа]
+Arena Арена
+
+Info_WithVersion {0} - {1} - v{2}
+
+Creators Создатель:
+Collaborators Помощники:
+Thanks Особая благодарность:
+Credits_Text Если вам понравилась карта {0}, то посетите {1}! Более подробную информацию можно найти на этой странице.
+Credits_Tooltip Нажмите здесь, чтобы перейти на страницу создателя.
+Timed_Text Эта карта была официально взаимствована из мастерской Steam до: <color=#00FF00>{0}</color> Затем она вернётся назад в мастерскую Steam.
+
+Feedback_Button Сообщить об ошибке
+Feedback_Button_Tooltip Нажмите здесь, чтобы перейти в дискуссию, посвящённую карте.
+
+Overlay Включите Steam Overlay!

@@ -1,0 +1,23 @@
+GUID 70b4b521b0664b4ea97dc23d8bb5023c
+Type Resource
+ID 5922
+Category Tree
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 99
+
+Reset 450
+
+Auto_Skybox
+
+SpeedTree
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
+Reward_Damage true
+Reward_Destroy true
+Destroy_Auto_Pickup true
+Bonus_Cross true

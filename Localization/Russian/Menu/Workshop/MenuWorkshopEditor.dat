@@ -1,0 +1,28 @@
+Name_Field_Label Название
+
+Add_Button Добавить
+Add_Button_Tooltip Создать карту.
+
+Remove_Button Удалить
+Remove_Button_Tooltip Удалить карту.
+Remove_Button_Confirm Да
+Remove_Button_Confirm_Tooltip Да, удалить карту.
+Remove_Button_Deny Нет
+Remove_Button_Deny_Tooltip Нет, не удалять карту.
+
+Edit_Button Редактировать
+Edit_Button_Tooltip Редактировать карту.
+Edit2_Button Редактировать (PRO)
+Edit2_Button_Tooltip Редактировать карту профессиональным редактором.
+
+BrowseFiles_Label Просмотреть файлы
+
+Tiny Мелкая
+Small Маленькая
+Medium Средняя
+Large Большая
+Insane Огромная
+
+VR_Label Размер комнаты для VR
+VR_Hint_0 Запустить с -VR для VR меню
+VR_Hint_1 Отключить рабочий стол!

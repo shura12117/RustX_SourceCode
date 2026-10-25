@@ -1,0 +1,16 @@
+GUID a7df79db2e3b46cbb8b260baf6d0ef07
+Type Structure
+Useable Structure
+Construct Wall_Half
+ID 7112
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

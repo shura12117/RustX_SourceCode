@@ -1,0 +1,24 @@
+Header Ваши подписки:
+Enable_Warning Обратите внимание, что включение и отключение файлов вступает в силу после перезапуска игры.
+No_Subscriptions Не подписан ни на какие файлы.
+
+Manage_Label Посмотреть в Steam Overlay
+Manage_Tooltip Перейти на страницу управления Steam Workshop.
+
+BrowseFiles_Label Посмотреть
+BrowseFiles_Tooltip Открыть папку "{0}".
+NotInstalledLabel Не установлено
+
+ItemState_NeedsUpdate Требуется обновление
+
+LocalTimestampLabel Местное время
+RemoteTimestampLabel Удаленное время
+
+View_Label Мастерская
+View_Tooltip Открыть {0} в Steam Workshop
+
+Subscribe_Label Переподписаться
+Subscribe_Tooltip Переподписаться на {0}
+
+Unsubscribe_Label Отписаться
+Unsubscribe_Tooltip Отписаться от {0}

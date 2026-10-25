@@ -1,0 +1,30 @@
+Name_Label Локация
+Radius_Label Радиус
+Width_Label Ширина
+Height_Label Высота
+Length_Label Длина
+Item_ID_Label ID
+Cost_Label Стоимость
+Spawn_ID_Label ID спавна
+Effect_ID_Label ID эффекта
+No_Water_Label Убрать воду
+No_Lighting_Label Убрать освещение
+No_Weapons_Label Убрать оружие
+No_Buildables_Label Убрать постройки
+
+Shape_Tooltip Форма
+Sphere Сфера
+Box Куб
+
+DeadzoneType_DefaultRadiation Обычная
+DeadzoneType_FullSuitRadiation Костюм
+DeadzoneType_Tooltip Тип мертвой зоны
+
+Type_Tooltip Тип
+Location Локация
+Safezone Безопасная зона
+Purchase Магазин
+Arena Арена
+Deadzone Мертвая зона
+Airdrop Сброс груза
+Effect Эффект

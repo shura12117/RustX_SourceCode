@@ -1,0 +1,10 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [ID набора навыков]/[ID предмета]/[ID предмета]/...
+
+InvalidSkillsetIDErrorText Не удалось преобразовать {0} в ID набора навыков.
+InvalidItemIDErrorText Не удалось преобразовать {0} в ID предмета.
+
+LoadoutCommandText Loadout
+LoadoutInfoText Loadout [ID набора навыков]/[ID предмета]/[ID предмета]/...
+LoadoutHelpText Это дает игрокам каждый предмет при появлении. Использование ID набора навыков 255 дает предмет всем.
+
+LoadoutText Успешно установлен набор предметов {0}!

@@ -1,0 +1,37 @@
+Mode_Paint Paint [{0}]
+Mode_Auto Auto [{0}]
+Mode_Smooth Smooth [{0}]
+Mode_Cut Cut [{0}]
+Mode_Label Mode
+
+BrushRadius Brush Radius [{0}]
+BrushFalloff Brush Falloff [{0}]
+BrushStrength Brush Strength [{0}]
+
+SmoothMethod_BrushAverage Brush Average
+SmoothMethod_PixelAverage Pixel Average
+SmoothMethod_Label Smooth Method
+
+AutoRayLength Ray Length
+AutoRayRadius Ray Radius
+UseAutoFoundation Use Auto Foundation
+
+MaxAngleRange Max Angle Range
+MinAngleRange Min Angle Range
+UseAutoSlope Use Auto Slope
+
+WeightTarget Weight Target [{0}]
+
+PreviewMethod_BrushAlpha Brush Alpha
+PreviewMethod_Weight Weight
+PreviewMethod_Label Preview Method
+
+MaxPreviewSamples Max Preview Samples
+HighlightHoles_Label Highlight Holes
+
+SelectedAsset Selected Asset [{0}]
+OnlyUsedMaterials Only In-use Materials
+SearchHint Name Filter
+
+Hint_Paint Remove selected: [{0}] Use weight target: [{1}] Sample material under cursor: [{2}]
+Hint_Cut Repair: [{0}]

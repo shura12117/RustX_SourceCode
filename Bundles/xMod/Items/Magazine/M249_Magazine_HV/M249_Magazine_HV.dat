@@ -1,0 +1,19 @@
+GUID 70add700af454bec96a43123a4b7e548
+Type Magazine
+Rarity Uncommon
+ID 5546
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 100
+Count_Min 40
+Count_Max 100
+
+Calibers 1
+Caliber_0 5423
+
+Tracer 48
+Spread 0.8
+Range 160

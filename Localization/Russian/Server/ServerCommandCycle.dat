@@ -1,0 +1,8 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+HordeErrorText Не удалось установить цикл на карте орды.
+ArenaErrorText Не удалось установить цикл на аренной карте.
+
+CycleCommandText Cycle
+CycleInfoText Cycle [Число]
+CycleText Успешно установлен цикл на {0}!
+CycleHelpText Это устанавливает длину цикла день/ночь в секундах.

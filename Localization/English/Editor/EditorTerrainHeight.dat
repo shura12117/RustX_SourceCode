@@ -1,0 +1,25 @@
+Mode_Adjust Raise/Lower [{0}]
+Mode_Flatten Flatten [{0}]
+Mode_Smooth Smooth [{0}]
+Mode_Ramp Ramp [{0}]
+Mode_Label Mode
+
+BrushRadius Brush Radius [{0}]
+BrushFalloff Brush Falloff [{0}]
+BrushStrength Brush Strength [{0}]
+
+SmoothMethod_BrushAverage Brush Average
+SmoothMethod_PixelAverage Pixel Average
+SmoothMethod_Label Smooth Method
+
+FlattenMethod_Regular Regular
+FlattenMethod_Min Min
+FlattenMethod_Max Max
+FlattenMethod_Label Flatten Method
+
+FlattenTarget Flatten Target [{0}]
+MaxPreviewSamples Max Preview Samples
+
+Hint_Adjust Lower: [{0}]
+Hint_Flatten Sample height under cursor: [{0}]
+Hint_Ramp Cancel: [{0}]

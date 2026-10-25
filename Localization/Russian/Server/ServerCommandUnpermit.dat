@@ -1,0 +1,9 @@
+InvalidSteamIDErrorText Не удалось преобразовать {0} в Steam ID.
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось снять разрешение у игрока, так как сервер не запущен.
+
+UnpermitCommandText Unpermit
+UnpermitInfoText Unpermit [SteamID]
+UnpermitHelpText Это удаляет указанного игрока из списка пользователей, которым разрешено присоединяться к серверу.
+
+UnpermitText Успешно снято разрешение у {0}!

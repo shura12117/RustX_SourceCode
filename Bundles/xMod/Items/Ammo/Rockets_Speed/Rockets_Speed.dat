@@ -1,0 +1,23 @@
+GUID d597621b2ed245618d0733722cc13dae
+Type Magazine
+Rarity Rare
+ID 5572
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Amount 12
+
+Calibers 1
+Caliber_0 5426
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5317
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5309
+Blueprint_0_Supply_1_Amount 150
+Blueprint_0_Products 1
+Blueprint_0_Build 27

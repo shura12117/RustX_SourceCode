@@ -1,0 +1,16 @@
+GUID 3928cc73892d49adb43e4514f89237c6
+Type Structure
+Useable Structure
+Construct Roof_Poly
+ID 7127
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

@@ -1,0 +1,298 @@
+Columns_Tooltip Измените отоброжаемые столбцы.
+
+Server_Button Сервер: {0} Карта: {1}
+Server_Players {0}/{1}
+
+Presets_Label Пресеты
+Presets_Tooltip Быстро сохраняйте и загружайте предпочтительные фильтры, используя пользовательские именные пресеты.
+
+DefaultPreset_Internet_Label Публичные по умолчанию
+DefaultPreset_LAN_Label Локальная сеть по умолчанию
+DefaultPreset_History_Label История по умолчанию
+DefaultPreset_Favorites_Label Избранные по умолчанию
+DefaultPreset_Friends_Label Друзья по умолчанию
+
+PresetName_Empty Пользовательский
+PresetName_Modified {0} (изменено)
+
+PresetNameField_Tooltip Имя, которое будет использоваться при создании нового пресета.
+PresetNameField_Hint Введите название
+NewPreset_Label Новый пресет
+NewPreset_Tooltip Создать пресет, используя текущие фильтры.
+DeletePreset_Label Удалить пресет
+DeletePreset_Tooltip Удалить пресет навсегда.
+DeletePreset_Confirm_Label Да
+DeletePreset_Confirm_Tooltip Вы уверены? Это не может быть отменено.
+DeletePreset_Deny_Label Нет
+DeletePreset_Deny_Tooltip Сохраните свой пресет.
+
+Name_Filter_Label Фильтр имени сервера
+Name_Filter_Toggle_Tooltip Переключить видимость фильтра имени сервера.
+Name_Filter_Tooltip Показывать только серверы с именем, содержащим этот текст. \nОбрабатывается как регулярное выражение, если указан префикс "regex:".
+Name_Filter_Hint Любое название
+
+Map_Filter_Label Фильтр имени карты
+Map_Filter_Hint Любая карта
+MapFilter_Button_EmptyLabel Любая карта
+MapFilter_Button_Tooltip Выбрать фильтры карты.
+MapFilter_Header_Label Фильтр карты сервера
+MapFilter_Header_Tooltip Текущие выбранные карты.
+MapFilter_ResetButton_Label Сбросить выбор
+MapFilter_ResetButton_Tooltip Изменить фильтр обратно на все карты.
+Map_Filter_Label Фильтр карты
+Map_Filter_Toggle_Tooltip Переключить видимость фильтра карты.
+
+Refresh_Label Обновить
+Refresh_Tooltip Найти серверы соответствующие фильтрам.
+Refresh_Cancel_Label Отмена
+Refresh_Cancel_Tooltip Отменить текущий поиск
+
+List_Label Список источников
+List_Toggle_Tooltip Переключить видимость фильтра списка источников.
+List_Internet_Label Публичные
+List_Internet_Tooltip Обновить список публичных серверов.
+List_LAN_Label Локальные
+List_LAN_Tooltip Обновить список локальных серверов.
+List_History_Label История
+List_History_Tooltip Обновить список посещённых серверов.
+List_Favorites_Label Избранные
+List_Favorites_Tooltip Обновить список любимых серверов.
+List_Friends_Label Друзья
+List_Friends_Tooltip Обновить список серверов с друзьями.
+
+MaxPing_Filter_Label Фильтр максимальной задержки
+MaxPing_Filter_Toggle_Tooltip Переключить видимость фильтра максимальной задержки.
+MaxPing_Filter_Tooltip Если значение не равно нулю, серверы с большей задержкой сети (ms) будут скрыты.
+
+HostingButtonText Хостинг
+HostingButtonTooltip Прочитайте документацию по хостингу серверов.
+CurationButtonText Кураторство
+CurationButtonTooltip Управление списками качества и модерации.
+
+ViewPresetsButton_Label Пресеты
+ViewPresetsButton_Open_Label Открыть пресеты
+ViewPresetsButton_Close_Label Закрыть пресеты
+ViewPresetsButton_Tooltip Переключить видимость пресетов.
+QuickFiltersButton_Open_Label Открыть фильтры
+QuickFiltersButton_Close_Label Закрыть фильтры
+QuickFiltersButton_Label Простые фильтры
+QuickFiltersButton_Tooltip Изменить фильтры прямо из списка серверов.
+PresetsEditorButton_Label Редактировать присеты:\n{0}
+PresetsEditorButton_Tooltip Изменить фильтры или пользовательские присеты.
+QuickFiltersVisibilityButton_Open_Label Открыть простые фильтры
+QuickFiltersVisibilityButton_Close_Label Закрыть простые фильтры
+QuickFiltersVisibilityButton_Tooltip Измените отображаемые здесь фильтры.
+
+Password_Filter_Label Фильтр защиты паролем
+Password_Filter_Toggle_Tooltip Переключить видимость фильтра защиты паролем.
+Any_Password_Button Любое наличие пароля
+Password_Filter_Any_Tooltip Показывать серверы с паролем и без.
+Yes_Password_Button С паролем
+Password_Filter_Yes_Tooltip Показывать только серверы с паролем.
+No_Password_Button Без пароля
+Password_Filter_No_Tooltip Показывать только серверы без пароля.
+
+Workshop_Filter_Label Фильтр использования модов
+Workshop_Filter_Toggle_Tooltip Переключить видимость фильтра использования модов.
+Any_Workshop_Button Любые моды
+Workshop_Filter_Any_Tooltip Показывать серверы с модами и без.
+Yes_Workshop_Button С модами
+Workshop_Filter_Yes_Tooltip Показывать только серверы с модами.
+No_Workshop_Button Без модов
+Workshop_Filter_No_Tooltip Показывать только серверы без модов.
+
+Plugins_Filter_Label Фильтр использования плагинов
+Plugins_Filter_Toggle_Tooltip Переключить видимость фильтра использования плагинов.
+Any_Plugins_Button Любые плагины
+Plugins_Filter_Any_Tooltip Показывать серверы с плагинами и без.
+Yes_Plugins_Button С плагинами
+Plugins_Filter_Yes_Tooltip Показывать только серверы с плагинами.
+No_Plugins_Button Без плагинов
+Plugins_Filter_No_Tooltip Показывать только серверы без плагинов.
+
+Attendance_Filter_Label Фильтр заполненности
+Attendance_Filter_Toggle_Tooltip Переключить видимость фильтра заполненности.
+Any_Attendance_Button Любой заполненность
+Attendance_Filter_Any_Tooltip Показывать серверы с игроками и без.
+Empty_Button Без игроков
+Attendance_Filter_Empty_Tooltip Показывать только серверы без игроков.
+HasPlayers_Button С игроками
+Attendance_Filter_HasPlayers_Tooltip Показывать только серверы с игроками.
+
+Space_Filter_Label Фильтр свободных слотов
+Space_Filter_Toggle_Tooltip Переключить видимость фильтра  свободных слотов.
+Any_Space_Button Любые слоты
+Space_Filter_Any_Tooltip Показывать сервера со свободным слотами и без.
+Space_Button Есть свободное слоты
+Space_Filter_HasSpace_Tooltip Показывать только серверы со свободными слотами.
+
+VAC_Filter_Label Фильтр защищенности\nVAC
+VAC_Filter_Toggle_Tooltip Переключить видимость фильтра защищенности VAC.
+VAC_Any_Button Любой VAC
+VAC_Filter_Any_Tooltip Показывать серверы с VAC и без.
+VAC_Secure_Button VAC
+VAC_Filter_Secure_Tooltip Показывать только серверы с VAC.
+VAC_Insecure_Button Без VAC
+VAC_Filter_Insecure_Tooltip Показывать только серверы без VAC.
+
+BattlEye_Filter_Label Фильтр защищенности\nBattlEye
+BattlEye_Filter_Toggle_Tooltip Переключить видимость фильтра защищенности BattlEye.
+BattlEye_Any_Button Любой BattlEye
+BattlEye_Filter_Any_Tooltip Показывать серверы с BattlEye и без.
+BattlEye_Secure_Button BattlEye
+BattlEye_Filter_Secure_Tooltip Показывать только серверы с BattlEye.
+BattlEye_Insecure_Button Без BattlEye
+BattlEye_Filter_Insecure_Tooltip Показывать только серверы без BattlEye.
+
+Combat_Filter_Label Фильтр режимов игры
+Combat_Filter_Toggle_Tooltip Переключить видимость фильтра режимов игры.
+Any_Combat_Button Любой режим
+Combat_Filter_Any_Tooltip Показывать серверы с PvP и PvE.
+PvP_Button PvP
+Combat_Filter_PvP_Tooltip Показывать только серверы с PvP.
+PvE_Button PvE
+Combat_Filter_PvE_Tooltip Показывать только серверы с PvE.
+
+Cheats_Filter_Label Фильтр чит-кодов администратора
+Cheats_Filter_Toggle_Tooltip Переключить видимость фильтра чит-кодов администратора.
+Any_Cheats_Button Любые чит-коды
+Cheats_Filter_Any_Tooltip Показывать серверы где администраторы используют чит-коды и нет.
+Yes_Cheats_Button Используют чит-коды
+Cheats_Filter_Yes_Tooltip Показывать только серверы где администраторы используют чит-коды.
+No_Cheats_Button Не испоьзуют чит-коды
+Cheats_Filter_No_Tooltip Показывать только серверы где не администраторы используют чит-коды.
+
+Gold_Filter_Label Фильтр премиум статуса
+Gold_Filter_Toggle_Tooltip Переключить видимость фильтра премиум статуса.
+Gold_Filter_Any_Label Любой статус
+Gold_Filter_Any_Tooltip Показывать серверы с премиум статусом и без.
+Gold_Filter_DoesNotRequireGold_Label Без премиум статуса
+Gold_Filter_DoesNotRequireGold_Tooltip Показывать только серверы без премиум статуса.
+Gold_Filter_RequiresGold_Label Премиум статус
+Gold_Filter_RequiresGold_Tooltip Показывать только серверы с премиум статусом.
+
+Perspective_Filter_Label Фильтр режима камеры
+Perspective_Filter_Toggle_Tooltip Переключить видимость фильтра режима камеры.
+Any_Camera_Button Любая перспектива
+Perspective_Filter_Any_Tooltip Показывать серверы от 1-го лица, 3-го лица и 3-го лица в транспорте.
+First_Button От 1-го лица
+Perspective_Filter_FirstPerson_Tooltip Показывать только серверы от 1-го лица.
+Third_Button От 3-го лица
+Perspective_Filter_ThirdPerson_Tooltip Показывать только серверы от 3-го лица.
+Both_Button От 1-го и 3-го лица
+Perspective_Filter_Both_Tooltip Показывать только серверы от 1-го и 3-го лица.
+Vehicle_Button От 3-го лица в транспорте
+Perspective_Filter_Vehicle_Tooltip Показывать только серверы от 3-го лица в транспорте.
+
+Monetization_Filter_Label Фильтр монетизации
+Monetization_Filter_Toggle_Tooltip Переключить видимость фильтра монетизации.
+Monetization_Any_Button Любая монетизация
+Monetization_Filter_Any_Tooltip Показывать серверы с монетизацией и без.
+Monetization_None_Button Без монетизации
+Monetization_Filter_None_Tooltip Показывать только серверы без монетизации.
+Monetization_NonGameplay_Button Неигровая монетизация
+Monetization_Filter_NonGameplay_Tooltip Показывать только серверы с неигровой монетизацией.
+
+Any_Map Любая карта
+
+No_Servers Сервера по вашим запросам не найдены!
+No_Servers_Hint Возможно, ваши фильтры слишком специфичны?
+No_Servers_CuratorsHint Кураторы заблокировали {0} серверов. Возможно, кто-то блокирует слишком много?
+Reset_Filters Сбросить фильтры
+Reset_Filters_Tooltip Изменить настройки фильтрации на значения по умолчанию.
+
+Sort_Name Название
+Sort_Name_Tooltip Сортировать по названию сервера.
+
+Sort_Map Карта
+Sort_Map_Tooltip Сортировать по названию карты.
+Map_Column_Toggle_Label Карта
+Map_Column_Toggle_Tooltip Переключить видимость столбца с картой.
+
+Sort_Players Игроки
+Sort_Players_Tooltip Сортировать по количеству игроков.
+Players_Column_Toggle_Label Игроки
+Players_Column_Toggle_Tooltip Переключить видимость столбца с количеством игроков.
+
+Sort_Ping Пинг
+Sort_Ping_Tooltip Сортировать по задержке.
+Ping_Column_Toggle_Label Пинг
+Ping_Column_Toggle_Tooltip Переключить видимость столбца с задержкой.
+
+Anticheat_Column_Label Античит
+Anticheat_Column_Tooltip Сортировать по наличию античита.
+Anticheat_Column_Toggle_Label Античит
+Anticheat_Column_Toggle_Tooltip Переключить видимость столбца с наличием античита.
+Anticheat_Column_BattlEye_Tooltip BattlEye
+Anticheat_Column_VAC_Tooltip VAC
+Anticheat_Column_Both_Tooltip VAC и BattlEye
+Anticheat_Column_None_Tooltip Без VAC и BattlEye
+
+Perspective_Column_Tooltip Сортировать по перспективе.
+Perspective_Column_Toggle_Label Перспектива
+Perspective_Column_Toggle_Tooltip Переключить видимость столбца с перспективой.
+Perspective_Column_First_Tooltip От 1-го лица
+Perspective_Column_Third_Tooltip От 3-го лица
+Perspective_Column_Both_Tooltip От 1-го и 3-го лица
+Perspective_Column_Vehicle_Tooltip От 3-го лица в транспорте
+
+Combat_Column_Tooltip Сортировать по режимам.
+Combat_Column_Toggle_Label Режимы
+Combat_Column_Toggle_Tooltip Переключить видимость столбца с режимами.
+Combat_Column_PvP_Tooltip PvP
+Combat_Column_PvE_Tooltip PvE
+
+Password_Column_Tooltip Сортировать по наличию пароля.
+Password_Column_Toggle_Label Пароль
+Password_Column_Toggle_Tooltip Переключить видимость столбца с наличием пароля.
+Password_Column_Yes_Tooltip С паролем
+Password_Column_No_Tooltip Без пароля
+
+Workshop_Column_Tooltip Сортировка по наличию модов.
+Workshop_Column_Toggle_Label Моды
+Workshop_Column_Toggle_Tooltip Переключить видимость столбца с наличием модов.
+Workshop_Column_Yes_Tooltip С модами
+Workshop_Column_No_Tooltip Без модов
+
+MaxPlayers_Column_Label Максимум игроков
+MaxPlayers_Column_Tooltip Сортировать по максимальному количеству игроков.
+MaxPlayers_Column_Toggle_Label Максимум игроков
+MaxPlayers_Column_Toggle_Tooltip Переключить видимость столбца с максимальным количества игроков.
+
+Fullness_Column_Label Заполнен- ность в %
+Fullness_Column_Tooltip Сортировать по текущему количеству игроков в процентах, от максимального количества игроков сервера.
+Fullness_Column_Toggle_Label Процент заполненности
+Fullness_Column_Toggle_Tooltip Переключить видимость столбца процента заполненности.
+
+Gold_Column_Tooltip Сортировка по наличию премиум статуса.
+Gold_Column_Toggle_Label Премиум
+Gold_Column_Toggle_Tooltip Переключить видимость столбца с премиум статусом.
+Gold_Column_Yes_Tooltip Премиум статус
+Gold_Column_No_Tooltip Без премиум статуса
+
+Cheats_Column_Tooltip Сортировка по использованию чит-кодов администраторми.
+Cheats_Column_Toggle_Label Чит-коды
+Cheats_Column_Toggle_Tooltip Переключить видимость столбца с изспользованием чит-кодов администраторами.
+Cheats_Column_Yes_Tooltip Администраторы используют чит-коды
+Cheats_Column_No_Tooltip Администраторы не используют чит-коды
+
+Monetization_Column_Tooltip Сортировать по наличию монетизации.
+Monetization_Column_Toggle_Label Монетизация
+Monetization_Column_Toggle_Tooltip Переключить видимость столбца с наличием монетизации.
+Monetization_Column_Unspecified_Tooltip Любая монетизация
+Monetization_Column_NonGameplay_Tooltip Неигровая монетизация
+Monetization_Column_Monetized_Tooltip С монетизацией
+Monetization_Column_None_Tooltip Без монетизации
+
+Plugins_Column_Tooltip Сортировка по использованию плагинов.
+Plugins_Column_Toggle_Label Плагины
+Plugins_Column_Toggle_Tooltip Переключить видимость столбца с использованием плагинов.
+Plugins_Column_None_Tooltip Без плагинов
+Plugins_Column_Rocket_Tooltip RocketMod плагины
+Plugins_Column_OpenMod_Tooltip OpenMod плагины
+Plugins_Column_Unknown_Tooltip Неизвестные плагины
+
+Favorite_On_Button_Tooltip Добавить в избранные
+Favorite_Off_Button_Tooltip Убрать из избранных
+
+BlockedByCurator_Tooltip {0}: {1}

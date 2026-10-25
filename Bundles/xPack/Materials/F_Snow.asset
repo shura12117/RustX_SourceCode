@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "3e6910cbb03948089c63fd45e5c3d162"
+	"Type" "RXS.RustX.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "xPack.masterbundle"
+		"Path" "Materials/Snow.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "4b412686eb464919ad9f9a09ec77f30b"
+	}
+}

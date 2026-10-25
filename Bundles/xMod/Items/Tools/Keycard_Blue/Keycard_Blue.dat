@@ -1,0 +1,10 @@
+GUID aedf753a336141929e95ddefbf61f746
+Type Melee
+ID 3767
+
+Amount 1
+Override_Show_Quality
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35

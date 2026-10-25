@@ -1,0 +1,99 @@
+FOV_Slider_LabelV2_Name Поле зрения
+FOV_Slider_LabelV2_Value [↔{0}°] [↕{1}°]
+Volume_Slider_Label Громкость игры [{0}%]
+Voice_Slider_Label Громкость голоса [{0}%]
+Loading_Screen_Music_Volume_Slider_Label Громкость музыки [{0}%]
+Debug_Toggle_Label Счетчик FPS & Пинг
+Music_Toggle_Label Музыка
+Splashscreen_Toggle_Label Заставка
+Timer_Toggle_Label Предупреждающий таймер
+Physics_Toggle_Label Звуки
+Gore_Toggle_Label Кровь
+
+
+Filter_Toggle_Label Фильтрация чата
+Filter_Toggle_Tooltip Разжигание ненависти подвергается цензуре независимо от того, включен ли фильтр ненормативной лексики.
+
+Chat_Text_Toggle_Label Текстовый чат
+Chat_Voice_In_Toggle_Label Слышать других игроков
+Chat_Voice_Out_Toggle_Label Говорить в игре через микрофон
+VoiceAlwaysRecording_Label Держать микрофон готовым
+VoiceAlwaysRecording_Tooltip Приглушает а не останавливает запись в начале и конце избегая обрывов.
+ShowOutboundVoiceChatOffHint_Label Показывать подсказку "Исходящий голос отключен"
+ShowOutboundVoiceChatOffHint_Tooltip Отображает значок отключения звука в HUD, когда исходящий голосовой чат отключен.
+Hints_Toggle_Label Индикатор попадания
+ClickBlueprintToCraft_Label Создание в один клик
+ClickBlueprintToCraft_Tooltip Пропускает панель сведений проекта в меню создания.
+Ambience_Toggle_Label Атмосфера дня и ночи
+Streamer_Toggle_Label Режим стримера
+AnonymizeMultiplayerDetails_Label Режим стримера
+AnonymizeMultiplayerDetails_Tooltip Полезно в прямом эфире, чтобы предотвратить стримснайпинг.
+HideRichPresence_Label Скрыть присутствие\nна сервере в Steam
+HideRichPresence_Tooltip Не позволяет игрокам присоединиться к вам и скрывает ваш статус в игре.
+Featured_Workshop_Toggle_Label Рекомендуемый контент
+Show_Hotbar_Toggle_Label Показать предметы на горячих клавишах
+Pause_When_Unfocused_Label Пауза при нажатии\nAlt + Tab
+Nametag_Fade_Out_Label Исчезание тегов\nс именами
+Nametag_Fade_Out_Tooltip Делает метки имен членов группы более прозрачными возле центра перекрестия.
+ScreenshotSizeMultiplier_Label Множитель разрешения скриншота
+ScreenshotSizeMultiplier_Tooltip Более высокие значения требуют значительно больше времени для рендеринга.
+ScreenshotSupersampling_Label Включить суперсэмплинг скриншотов
+ScreenshotSupersampling_Tooltip Рендеринг скриншотов с 2х суперсэмплингом для уменьшения алиасинга.
+ScreenshotsWhileLoading_Label Показывать скриншоты на экране загрузки
+ScreenshotsWhileLoading_Tooltip Включает ваши собственные скриншоты на экране начальной загрузки.
+
+UseStaticCrosshair_Label Регулировка прицела
+UseStaticCrosshair_Tooltip Настраивайте размер перекрестия, а не используйте рассчитанный на основе разброса.
+StaticCrosshairSize_Label Размер перекрестия
+CrosshairShape_Line Линейная
+CrosshairShape_Classic Классичесая
+CrosshairShape_Label Форма перекрестия
+
+Metric_On Метрическая
+Metric_Off Имперская
+Metric_Tooltip Влияет на то в каких единицах отображается расстояние и скорость.
+Metric_Label Система измерения
+
+Talk_On Мгновенный разговор
+Talk_Off Постепенный разговор
+Talk_Tooltip Мгновенный отключает диалоговые паузы и побуквенную анимацию.
+Talk_Label Отображение текста NPS
+
+UI_Free Светлый интерфейс
+UI_Pro Темный интерфейс
+UI_Tooltip Светлый более полезен в сочетании с параметрами цвета пользовательского интерфейса из Gold Upgrade.
+UI_Label Цвет интерфейса
+
+Hitmarker_Static Статический маркер
+Hitmarker_Dynamic Динамический маркер
+Hitmarker_Tooltip Статический привязывает попадания к перекрестью прицела, тогда как динамический показывает их в месте по которому попали.
+Hitmarker_Label Фиксация маркера попадания
+HitmarkerStyle_Animated Анимированный
+HitmarkerStyle_Classic Классический
+HitmarkerStyle_Label Стиль маркера попадания
+
+VehicleThirdPersonCameraMode_RotationDetached Отвязать камеру
+VehicleThirdPersonCameraMode_RotationAttached Привязать камеру
+VehicleThirdPersonCameraMode_Label Стиль камеры от третьего лица в транспорте
+AircraftThirdPersonCameraMode_Label Стиль камеры от третьего лица в транспорте при полете
+FlashbangBrightness_Label Интенсивность светошумовой гранаты [{0}]
+CameraShakeIntensity_Label Интенсивность сотрясения камеры взрывом [{0}]
+SprintFovBoostIntensity_Label Изменение поля зрения при беге [{0}]
+
+DamageFlinchMode_RollOnly Только-поворот
+DamageFlinchMode_Directional Направленный
+DamageFlinchMode_Label Режим вздрагивания
+DamageFlinchIntensity_Label Интенсивность вздрагивания [{0}]
+
+Crosshair_Box Цвет прицела
+Hitmarker_Box Цвет индикатора попадания
+Critical_Hitmarker_Box Цвет индикатора крита
+Cursor_Box Цвет курсора
+Background_Box Цвет фона интерфейса
+Foreground_Box Цвет основы интерфейса
+Font_Box Цвет текста
+Shadow_Box Цвет тени
+Bad_Color_Box Цвет негатива
+
+DontShowOnlineSafetyMenuAgain_Label Больше не показывать меню "Безопасность в сети".
+DontShowOnlineSafetyMenuAgain_Tooltip Если включино, меню "Безопасность в сети" не будет отображаться при следующем открытии многопользовательского режима.

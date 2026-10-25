@@ -1,0 +1,49 @@
+GUID 32d6d4e75b6542b7a4bed494899087ec
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Secondary
+ID 40008
+
+Size_X 2
+Size_Y 2
+Size_Z 0.9
+	
+Range 3
+Strong 0.375
+Strength 1.5
+Stamina 10
+
+Player_Damage 35
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2.0
+
+Zombie_Damage 34
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 35
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 12
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 40
+Object_Damage 35
+
+Durability 0.1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5301
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Supply_1_ID 5611
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

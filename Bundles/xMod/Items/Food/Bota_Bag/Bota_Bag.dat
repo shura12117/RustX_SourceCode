@@ -1,0 +1,20 @@
+GUID 841e7aaa8063495f9af4087ad4495bb5
+Type Refill
+Rarity Uncommon
+Useable Refill
+ID 5010
+
+Size_X 2
+Size_Y 2
+Size_Z 0.38
+
+Quality_Min 100
+Quality_Max 100
+
+Water 35
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27

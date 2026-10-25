@@ -1,0 +1,10 @@
+# Большие бинарные файлы ресурсов Unity (>100MB, GitHub лимит)
+*.resS
+*.resource
+
+# Временные файлы
+*.tmp
+Thumbs.db
+.DS_Store
+# ������� ������ Unity (>100MB, ����� GitHub)
+*.masterbundle

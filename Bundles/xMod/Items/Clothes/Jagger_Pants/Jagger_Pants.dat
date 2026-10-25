@@ -1,0 +1,26 @@
+﻿GUID 429d4f24985347bda954563bb1d5a1e8
+Type Clothes
+ClothesType Pants
+Rarity Uncommon
+ID 5725
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 0
+Height 1
+
+Armor 0.25
+Movement_Speed_Multiplier 0.8
+
+Clothes_Mask Pants
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 5331
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

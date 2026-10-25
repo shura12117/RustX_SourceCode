@@ -1,0 +1,8 @@
+NightCommandText Night
+NightInfoText Night
+NightHelpText Это устанавливает текущее время на ночь.  
+NotRunningErrorText Не удалось установить ночь, так как сервер не запущен.  
+HordeErrorText Не удалось установить время на карте орды.  
+ArenaErrorText Не удалось установить время на карте арены.  
+
+NightText Время успешно установлено на ночь!

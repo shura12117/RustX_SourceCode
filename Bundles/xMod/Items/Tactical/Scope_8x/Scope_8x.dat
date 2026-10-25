@@ -1,0 +1,37 @@
+GUID b2956623d5884131abc7efe4a67d21e2
+Type Sight
+ID 5589
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 5
+Recoil_Y 5
+
+Zoom 8
+
+Paintable
+
+Calibers 19
+Caliber_0 5402
+Caliber_1 5409
+Caliber_2 5410
+Caliber_3 5411
+Caliber_4 5413
+Caliber_5 5414
+Caliber_6 5415
+Caliber_7 5416
+Caliber_8 5417
+Caliber_9 5418
+Caliber_10 5419
+Caliber_11 5420
+Caliber_12 5421
+Caliber_13 5422
+Caliber_14 5423
+Caliber_15 5428
+Caliber_16 5408
+Caliber_17 5406
+Caliber_18 5407
+
+

@@ -1,0 +1,7 @@
+RunningErrorText Не удалось включить PvE во время работы.
+
+PvECommandText PvE
+PvEInfoText PvE
+PvEHelpText Это отключает бой между игроками в пользу боя с окружающей средой.
+
+PvEText PvE успешно включен.

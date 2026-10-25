@@ -1,0 +1,7 @@
+RunningErrorText Не удалось изменить статус Prime во время работы сервера.
+
+GoldCommandText Prime
+GoldInfoText Prime
+GoldHelpText Помечает сервер как доступный только игрокам с Prime.
+
+GoldText Статус Prime установлен!

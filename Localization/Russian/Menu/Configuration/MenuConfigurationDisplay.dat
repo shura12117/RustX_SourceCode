@@ -1,0 +1,12 @@
+Buffer_Toggle_Label Вертикальная синхронизация
+User_Interface_Scale_Field_Label Размер интерфейса
+UseTargetFrameRate_Toggle_Label Ограничить частоту кадров
+TargetFrameRate_Field_Label Максимальная\nчастота кадров
+UseUnfocusedTargetFrameRate_Toggle_Label Ограничить частоту кадров свёрнутой игры
+UnfocusedTargetFrameRate_Field_Label Максимальная\nчастота кадров\nсвёрнутой игры
+
+Fullscreen_Mode_Label Режим экрана
+Fullscreen_Mode_Tooltip Фактор отображения игры на экране
+Fullscreen_Mode_Exclusive Полноэкранный
+Fullscreen_Mode_Borderless Оконный без рамки
+Fullscreen_Mode_Windowed Оконный

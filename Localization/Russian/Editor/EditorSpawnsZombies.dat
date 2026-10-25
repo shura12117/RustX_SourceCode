@@ -1,0 +1,35 @@
+TableNameFieldLabelText Таблица
+AddTableButtonText Создать
+AddTableButtonTooltip Создать таблицу
+RemoveTableButtonText Удалить
+RemoveTableButtonTooltip Удалить таблицу
+
+SelectionBoxLabelText Выбрано
+
+MegaToggleLabelText Мега
+HealthFieldLabelText Здоровье
+DamageFieldLabelText Урон
+LootIndexFieldLabelText Индекс добычи
+LootIDFieldLabelText ID добычи
+XPFieldLabelText Опыт
+RegenFieldLabelText Регенерация
+DifficultyGUIDFieldLabelText Сложность GUID
+
+ItemIDFieldLabelText ID
+AddItemButtonText Добавить
+AddItemButtonTooltip Добавить предмет
+RemoveItemButtonText Удалить
+RemoveItemButtonTooltip Удалить предмет
+
+RadiusSliderLabelText Радиус
+
+AddButtonText Добавить [{0}]
+AddButtonTooltip Добавить точку появления
+
+RemoveButtonText Удалить [{0}]
+RemoveButtonTooltip Удалить точку появления
+
+Slot_0 Тело
+Slot_1 Ноги
+Slot_2 Голова
+Slot_3 Снаряжение

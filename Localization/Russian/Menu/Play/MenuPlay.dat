@@ -1,0 +1,10 @@
+ConnectButtonText Подключение
+ConnectButtonTooltip Подключиться напрямую по коду сервера или по IP и порту.
+ServersButtonText Сетевая игра
+ServersButtonTooltip Просмотреть список серверов для игры по сети.
+ServerBookmarksButtonText Закладки
+ServerBookmarksButtonTooltip Просмотреть серверы добавленные в закладки.
+SingleplayerButtonText Одиночная игра
+SingleplayerButtonTooltip Оффлайн без других игроков.
+LobbiesButtonText Лобби
+LobbiesButtonTooltip Сформировать группу из друзей, чтобы присоединиться к одному серверу.

@@ -1,0 +1,11 @@
+LightingButtonText Lighting
+LightingButtonTooltip Day/Night
+
+RoadsButtonText Roads
+RoadsButtonTooltip Paver
+
+NavigationButtonText Navigation
+NavigationButtonTooltip Pathfinding
+
+NodesButtonText Nodes
+NodesButtonTooltip Ambience

@@ -1,0 +1,12 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Репутация].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось присвоить репутацию игроку, когда сервер не работает.
+CheatsErrorText Не удалось присвоить репутацию с отключенными читами.
+
+ReputationCommandText Reputation
+ReputationInfoText Reputation [SteamID | Имя игрока]/[Репутация]
+ReputationHelpText Это дает игроку определенное количество репутации.
+
+ReputationText Успешно присвоено {0} {1} репутации!

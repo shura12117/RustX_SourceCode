@@ -1,0 +1,36 @@
+Type_Tooltip Тип объекта
+Type_Item Предметы
+Type_Vehicle Транспорт
+Type_Animal Животные
+
+View_Button Просмотр
+View_Button_Tooltip Искать ID
+Raw_Button Копировать
+Raw_Button_Tooltip Копировать элемент
+New_Button Добавить
+New_Button_Tooltip Создать новый элемент
+Write_Button Записать
+Write_Button_Tooltip Записать в файл
+Add_Root_Spawn_Button Добавить
+Add_Root_Spawn_Button_Tooltip Добавить точку появления
+Remove_Root_Button Удалить
+Remove_Root_Button_Tooltip Удалить точку появления 
+Add_Table_Asset_Button Добавить
+Add_Table_Asset_Button_Tooltip Добавить новую таблицу
+Add_Table_Spawn_Button Добавить
+Add_Table_Spawn_Button_Tooltip Добавить новую таблицу
+Remove_Table_Button Удалить
+Remove_Table_Button_Tooltip Удалить таблицу
+Apply_Weights_Button Сохранить вес
+Apply_Weights_Button_Tooltip Рассчитать шанс процента
+
+ID_Field_Hint ID или GUID
+
+Roots_Box {0} - Основы
+Roots_Box_Tooltip Элементы основы
+
+Tables_Box {0} - Таблицы
+Tables_Box_Tooltip Элементы таблицы
+
+Weight_Tooltip Вес
+Chance_Tooltip Шанс

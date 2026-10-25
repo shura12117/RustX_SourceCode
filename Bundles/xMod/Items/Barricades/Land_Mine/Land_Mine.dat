@@ -1,0 +1,44 @@
+GUID 3eaad581033c48b59e48670735fe92ec
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 5246
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.075
+
+Player_Damage 91
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 8
+Explosion2 41218
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+No_Placement_On_Barricade
+Only_Ground
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 50
+Blueprint_0_Supply_1_ID 5309
+Blueprint_0_Supply_1_Amount 30
+Blueprint_0_Build 32

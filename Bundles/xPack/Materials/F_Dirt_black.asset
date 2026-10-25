@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "adb87339c541470f927c84a8e90dc156"
+	"Type" "RXS.RustX.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "xPack.masterbundle"
+		"Path" "Materials/Dirt_black.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "c1d8e4cb4f594426915bccbcd1cade29"
+	}
+}

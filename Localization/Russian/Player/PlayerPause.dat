@@ -1,0 +1,45 @@
+Return_Button_Text Продолжить
+Return_Button_Tooltip Возобновить игру
+Options_Button_Text Опции
+Options_Button_Tooltip Опции
+Graphics_Button_Text Графика
+Graphics_Button_Tooltip Графика
+Display_Button_Text Дисплей
+Display_Button_Tooltip Дисплей
+Controls_Button_Text Управление
+Controls_Button_Tooltip Управление
+Audio_Button_Text Звук
+Audio_Button_Tooltip Звук
+Exit_Button_Text Отключиться
+Exit_Button_Timer Ожидайте [{0}]
+Exit_Button_Tooltip Вернуться в главное меню
+Quit_Button Выйти
+Quit_Button_Timer Ожидайте [{0}]
+Quit_Button_Tooltip Выйти на рабочий стол
+Suicide_Button_Text Самоубийство
+Suicide_Button_Tooltip Покончить с собой
+Suicide_Button_Confirm Да
+Suicide_Button_Confirm_Tooltip Да, я грешник
+Suicide_Button_Deny Нет
+Suicide_Button_Deny_Tooltip Нет, я передумал
+Suicide_Disabled  
+
+Spy_Refresh_Button_Text Шпионить
+Spy_Refresh_Button_Tooltip Обновить снимок с экрана игрока
+Spy_Slay_Button_Text Заблокировать
+Spy_Slay_Button_Tooltip Убить, а затем заблокировать игрока
+
+Server_WithVersion {0} v{1} на {2} [{3}]
+VAC_Secure VAC
+VAC_Insecure No VAC
+BattlEye_Secure BattlEye
+BattlEye_Insecure No BattlEye
+Streamer Режиме стримера
+Offline Не в сети
+
+Favorite_On_Button_Text Добавить
+Favorite_Off_Button_Text Удалить
+Favorite_Button_Tooltip Добавить или удалить из списка избранных серверов
+
+Quicksave_Button Быстрое сохранение
+Quicksave_Button_Tooltip Ручное сохранение

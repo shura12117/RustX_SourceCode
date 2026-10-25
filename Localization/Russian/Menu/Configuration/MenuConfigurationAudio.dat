@@ -1,0 +1,15 @@
+Volume_Slider_Label Общая громкость [{0}]
+Game_Volume_Slider_Label Громкость игры [{0}]
+Unfocused_Volume_Slider_Label Громкость свёрнутой игры [{0}]
+Music_Master_Volume_Slider_Label Громкость музыки [{0}]
+Loading_Screen_Music_Volume_Slider_Label Громкость музыки на экране загрузки [{0}]
+Death_Music_Volume_Slider_Label Громкость музыки смерти[{0}]
+Main_Menu_Music_Volume_Slider_Label Громкость музыки в главном меню[{0}]
+Ambient_Music_Volume_Slider_Label Громкость фоновой\nмузыки в игре [{0}]
+Voice_Slider_Label Громкость голосового чата [{0}]
+Atmosphere_Volume_Slider_Label Громкость атмосферы в игре [{0}]
+Music_Header Музыка
+Music_Toggle_Label Музыка смерти
+Music_Toggle_Tooltip Также влияет на "громкость атмосферы" музыки.
+Ambience_Toggle_Label Атмосфера дня и ночи
+Ambience_Toggle_Tooltip Фоновые звуки ветра, сверчков, шорохи и т.п.

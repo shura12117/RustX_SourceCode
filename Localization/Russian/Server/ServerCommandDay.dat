@@ -1,0 +1,8 @@
+DayCommandText Day
+DayInfoText Day
+DayHelpText Это устанавливает текущее время на день.
+NotRunningErrorText Не удалось установить день, когда игра не запущена.
+HordeErrorText Не удалось установить время на карте орды.
+ArenaErrorText Не удалось установить время на аренной карте.
+
+DayText Успешно установлено время на день!

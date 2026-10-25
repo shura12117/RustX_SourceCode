@@ -1,0 +1,10 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока].
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось убить игрока, так как сервер не работает.
+
+KillCommandText Kill
+KillInfoText Kill [SteamID | Имя игрока]
+KillHelpText Это убивает указанного игрока в игре.
+
+KillText Игрок {0} успешно убит!

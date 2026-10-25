@@ -1,0 +1,35 @@
+SelectionBoxLabelText Selection
+Search_Field_Hint Object Name Filter
+Search Search
+Search_Tooltip Search
+
+SnapTransformLabelText Snap Translation
+SnapRotationLabelText Snap Rotation
+
+LargeLabel Large
+MediumLabel Medium
+SmallLabel Small
+BarricadesLabel Barricades
+StructuresLabel Structures
+NPCsLabel NPCs
+
+TransformButtonText Translate [{0}]
+TransformButtonTooltip Move
+
+RotateButtonText Rotate [{0}]
+RotateButtonTooltip Rotate
+
+ScaleButtonText Scale [{0}]
+ScaleButtonTooltip Scale
+
+CoordinateButtonTextGlobal Global
+CoordinateButtonTextLocal Local
+CoordinateButtonTooltip Coordinate
+
+IsOwnedCullingVolumeAllowed_Label Enable Owned Culling Volume
+IsOwnedCullingVolumeAllowed_Tooltip If false, removes embedded culling volume.
+MaterialPaletteOverride_Label Material Palette GUID
+MaterialPaletteOverride_Tooltip Overrides asset's default material palette.
+MaterialIndexOverride_Label Material Index
+MaterialIndexOverride_Tooltip Overrides random index into material palette.
+ShopType_Label Shop Type

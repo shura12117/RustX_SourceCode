@@ -1,0 +1,16 @@
+Save_Button Save
+Save_Button_Tooltip Save
+
+Map_Button Bake Satelite
+Map_Button_Tooltip Overview Screenshot
+
+Chart_Button Bake Chart
+Chart_Button_Tooltip Overview Cartography
+
+Legacy_Spawns Legacy Spawns
+Legacy_Spawns_Tooltip Export Legacy Spawn Tables
+Proxy_Spawns Proxy Spawns
+Proxy_Spawns_Tooltip Export Proxy Spawn Tables
+
+Exit_Button Exit
+Exit_Button_Tooltip Exit

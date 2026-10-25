@@ -1,0 +1,24 @@
+GUID 0e0640293ef144d88aea27cb694b5a4d
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Fortification
+ID 5222
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 500
+Range 4
+Radius 0.5
+Offset 0
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27

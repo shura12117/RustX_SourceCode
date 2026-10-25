@@ -1,0 +1,30 @@
+IP_Field_Label IP
+Host_Field_Label IP или код сервера
+Host_Field_Tooltip У вас может быть общий код сервера, доменное имя или IP адрес.
+Port_Field_Label Порт
+Port_Field_Tooltip Автоматически установлен, если ":####" присутствует в адресе хоста.
+Password_Field_Label Пароль
+Password_Field_Replace #
+
+Connect_Button Подключиться
+Connect_Button_Tooltip Подключиться к серверу.
+
+Cancel_Attempt_Label Закрыть
+Cancel_Attempt_Tooltip Закрыть уведомление.
+
+Connecting Подключение... [Попытка #{0}]
+Pro_Server Этот сервер только для игроков с Prime.
+Password Этот сервер имеет пароль!
+Full Этот сервер полон!
+Timed_Out Время подключения истекло!
+
+Address_Loopback_Label Эта машина
+Address_Loopback_Tooltip Этот адрес относится к серверу на вашем компьютере.
+Address_LocalPrivate_Label LAN
+Address_LocalPrivate_Tooltip Этот адрес относится к серверу в вашей локальной сети.
+
+ServerCode_Valid_Label Код сервера
+ServerCode_Valid_Tooltip Этот код относится к игровому серверу.
+ServerCode_Invalid_Label Неверный код сервера
+ServerCode_Invalid_Tooltip Похоже это код сервера, но он не относится к игровому серверу.
+ServerCode_Friend_Tooltip Это код друга Steam, а не код сервера.

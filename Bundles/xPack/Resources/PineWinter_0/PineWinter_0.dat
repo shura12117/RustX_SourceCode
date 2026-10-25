@@ -1,0 +1,24 @@
+GUID 99848480a28f41ebb3d752a47fd5b023
+Type Resource
+ID 4002
+Category Tree
+
+Health 1200
+Radius 5
+RandomUniformScale_Min 1
+RandomUniformScale_Max 1.4
+
+Explosion 39
+
+Reset 750
+
+Auto_Skybox
+
+Debris_Vertical_Offset 0
+Ignore_Collision_Between_Stump_And_Debris false
+
+Has_Clip_Prefab false
+Reward_Damage true
+Reward_Destroy true
+Destroy_Auto_Pickup true
+Bonus_Cross true

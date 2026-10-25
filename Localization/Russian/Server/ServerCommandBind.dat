@@ -1,0 +1,8 @@
+InvalidIPErrorText Не удалось преобразовать {0} в IP.
+RunningErrorText Не удалось привязать IP во время работы.
+
+BindCommandText Bind
+BindInfoText Bind [IP]
+BindHelpText Это привязывает конкретный внутренний IP к слоту.
+
+BindText Успешно привязан IP к {0}!

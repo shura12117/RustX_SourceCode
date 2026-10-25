@@ -1,0 +1,21 @@
+GUID dfd6621641994d48a357ebb0de57016c
+Type Magazine
+Rarity Uncommon
+ID 5534
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 5
+Count_Max 25
+
+Calibers 1
+Caliber_0 5419
+
+Tracer 48
+
+Paintable
+Spread 0.8
+Range 80

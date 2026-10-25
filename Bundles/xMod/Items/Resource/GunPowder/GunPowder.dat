@@ -1,0 +1,19 @@
+GUID fbdeca00c6584f5c94a880cd6825f81c
+Type Supply
+ID 5309
+
+Amount 1000
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5308
+Blueprint_0_Supply_0_Amount 30
+Blueprint_0_Supply_1_ID 5303
+Blueprint_0_Supply_1_Amount 20
+Blueprint_0_Products 10
+Blueprint_0_Build 27

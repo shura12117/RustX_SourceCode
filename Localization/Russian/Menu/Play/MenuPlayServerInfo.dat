@@ -1,0 +1,83 @@
+Password_Field_Label Пароль
+Password_Field_Replace #
+
+Join_Button Подключиться
+Join_Button_Tooltip Подключиться к серверу
+Refresh_Button Обновить
+Refresh_Button_Tooltip Обновить сервер
+Cancel_Button Отмена
+Cancel_Button_Tooltip Вернуться назад
+
+Favorite_On_Button Добавить
+Favorite_Off_Button Убрать
+Favorite_Button_Tooltip Добавить или убрать сервер из избранного.
+Bookmark_On_Button Добавить
+Bookmark_Off_Button Убрать
+Bookmark_Button_Tooltip Добавить или убрать сервер из закладок.
+
+Players Игроки: {0}/{1}
+Details Информация
+Map Карта: {0}
+
+Workshop Мастерская: {0}
+Combat Тип: {0}
+Perspective Перспектива: {0}
+Security Защита: {0}
+Mode Сложность: {0}
+Cheats Читы: {0}
+GameMode Режим: {0}
+QueryPing Задержка: {0}ms
+
+Monetization_None Монетизация: Нет
+Monetization_NonGameplay Монетизация: Неигровая
+Monetization_Monetized Монетизация: Влияет на игру
+HostBan_MonetizationWarning Внимание: этот сервер нарушает правила монетизации, которые вступят в силу 11 июня. Для получения дополнительной информации нажмите здесь.
+HostBan_WorkshopWarning Внимание: файлы мастерской, используемые этим сервером заблокированы.
+HostBan_QueryPingWarning Внимание: существует большое расхождение между задержкой сервера и реальным временем задержки в игре.
+HostBan_IncorrectMonetizationTagWarning Внимание: на этом сервере неправильно установлен тег монетизации. "Нет" — для немонетизированных серверов или серверов, предназначенных только для пожертвований, а "Неигровая" — для серверов с покупками, которые не дают игрового преимущества.
+HostBan_HostingProvider Это предупреждение может относиться к хостинг-провайдеру, а не к вашему конкретному серверу. Например, если хостинг-провайдер позволял серверу обходить бан, многократно меняя порты.
+HostBan_Apology Сообщение от разработчиков игры: приносим свои извинения за ошибочную пометку вашего сервера! Cделаем все возможное чтобы подобное не повторилась в будущем.
+NotLoggedInMessage К этому серверу нельзя подключиться через интернет, так как он не зарегистрирован с помощью токена входа в игровой сервер. Для получения дополнительной информации нажмите здесь.
+
+Yes Да
+No Нет
+
+PvP Игроки против игроков (PvP)
+PvE Игроки против животных (PvE)
+
+First От 1-го лица
+Third От 3-го лица
+Both От 1-го и 3-го лица
+Vehicle От 3-го лица (Транспорт)
+
+VAC_Secure Anti-Cheat (VAC)
+VAC_Insecure Без защиты
+
+BattlEye_Secure Необходим BattlEye
+BattlEye_Insecure BattlEye отсутствует
+
+Subscribe +
+Subscribe_Tooltip Подписаться на {0}
+Unsubscribe -
+Unsubscribe_Tooltip Отписаться от {0}
+
+Easy Легко
+Normal Нормально
+Hard Сложно
+
+Server Настройки
+UGC Модификации
+Config Конфигурации
+Rule {0}: {1}
+Plugins_Rocket Rocket плагины:
+Plugins_OpenMod OpenMod плагины:
+Plugins_Unknown Плагины:
+
+ServerNewerVersion_Label На сервере установлена более новая версия: {0}
+ServerNewerVersion_Tooltip Не удается присоединиться, на этом сервере работает более новая версия игры.
+ServerOlderVersion_Label На сервере установлена более старая версия: {0}
+ServerOlderVersion_Tooltip Не удается присоединиться, на этом сервере работает более старая версия игры.
+ServerBlacklisted_Label Этот сервер заблокирован.
+ServerBlacklisted_Tooltip Невозможно присоединиться, сервер заблокирован.
+NotLoggedInBlock_Label Этот сервер не авторизован.
+NotLoggedInBlock_Tooltip Невозможно присоединиться через Интернет, так как отсутствует GSLT.

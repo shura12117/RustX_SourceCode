@@ -1,0 +1,51 @@
+GUID e3985a46249a4ccfba3dbf1a3614e927
+Type Melee
+Useable Melee
+Slot Secondary
+ID 5600
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+Size2_Z 0.4
+
+Range 1.5
+Strength 1.5
+Weak 0.37
+Strong 0.37
+Stamina 10
+
+Light
+SpotLight_Range 10
+SpotLight_Angle 160
+SpotLight_Intensity 2
+SpotLight_Color_R 1
+SpotLight_Color_G 0.5
+SpotLight_Color_B 0
+
+Player_Damage 5
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 5
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 5
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 2
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 10
+
+Durability 0.1
+
+Bypass_Hash_Verification

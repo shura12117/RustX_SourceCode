@@ -1,0 +1,11 @@
+Width_Label Width
+Height_Label Height
+Nav_Label Nav
+Difficulty_GUID_Field_Label Difficulty GUID
+Max_Zombies_Field_Label Max Zombies
+Max_Boss_Zombies_Field_Label Max Boss Zombies
+Spawn_Zombies_Toggle_Label Spawn Zombies
+Hyper_Agro_Label Infinite Agro Range
+
+Bake_Navigation Bake Navigation
+Bake_Navigation_Tooltip Generate Navigation

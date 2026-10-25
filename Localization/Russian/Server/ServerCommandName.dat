@@ -1,0 +1,8 @@
+MinLengthErrorText Не удалось установить длину имени менее {0}.
+MaxLengthErrorText Не удалось установить длину имени более {0}.
+
+NameCommandText Name
+NameInfoText Name [Текст]
+NameHelpText Это устанавливает имя сервера в списке серверов.
+
+NameText Имя успешно установлено на {0}!

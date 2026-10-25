@@ -1,0 +1,66 @@
+GUID 3027383bba874ef0acb3193de905b404
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Secondary
+ID 5425
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+Size2_Z 0.7
+
+Magazine 5548
+
+Ammo_Types 1
+Ammo_0_Stack 5570
+Ammo_0_Magazine 5548
+
+Hook_Grip
+
+Ammo_Min 0
+Ammo_Max 0
+
+Safety
+Semi
+
+Caliber 5425
+
+Firerate 150
+Replace 0.5
+Action Rocket
+
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 100
+Structure_Damage 100
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 100
+
+Range 8
+Explosion 41418
+
+Durability 1
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 1000
+
+Recoil_Min_X -15
+Recoil_Min_Y 25
+Recoil_Max_X 15
+Recoil_Max_Y 30
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02

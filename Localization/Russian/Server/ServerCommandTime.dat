@@ -1,0 +1,10 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.  
+NotRunningErrorText Не удалось установить время, так как сервер не запущен.  
+HordeErrorText Не удалось установить время на карте для орды.  
+ArenaErrorText Не удалось установить время на арене.
+
+TimeCommandText Time 
+TimeInfoText Time [Число]  
+TimeHelpText Это устанавливает текущее время в секундах цикла день-ночь.
+
+TimeText Успешно установлено время на {0}!

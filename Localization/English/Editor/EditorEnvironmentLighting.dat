@@ -1,0 +1,38 @@
+AzimuthSliderLabelText Azimuth
+BiasSliderLabelText Bias
+FadeSliderLabelText Fade
+Sea_Level_Slider_Label Sea Level
+Snow_Level_Slider_Label Snow Level
+Rain_Freq_Label Rain Frequency Multiplier
+Rain_Dur_Label Rain Duration Multiplier
+Snow_Freq_Label Snow Frequency Multiplier
+Snow_Dur_Label Snow Duration Multiplier
+WeatherPreview_Label Preview Weather
+Rain_Toggle_Label Can Rain
+Snow_Toggle_Label Can Snow
+MoonSliderLabelText Moon
+TimeSliderLabelText Time
+
+Time_0 Dawn
+Time_1 Midday
+Time_2 Dusk
+Time_3 Midnight
+
+Color_0 Sun
+Color_1 Sea
+Color_2 Fog
+Color_3 Top Sky
+Color_4 Middle Sky
+Color_5 Bottom Sky
+Color_6 Top Ambient
+Color_7 Middle Ambient
+Color_8 Bottom Ambient
+Color_9 Clouds
+Color_10 Rays
+Color_11 Particle Lighting
+
+Single_0 Intensity
+Single_1 Fog
+Single_2 Clouds
+Single_3 Shadows
+Single_4 Rays

@@ -1,0 +1,80 @@
+GUID fca71fdc0a25469b8af7f2049943cc14
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 5408
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+Size2_Z 0.38
+
+Magazine 5509
+
+Ammo_Types 2
+Ammo_0_Stack 5565
+Ammo_0_Magazine 5509
+Ammo_1_Stack 5566
+Ammo_1_Magazine 5510
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 5
+Ammo_Max 15
+
+
+Semi
+
+Caliber 5408
+
+Range 100
+Firerate 400
+Action Trigger
+
+Player_Damage 45
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 32
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 4.5
+Structure_Damage 12
+Vehicle_Damage 2.25
+Resource_Damage 15
+Object_Damage 20
+
+Durability 0.1
+
+Spread_Aim 0.01
+Spread_Hip 0.15
+
+Recoil_Min_X 0
+Recoil_Min_Y 4
+Recoil_Max_X 1
+Recoil_Max_Y 4
+
+Recover_X 0.1
+Recover_Y 0.1
+
+Muzzle 3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

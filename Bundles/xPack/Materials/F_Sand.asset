@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "13f19e1d9f684e4daa9b7c576f04e48e"
+	"Type" "RXS.RustX.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "xPack.masterbundle"
+		"Path" "Materials/Sand.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "511806af97264ac8a60d236c341be8d6"
+	}
+}

@@ -1,0 +1,8 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [Чат]/[Вход/Выход]/[Смерть]/[Античит].
+InvalidBooleanErrorText Не удалось преобразовать {0} в логическое значение.
+
+LogCommandText Log
+LogInfoText Log [Чат Y/N]/[Вход/Выход Y/N]/[Смерть Y/N]/[Античит Y/N]
+LogHelpText Это задает параметры логирования консоли.
+
+LogText Журнал успешно установлен!

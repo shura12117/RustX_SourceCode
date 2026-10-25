@@ -1,0 +1,34 @@
+GUID f8eb8344e21e45b294bb05f2a0201ec1
+Type MLRS
+Rarity Epic
+ID 5804
+
+Health_Min 1000
+Health_Max 1200
+Health 1200
+
+MLRS_Rocket_Storage_X 2
+MLRS_Rocket_Storage_Y 1
+MLRS_Rocket_ID 40848
+MLRS_Explosive_Effect_ID 41422
+MLRS_Damage_Radius 50
+MLRS_Player_Damage 500
+MLRS_Zombie_Damage 500
+MLRS_Animal_Damage 500
+MLRS_Barricade_Damage 120
+MLRS_Structure_Damage 120
+MLRS_Vehicle_Damage 500
+MLRS_Resource_Damage 120
+MLRS_Object_Damage 120
+MLRS_Explosion_Launch_Speed 0
+MLRS_Rocket_Capacity 12
+MLRS_Rocket_Horizontal_Speed 35
+MLRS_Rocket_Spread 8
+MLRS_Launch_Interval 0.35
+MLRS_Launch_Height_Offset 80
+MLRS_Recovery_Seconds 900
+MLRS_Aim_Module_ID 40427
+MLRS_Aim_Module_Storage_X 1
+MLRS_Aim_Module_Storage_Y 1
+
+Explosion 41405

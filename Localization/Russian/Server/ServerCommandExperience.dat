@@ -1,0 +1,12 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Количество опыта].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось дать игроку опыт, так как сервер не работает.
+CheatsErrorText Не удалось дать опыт, так как чит-коды отключены.
+
+ExperienceCommandText Опыт
+ExperienceInfoText Опыт [SteamID | Имя игрока]/[Количество опыта]
+ExperienceHelpText Это дает игроку немного опыта.
+
+ExperienceText Успешно дано {0} +{1} опыта!

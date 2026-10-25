@@ -1,0 +1,27 @@
+﻿GUID e909915592054f2c8038088f356ca5f9
+Type Clothes
+ClothesType Pants
+Rarity Uncommon
+ID 5700
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 0
+Height 1
+
+Armor 0.9
+
+Clothes_Mask Pants
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5312
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

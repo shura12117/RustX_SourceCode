@@ -1,0 +1,6 @@
+CommandText AllowP2PRelay
+InfoText AllowP2PRelay
+HelpText Включает/выключает ISteamNetworking AllowP2PPacketRelay
+
+On Явно ВКЛЮЧЕНО ISteamNetworking AllowP2PPacketRelay
+Off Явно ВЫКЛЮЧЕНО ISteamNetworking AllowP2PPacketRelay

@@ -1,0 +1,17 @@
+GUID a4a97e3170d34c73bf0535e1a1938de1
+Type Magazine
+Rarity Uncommon
+ID 5522
+
+Size_X 2
+Size_Y 2
+Size_Z 0.225
+
+Amount 20
+Count_Min 5
+Count_Max 20
+
+Calibers 1
+Caliber_0 5415
+
+Tracer 48

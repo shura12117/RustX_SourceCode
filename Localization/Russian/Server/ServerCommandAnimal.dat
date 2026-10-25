@@ -1,0 +1,14 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[ID животного].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+InvalidAnimalIDErrorText Не удалось преобразовать {0} в ID животного.
+
+NoAnimalIDErrorText Не удалось найти животное с именем {0}.
+NoPlayerErrorText Не удалось найти игрока с именем {0}.
+NotRunningErrorText Не удалось передать животное игроку, пока игра не запущена.
+CheatsErrorText Не удалось передать животное, так как читы отключены.
+
+AnimalCommandText Animal
+AnimalInfoText Animal [SteamID | Имя игрока]/[ID животного]
+AnimalHelpText Это создаёт игроку животное.
+
+AnimalText Успешно передано {0} {1}!

@@ -1,0 +1,22 @@
+GUID 279e3af9bbae43fda5f7125ebf9243da
+Type Farm
+Useable Barricade
+Build Farm
+ID 5263
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 12
+
+Health 1
+Range 4
+Radius 0.33
+Offset 0.43
+
+Growth 12000
+Grow 5014
+
+Explosion 43
+Vulnerable

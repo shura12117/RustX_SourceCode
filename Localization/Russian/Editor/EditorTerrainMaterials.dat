@@ -1,0 +1,37 @@
+Mode_Paint Кисть [{0}]
+Mode_Auto Авто [{0}]
+Mode_Smooth Сгладить [{0}]
+Mode_Cut Вырезать [{0}]
+Mode_Label Режим
+
+BrushRadius Радиус кисти [{0}]
+BrushFalloff Жесткость кисти [{0}]
+BrushStrength Сила кисти [{0}]
+
+SmoothMethod_BrushAverage Норма по кисти
+SmoothMethod_PixelAverage Норма по пикселю
+SmoothMethod_Label Метод сглаживания
+
+AutoRayLength Длина луча
+AutoRayRadius Радиус луча
+UseAutoFoundation Красить только фундамент
+
+MaxAngleRange Макс. диапазон углов
+MinAngleRange Мин. диапазон углов
+UseAutoSlope Красить только склоны
+
+WeightTarget Целевой вес [{0}]
+
+PreviewMethod_BrushAlpha Альфа кисть
+PreviewMethod_Weight Масса
+PreviewMethod_Label Метод предпросмотра
+
+MaxPreviewSamples Максимум образцов предпросмотра
+HighlightHoles_Label Выделение отверстий
+
+SelectedAsset Выбранный объект [{0}]
+OnlyUsedMaterials Только используемые материалы
+SearchHint Фильтр имени
+
+Hint_Paint Удалить выделенное: [{0}] Использовать вес цели: [{1}] Скопировать материал под курсором: [{2}]
+Hint_Cut Починить: [{0}]

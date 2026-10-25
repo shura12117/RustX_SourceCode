@@ -1,0 +1,92 @@
+GUID be9e6de42abf45eab371982c97becd93
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 5606
+
+Size_X 2
+Size_Y 2
+Size_Z 0.47
+Size2_Z 0.6
+
+Magazine 5551
+Supports_Use_As_Ammo
+
+Ammo_Min 20
+Ammo_Max 100
+
+Auto
+
+Caliber 5606
+
+Range 2
+Firerate 300
+Action Trigger
+
+Player_Damage 18
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 6
+Structure_Damage 3
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+
+Durability 0.1
+
+Spread_Aim 0.01
+Spread_Hip 0.01
+
+Ballistic_Steps 1.1
+Ballistic_Travel 1.1
+Ballistic_Drop 0
+
+Recoil_Min_X -0
+Recoil_Min_Y 0
+Recoil_Max_X 0
+Recoil_Max_Y 0
+
+Recover_X 0.2
+Recover_Y 0.2
+
+Shake_Min_X -0.015
+Shake_Min_Y 0.015
+Shake_Min_Z -0.15
+Shake_Max_X 0.015
+Shake_Max_Y -0.015
+Shake_Max_Z -0.15
+
+Backward
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5319
+Blueprint_0_Supply_2_Amount 6
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 5305
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 5319
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Build 27

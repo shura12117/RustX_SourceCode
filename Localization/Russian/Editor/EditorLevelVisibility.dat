@@ -1,0 +1,14 @@
+Roads_Label Дороги [F1]
+Navigation_Label Навигации [F2]
+Nodes_Label Узлы [F3]
+Items_Label Предметы [F4]
+Players_Label Игроки [F5]
+Zombies_Label Зомби [F6]
+Vehicles_Label Транспорт [F7]
+Border_Label Границы [F8]
+Animals_Label Животные [F9]
+Decals_Label Наклейки
+
+Point ({0}, {1})
+Objects {0} - {1}%
+Triangles {0}

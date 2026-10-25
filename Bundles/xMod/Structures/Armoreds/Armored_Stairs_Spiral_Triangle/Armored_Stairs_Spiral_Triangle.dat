@@ -1,0 +1,19 @@
+GUID 1344d7b083004397913504ef8c8f2c12
+Type Structure
+Useable Structure
+Construct Roof
+ID 7197
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 8
+
+Armor_Tier 0
+
+Requires_Pillars false
+
+Explosion 36
+Has_Clip_Prefab false

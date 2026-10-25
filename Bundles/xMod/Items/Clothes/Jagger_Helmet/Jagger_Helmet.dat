@@ -1,0 +1,29 @@
+﻿GUID 025e011bf1a440ff98cd06006adec57a
+Type Clothes
+ClothesType Hat
+Rarity Uncommon
+ID 5727
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.1
+Movement_Speed_Multiplier 0.7
+Fov_Limiter
+
+Clothes_Mask Head
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 5331
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5305
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

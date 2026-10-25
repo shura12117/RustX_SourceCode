@@ -1,0 +1,140 @@
+Space Missing Space
+Item Pickup {0} [{1}]
+Vehicle_Enter_Locked Enter {0} [{1}] [Locked]
+Vehicle_Enter_Unlocked Enter {0} [{1}] [Not Locked]
+Vehicle_Exit Exit [{0}]
+Vehicle_Swap Swap Seats [F1-F{0}]
+Reload Reload [{0}]
+Safety Safety [{0}]
+Light Toggle Light [{0}]
+Laser Toggle Laser [{0}]
+Rangefinder Toggle Rangefinder [{0}]
+Enemy {0}
+Door_Open Open [{0}]
+Door_Close Close [{0}]
+Locked Locked
+Blocked Blocked
+Pillar Missing Pillar
+Post Missing Post
+Roof Missing Floor
+Wall Missing Wall
+Corner Missing Corner
+Ground Missing Ground
+Doorway Missing Doorway
+Garage Missing Garage
+Window Missing Window
+Bed_On Claim [{0}]
+Bed_Off Unclaim [{0}]
+Bed_Claimed Claimed
+Bounds No Building Here
+Experience +{0} Experience
+Storage Storage [{0}]
+Farm Harvest [{0}]
+Grow Growing
+Soil Missing Soil
+Fire_On Light [{0}]
+Fire_Off Extinguish [{0}]
+Forage Forage [{0}]
+Generator_On Start [{0}]
+Generator_Off Stop [{0}]
+Spot_On On [{0}]
+Spot_Off Off [{0}]
+Empty Empty
+Full Full
+Moon_On The full moon emerges!
+Moon_Off The full moon falls!
+Safezone_On Entering safezone!
+Safezone_Off Exiting safezone!
+Deadzone_On Entering deadzone!
+Deadzone_Off Exiting deadzone!
+Purchase {0} - {1} [{2}]
+Wave_On The horde returns, stronger!
+Wave_Off The horde retreats... for now.
+Power Missing Power Source
+Use Use [{0}]
+Salvage Salvage [Hold {0}]
+Claim Area Claimed
+Underwater Too Wet
+Nav Too Far From Zombies
+Spawn Too Near To Spawn
+Mobile Not Mobile
+Oil Missing Fuel Reserve
+Volume_Water Water Reserve: {0}
+Volume_Fuel Fuel Reserve:
+Busy Busy
+Trapdoor Missing Trapdoor
+Fuel Fuel: {0}%
+Clean Clean
+Salty Salty
+Dirty Dirty
+Talk Talk to {1} [{0}]
+Reputation {0} Reputation
+Safezone Too Near To Safezone
+Bayonet Bayonet [{0}]
+Vehicle_Locked Locked [{0}]
+Vehicle_Unlocked Unlocked [{0}]
+Build_On_Occupied_Vehicle Vehicle Occupied
+Not_Allowed_Here Not Allowed Here
+Cannot_Build_On_Vehicle Cannot Build On Vehicles
+Too_Far_From_Hull Too Far From Hull
+Cannot_Build_While_Seated Cannot Build While Seated
+Climb Climb [{0}]
+PlacementObstructedBy Blocked by: {0}
+PlacementObstructedByGround Cannot Build Underground
+FreeformBuildableNotAllowed Freeform Buildables Not Allowed
+NotPaintable Not Paintable
+Limited Quantity limit reached
+
+VehicleGear_Reverse R
+VehicleGear_Neutral N
+VehicleEngineStatus Gear: {0} RPM: {1}
+
+Chat_Global [World] {0}: {1}
+Chat_Local [Area] {0}: {1}
+Chat_Group [Group] {0}: {1}
+Chat_Welcome [Welcome] {0}: {1}
+Chat_Say [Alert] {0}: {1}
+SendChat_Tooltip Send Message [{0}]
+
+Vote_Kick {0} [{1}] is calling a vote to kick {2} [{3}]
+Votes_Needed Yes votes needed to pass: {0}
+Vote_Yes Yes [{0}] votes: {1}
+Vote_No No [{0}] votes: {1}
+Vote_Off Voting is disabled on this server.
+Vote_Delay You need to wait before calling another vote.
+Vote_Players Not enough players to call a vote.
+Vote_Pass Vote passed!
+Vote_Fail Vote failed!
+
+List_Joint_0 ,
+List_Joint_1  and
+
+Arena_Lobby Waiting for players...
+Arena_Warm_Up Get ready...
+Arena_Play Let the battle begin!
+Arena_Died {0} died!
+Arena_Abandoned {0} abandoned!
+Arena_Win {0} won!
+Arena_Lose Game over!
+Arena_Intermission Intermission...
+
+Mode_Global World
+Mode_Global_Tooltip Send to all players [{0}]
+Mode_Local Area
+Mode_Local_Tooltip Send to nearby players [{0}]
+Mode_Group Group
+Mode_Group_Tooltip Send to members of your group [{0}]
+
+Surrender Surrender
+Point Point
+Wave Wave
+Salute Salute
+Rest Rest
+Facepalm Facepalm
+Gesture_TPose T-Pose
+
+Round Wave: {0}
+Score Score: {0}
+
+Stat_Tracker_Total_Kills Total Kills [{0}]
+Stat_Tracker_Player_Kills Player Kills [{0}]

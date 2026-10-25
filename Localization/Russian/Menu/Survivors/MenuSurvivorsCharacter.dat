@@ -1,0 +1,20 @@
+Name_Label {0}
+Nick_Label [{0}]
+
+Name_Field_Label Публичное имя
+Nick_Field_Label Имя в группе
+
+Skillset_0 Гражданин
+Skillset_1 Пожарный
+Skillset_2 Полицейский
+Skillset_3 Солдат
+Skillset_4 Фермер
+Skillset_5 Рыбак
+Skillset_6 Лесник
+Skillset_7 Рабочий
+Skillset_8 Повар
+Skillset_9 Вор
+Skillset_10 Доктор
+Skillset_Box_Label Набор навыков
+
+Overlay Необходимо включить Steam Overlay!

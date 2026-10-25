@@ -1,0 +1,20 @@
+NotRunningErrorText Не удалось проверить информацию отладки, когда игра не запущена.
+
+DebugCommandText Debug
+DebugInfoText Debug
+DebugHelpText Это предоставляет информацию о состоянии сервера.
+
+DebugText Состояние сервера
+DebugIPPortText {0} {1}:{2}
+DebugBytesSentText Отправленные байты: {0}
+DebugBytesReceivedText Полученные байты: {0}
+DebugAverageBytesSentText Среднее количество отправленных байтов: {0}
+DebugAverageBytesReceivedText Среднее количество полученных байтов: {0}
+DebugPacketsSentText Отправленные пакеты: {0}
+DebugPacketsReceivedText Полученные пакеты: {0}
+DebugAveragePacketsSentText Среднее количество отправленных пакетов: {0}
+DebugAveragePacketsReceivedText Среднее количество полученных пакетов: {0}
+DebugUPSText Обновления в секунду: {0}%
+DebugTPSText Тики в секунду: {0}%
+DebugZombiesText Активные зомби: {0}
+DebugAnimalsText Активные животные: {0}

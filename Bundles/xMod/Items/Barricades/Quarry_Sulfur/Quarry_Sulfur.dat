@@ -1,0 +1,28 @@
+GUID c2bf87e0dca54bdbb642c96abba423e7
+Type Quarry
+Rarity Rare
+Useable Barricade
+Build Quarry
+ID 5273
+
+Size_X 2
+Size_Y 2
+Size_Z 1.3
+
+Health 1500
+Range 10
+Radius 0.5
+Offset 3.25
+
+Fuel_Id 5332
+Resource_Id 5302
+Resource_Min 800
+Resource_Max 1000
+Work_Interval 4
+
+Fuel_Slots 3
+Output_Slots 10
+
+Explosion 36
+Should_Close_When_Outside_Range true
+Server_Immortal

@@ -1,0 +1,19 @@
+GUID 4e1ed3cd4b7d4398a2431f4cf4c8e8a6
+Type Structure
+Useable Structure
+Construct Wall
+ID 7170
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 8
+
+Armor_Tier 0
+
+Requires_Pillars false
+
+Explosion 29
+Has_Clip_Prefab false

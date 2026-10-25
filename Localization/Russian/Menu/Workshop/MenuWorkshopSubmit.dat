@@ -1,0 +1,143 @@
+Name_Field_Label Название
+Description_Field_Label Описание
+Path_Field_Label Расположение
+Preview_Field_Label Картинка
+Change_Field_Label Изменения
+Allowed_IPs_Label Допустимые IP адреса
+Allowed_IPs_Hint 127.0.0.1,192.168.0.0 (Разделяйте запятыми без пробелов)
+Allowed_IPs_Tooltip Если установлено, то только сервера с этими IP адресами смогу устанавливать этот контент автоматически.
+
+Create_Button Загрузить
+Create_Button_Tooltip Загрузить контент
+
+Legal_Button Изучить соглашение
+Legal_Button_Tooltip Нажмите здесь, чтобы перейти на страницу соглашения.
+
+Map Карта
+Localization Локализация
+Object Объект
+Item Предмет
+Vehicle Транспорт
+Skin Скин
+ServerCuration Курирование сервера
+
+Map_Type_Survival Выживание
+Map_Type_Horde Зомби режим
+Map_Type_Arena Арена
+Map_Type_Custom Кастомная игра
+
+Item_Type_Backpack Рюкзак
+Item_Type_Barrel Ствол
+Item_Type_Barricade Баррикада
+Item_Type_Fisher Удочка
+Item_Type_Food Еда
+Item_Type_Fuel Топливо
+Item_Type_Glasses Очки
+Item_Type_Grip Рукоять
+Item_Type_Grower Растение
+Item_Type_Gun Оружие
+Item_Type_Hat Головной убор
+Item_Type_Magazine Магазин
+Item_Type_Mask Маска
+Item_Type_Medical Медикамент
+Item_Type_Melee Холодное оружие
+Item_Type_Optic Оптический прицел
+Item_Type_Shirt Футболка
+Item_Type_Sight Прицел
+Item_Type_Structure Структура
+Item_Type_Supply Подставка
+Item_Type_Tactical Тактический модуль
+Item_Type_Throwable Метательное
+Item_Type_Tool Инструмент
+Item_Type_Vest Бронежилет
+Item_Type_Water Вода
+
+Vehicle_Type_Wheels_2 2-а колеса
+Vehicle_Type_Wheels_4 4-е колеса
+Vehicle_Type_Plane Самолёт
+Vehicle_Type_Helicopter Вертолёт
+Vehicle_Type_Boat Лодка
+Vehicle_Type_Train Поезд
+
+Skin_Type_Generic_Pattern Стандартный шаблон
+Skin_Type_Ace Ace
+Skin_Type_Augewehr Augewehr
+Skin_Type_Avenger Avenger
+Skin_Type_Bluntforce Bluntforce
+Skin_Type_Bulldog Bulldog
+Skin_Type_Butterfly_Knife Butterfly Knife
+Skin_Type_Calling_Card Calling Card
+Skin_Type_Cobra Cobra
+Skin_Type_Colt Colt
+Skin_Type_Compound_Bow Compound Bow
+Skin_Type_Crossbow Crossbow
+Skin_Type_Desert_Falcon Desert Falcon
+Skin_Type_Dragonfang Dragonfang
+Skin_Type_Eaglefire Eaglefire
+Skin_Type_Ekho Ekho
+Skin_Type_Fusilaut Fusilaut
+Skin_Type_Grizzly Grizzly
+Skin_Type_Hawkhound Hawkhound
+Skin_Type_Heartbreaker Heartbreaker
+Skin_Type_Hell_Fury Hell's Fury
+Skin_Type_Honeybadger Honeybadger
+Skin_Type_Katana Katana
+Skin_Type_Kryzkarek Kryzkarek
+Skin_Type_Machete Machete
+Skin_Type_Maplestrike Maplestrike
+Skin_Type_Maschinengewehr Maschinengewehr
+Skin_Type_Masterkey Masterkey
+Skin_Type_Matamorez Matamorez
+Skin_Type_Military_Knife Military Knife
+Skin_Type_Nightraider Nightraider
+Skin_Type_Nykorev Nykorev
+Skin_Type_Peacemaker Peacemaker
+Skin_Type_Rocket_Launcher Rocket Launcher
+Skin_Type_Sabertooth Sabertooth
+Skin_Type_Scalar Scalar
+Skin_Type_Schofield Schofield
+Skin_Type_Shadowstalker Shadowstalker
+Skin_Type_Snayperskya Snayperskya
+Skin_Type_Sportshot Sportshot
+Skin_Type_Timberwolf Timberwolf
+Skin_Type_Teklowvka Teklowvka
+Skin_Type_Viper Viper
+Skin_Type_Vonya Vonya
+Skin_Type_Yuri Yuri
+Skin_Type_Zubeknakov Zubeknakov
+
+Object_Type_Model Модель
+Object_Type_Resource Ресурс
+Object_Type_Effect Эффект
+Object_Type_Animal Животное
+
+Public Для всех
+Friends_Only Для друзей
+Private Для себя
+Unlisted Вне списка
+
+Community Опубликовать
+Review На рассмотрение
+
+Overlay Необходимо включить Steam overlay!
+
+Alert_Name Укажите название контента!
+Alert_Preview Укажите картинку контента в формате .png или .jpg размером не больше 1MB!
+Alert_Path Укажите расположение контента на вашем компьютере!
+Alert_Map Укажите действительную карту!
+Alert_Localization Укажите действительную локализацию!
+Alert_Object Укажите тип контента: карта, предмет, раскраска, объект или транспорт!
+Alert_Curated Укажите тип "На рассмотрение", если ваш контент содержит косметический характер!
+
+PathFieldNotification_Empty Поле не может быть пустым.
+PathFieldNotification_MissingFolder Путь к папке не найден.
+PathFieldNotification_Map Папка должна содержать папки карты.
+PathFieldNotification_Localization Папка должна содержать папки Editor, Menu, Player и прочее.
+PathFieldNotification_Bundle Папка должна содержать минимум один файл внутри.
+PathFieldNotification_NoWritePermission Отказано в доступе.
+
+PreviewFieldNotification_Empty Не может быть пустым.
+PreviewFieldNotification_MissingFile Файл на найден.
+PreviewFieldNotification_Extension Изображение должно иметь формат .png или .jpg
+PreviewFieldNotification_FileSize Изображение слишком большое.
+PreviewFieldNotification_FileSize_V2 Размер файла изображения ({0}) превышает предел ({1}).

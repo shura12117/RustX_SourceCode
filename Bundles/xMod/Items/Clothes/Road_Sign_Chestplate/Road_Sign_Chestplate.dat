@@ -1,0 +1,32 @@
+﻿GUID 0a604f2f7958486896d03886ef753a0f
+Type Clothes
+ClothesType Vest
+Rarity Uncommon
+ID 5721
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 0
+Height 1
+
+Armor 0.8
+
+Clothes_Mask Vest
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5312
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Supply_1_ID 5320
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5313
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5307
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32

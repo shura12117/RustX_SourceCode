@@ -1,0 +1,77 @@
+Page {0} из {1}
+
+Search_Field_Hint Введите название
+Search Поиск
+Search_Tooltip Найти предмет
+Advanced_Options_Tooltip Расширенные настройки
+Search_Descriptions_Label Поиск описания
+Filter_Item_Target Выберите предмет для установки {0}
+Cancel_Filter Отмена
+Cancel_Filter_Tooltip Отменить установку предмета.
+Left_Tooltip Назад
+Right_Tooltip Вперёд
+Swap_Tooltip Сменить
+Refresh_Tooltip Обновить
+
+Sort_Mode_Date Дата
+Sort_Mode_Rarity Редкость
+Sort_Mode_Name Имя A-Z
+Sort_Mode_Type Тип A-Z
+Sort_Mode_Label Сортировка
+Sort_Mode_Tooltip Способ организации инвентаря.
+Reverse_Sort_Order_Label Обратный порядок
+Filter_Equipped_Label Только надетые
+
+Origin_Drop Вы нашли предмет!
+
+Mystery_-1_Text Супер редкий мистический предмет
+Mystery_-2_Text Невероятно редкий призрачный предмет
+Mystery_-3_Text Невероятно редкий новогодний предмет
+Mystery_-4_Text Супер редкий праздничный предмет
+Mystery_-5_Text Супер редкий кровососущий предмет
+Mystery_Tooltip ???
+
+Itemstore Эксклюзив
+Itemstore_Tooltip Нажмите здесь, чтобы перейти в эксклюзивного магазин.
+Itemstore_Sale SALE
+Itemstore_Region_Box_Disabled Примечание: ящики и ключи недоступны в регионе {0}.
+Crafting Создание
+Crafting_Tooltip Нажмите здесь, чтобы посмотреть список доступных чертежей.
+Backpack Инвентарь
+Backpack_Tooltip Нажмите здесь, чтобы вернуться в инвентарь.
+Featured_Tooltip Нажмите здесь, чтобы осмотреть предмет.
+
+Craft_Available Количество <color=gold>материала</color>: {0}
+Alert_Crafting Идёт процесс создания предмета...
+Craft_Entry Создать {0} за x{1} <color=gold>материал(а)</color>
+Craft_Common_Cosmetic <color=common>случайный предмет одежды</color>
+Craft_Common_Skin <color=common>случайную раскраску для оружия</color>
+Craft_Uncommon_Cosmetic <color=uncommon>случайный предмет одежды</color>
+Craft_Uncommon_Skin <color=uncommon>случайную раскраску для оружия</color>
+Craft_Stat_Tracker_Total_Kills <color=#ff7f00>счётчик убийств игроков, зомби и животных</color>
+Craft_Stat_Tracker_Player_Kills <color=#ff0000>счётчик убийств игроков</color>
+Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>эффект заморозки</color>
+Craft_Ragdoll_Effect_Jaded <color=gold>эффект нефрита</color>
+Craft_Mythical_Skin <color=mythical>случайный мифический скин</color>
+Craft_Stat_Tracker_Removal_Tool <color=#909090>инструмент для удаления счетчика убийств</color>
+Craft_Ragdoll_Effect_Removal_Tool <color=#909090>инструмент для удаления эффекта убийства</color>
+Craft_ProgressPridePin <color=rare>содомитский значёк</color>
+Craft_ProgressPrideJersey <color=rare>содомитскую футболку</color>
+Craft_Buak <color=uncommon>случайный бесплатный предмет из Buak Mystery Box</color> (Событие выпуска карты Buak)
+Craft_PBS <color=uncommon>случайный бесплатный предмет из Escalation Mystery Box</color> (Событие выпуска карты Escalation)
+Craft_AnniversaryTophat <color=gold>10th Anniversary Mystery Tophat</color>
+Craft_CandyBag <color=gold>Halloween Candy Bag</color>
+Craft_21077 <color=gold>Artisan's Makeshift Mystery Box</color>
+Craft_1447 <color=gold>полный комплект Artisan's Makeshift Mystery Box</color>
+Craft_1954 <color=uncommon>Rio de Janeiro Remastered выпадает случайно во время игры</color>
+Craft_NoLiveConfig Проверка наличия других вариантов создания...
+
+Origin_Craft Вы создали предмет!
+Origin_Purchase Покупка прошла успешно!
+
+PreviewOnCharacterLabel Показать на персонаже
+PreviewSoloLabel Скрыть надетые
+
+No_Items Ожидайте ответа от сервера Steam...
+
+Overlay Steam overlay должен быть включён!

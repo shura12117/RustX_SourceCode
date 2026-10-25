@@ -1,0 +1,95 @@
+"Metadata"
+{
+	"GUID" "511806af97264ac8a60d236c341be8d6"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			//Пальма 1
+			"Asset"
+			{
+				"GUID" "ec764d1e4e88425f8816fed97dfb72e5"
+			}
+			"Weight" "0.08"
+		}
+		{
+			//Пальма 2
+			"Asset"
+			{
+				"GUID" "83150feb4b6b40fcad16e687932f0e41"
+			}
+			"Weight" "0.08"
+		}
+		{
+			//Пальма 3
+			"Asset"
+			{
+				"GUID" "fc2445c75a904f4e937c48f7bebf91bc"
+			}
+			"Weight" "0.08"
+		}
+		
+		{
+			//Кактус 1
+			"Asset"
+			{
+				"GUID" "b94d51de93b84d3b80abe9d96677500a"
+			}
+			"Weight" "0.2"
+		}
+		{
+			//Кактус 2
+			"Asset"
+			{
+				"GUID" "7e73e9623f0e43548c1d8550a032efb7"
+			}
+			"Weight" "0.2"
+		}
+		{
+			//Кактус 3
+			"Asset"
+			{
+				"GUID" "be8fb19c978a40aa9e5fc3d86ed570fd"
+			}
+			"Weight" "0.2"
+		}
+		
+		{
+			//Камни_Сера
+			"Asset"
+			{
+				"GUID" "057c0a51e50f410cafdbb3e5675e7850"
+			}
+			"Weight" "0.2"
+		}
+		{
+			//Камни_Камень
+			"Asset"
+			{
+				"GUID" "08d4c26d327b497484ab3e84dd0b531e"
+			}
+			"Weight" "0.25"
+		}
+		{
+			//Камни_Металл
+			"Asset"
+			{
+				"GUID" "818f791c20624d0f96ce70eb00f2eca6"
+			}
+			"Weight" "0.3"
+		}
+
+		{
+			//Камушки
+			"Asset"
+			{
+				"GUID" "e145629762c3442782d40a2fcd15e306"
+			}
+			"Weight" "0.8"
+		}
+	]
+}

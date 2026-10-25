@@ -1,0 +1,12 @@
+NoModeErrorText Не удалось найти игровой режим с названием {0}.  
+RunningErrorText Не удалось изменить игровой режим во время работы.  
+
+ModeCommandText Mode  
+ModeInfoText Mode [Easy | Normal | Hard]
+ModeHelpText Это устанавливает уровень сложности сервера.  
+
+ModeText Игровой режим успешно установлен на {0}!  
+
+ModeEasy Easy
+ModeNormal Normal
+ModeHard Hard

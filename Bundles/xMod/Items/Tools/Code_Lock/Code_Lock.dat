@@ -1,0 +1,21 @@
+GUID 9d51befa02ff4f64ad48c3df0348d62c
+Type Lock
+Useable Lock
+ID 5243
+
+Size_X 2
+Size_Y 2
+Size_Z 0.38
+Use_Auto_Icon_Measurements False
+
+Range 4
+Ammount 10
+
+Lock_Type Code
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 100
+Blueprint_0_Build 27

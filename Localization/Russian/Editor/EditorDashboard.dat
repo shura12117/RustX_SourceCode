@@ -1,0 +1,18 @@
+TerrainButtonText Ландшафт
+TerrainButtonTooltip Ландшафт
+
+EnvironmentButtonText Окружение
+EnvironmentButtonTooltip Окружение
+
+SpawnsButtonText Появления
+SpawnsButtonTooltip Появления
+
+LevelButtonText Уровень
+LevelButtonTooltip Уровень
+
+Heights Образец [{0}]
+Roads Перемещать [{0}]
+Navigation Перемещать [{0}]
+Objects Переместить [{0}] Перемещать [{1}] Построить [{2}]
+Nodes Перемещать [{0}]
+Visibility Переключать [F1-F8]

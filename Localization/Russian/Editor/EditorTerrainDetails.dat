@@ -1,0 +1,30 @@
+MaxPreviewSamples Максимум образцов предпросмотра
+
+DensityTarget Целевая плотность
+BrushStrength Сила кисти [{0}]
+BrushFalloff Жесткость кисти [{0}]
+BrushRadius Радиус кисти [{0}]
+
+Mode_Paint Кисть [{0}]
+Mode_Exact Точный [{0}]
+Mode_Bake Запекание [{0}]
+Mode_Label Режим
+
+Bake_Cancel Отменить процесс
+Bake_Local Создать локально
+Bake_Global Создать глобально
+Bake_Clear Очистить выбранные
+Bake_ApplyScale Сохранить масштаб
+Bake_Objects Объекты
+Bake_Resources Деревья, кусты, камни
+Bake_InstancedMeshes Трава, цветы, галька
+
+SelectedAsset Выбранный объект [{0}]
+
+SearchType_Assets Объекты
+SearchType_Collections Коллекции
+SearchType_Label Тип поиска
+
+SearchHint Фильтр имени
+
+Hint_Paint Удалить: [{0}] Удалить выбранные: [{1}] Удалить запеченные: [{2}]

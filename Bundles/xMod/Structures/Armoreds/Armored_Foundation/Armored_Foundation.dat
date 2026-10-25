@@ -1,0 +1,17 @@
+GUID f64345b4e33241429d974756f79dc362
+Type Structure
+Useable Structure
+Construct Floor
+ID 7180
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

@@ -1,0 +1,30 @@
+GUID d0f42cd36d214db6a9d69510298147c4
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Gate
+ID 5212
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 600
+Range 4
+Radius 1.5
+Offset 0.25
+
+Lockable
+
+Explosion 36
+
+Allow_Collision_While_Animating true
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 300
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27

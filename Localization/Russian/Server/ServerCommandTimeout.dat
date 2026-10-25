@@ -1,0 +1,9 @@
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+MinNumberErrorText Не удалось установить таймаут менее чем {0}.
+MaxNumberErrorText Не удалось установить таймаут более чем {0}.
+
+TimeoutCommandText Timeout
+TimeoutInfoText Timeout [Число]
+TimeoutHelpText Это устанавливает максимальный порог пинга для сервера, после которого клиент будет отключен.
+
+TimeoutText Успешно установлен таймаут на {0}!

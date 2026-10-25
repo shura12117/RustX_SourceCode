@@ -1,0 +1,35 @@
+ViewCart_Label Корзина
+ViewCart_Tooltip Просмотреть товары в вашей корзине.
+AddToCart_Label Добавить в корзину
+AddToCart_Tooltip Ложит товар в корзину.
+RemoveFromCart_Label Удалить
+RemoveFromCart_Tooltip Удаляет товар из корзины.
+TotalPrice_Label Расчетная сумма
+StartPurchase_Label Перейти к оформлению заказа
+StartPurchase_Tooltip Открывает оплату покупки в Steam Overlay.
+
+InspectListedItems_Text Осмотреть перечисленные предметы
+InspectListedItems_Tooltip Просмотреть, как выглядит каждый элемент, упомянутый в описании.
+
+ListedItemsHeader_Box Каждый {0} содержит один из этих {1} предметов:
+ListedItemsHeader_Bundle {0} содержит все {1} из этих предметов:
+
+PurchaseResult_UnableToInitialize Невозможно начать покупку.
+PurchaseResult_Denied Отказано в покупке.
+PurchaseResult_Authorized Покупка разрешена!
+
+FilterAllButton_Label Все
+FilterAllButton_Tooltip Просмотреть каждый товар.
+FilterBundlesButton_Label Костюмы
+FilterBundlesButton_Tooltip Посмотреть наборы предметов.
+FilterSpecialsButton_Label Специальные
+FilterSpecialsButton_Tooltip Посмотреть товары со скидкой.
+FilterNewButton_Label Новое
+FilterNewButton_Tooltip Посмотреть недавно выпущенные товары.
+FilterFeaturedButton_Label Рекомендуемые
+FilterFeaturedButton_Tooltip Просмотр популярных товаров.
+
+FilterShowOwned_Label Показывать купленные
+
+DefaultSaleTitle Распродажа запасов
+SaleWindowFormat {0} через {1}

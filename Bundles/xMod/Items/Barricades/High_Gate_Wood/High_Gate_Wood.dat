@@ -1,0 +1,27 @@
+GUID ecff6073abb34ab4a262cfd932593267
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Gate
+ID 5251
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Health 750
+Range 6
+Radius 1.5
+Offset 0
+
+Lockable
+
+Explosion 36
+Fire_Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 1500
+Blueprint_0_Build 27

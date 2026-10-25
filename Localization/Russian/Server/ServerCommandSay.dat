@@ -1,0 +1,7 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [Текст]/[R]/[G]/[B].
+InvalidNumberErrorText Не удалось преобразовать {0} в число.
+NotRunningErrorText Не удалось выполнить команду, так как сервер не запущен.
+
+SayCommandText Say
+SayInfoText Say [Текст]/[R]/[G]/[B]
+SayHelpText Это транслирует сообщение всем подключенным клиентам.

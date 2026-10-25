@@ -1,0 +1,25 @@
+GUID 8584ba2f4fdf46a08d127d08ca236f0b
+Type Recycler
+Rarity Uncommon
+Useable Barricade
+Build Recycler
+ID 5261
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 450
+Range 4
+Radius 0.6
+Offset 1.1
+
+Input_Slots 6
+Output_Slots 6
+
+Recycle_Interval 1
+Effect_ID 6806
+
+Explosion 19
+Should_Close_When_Outside_Range true
+Server_Immortal

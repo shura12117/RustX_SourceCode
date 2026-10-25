@@ -1,0 +1,30 @@
+GUID 939367bb59104850973218b2cc5b2dcb
+Type Tank
+Rarity Epic
+Useable Barricade
+Build Tank
+ID 5242
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 500
+Range 4
+Radius 0.95
+Offset 1
+
+Source Water
+Resource 4
+
+Explosion 36
+Fire_Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5300
+Blueprint_0_Supply_0_Amount 50
+Blueprint_0_Supply_1_ID 5315
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

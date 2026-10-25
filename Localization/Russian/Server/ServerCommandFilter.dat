@@ -1,0 +1,7 @@
+RunningErrorText Не удалось включить фильтр во время выполнения.
+
+FilterCommandText Filter
+FilterInfoText Filter
+FilterHelpText Этот фильтр исключает игроков с неанглийскими алфавитно-цифровыми именами.
+
+FilterText Фильтр имен успешно включен.

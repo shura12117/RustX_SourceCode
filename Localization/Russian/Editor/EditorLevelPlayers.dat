@@ -1,0 +1,10 @@
+RadiusSliderLabelText Радиус
+RotationSliderLabelText Угол
+
+AddButtonText Добавить [{0}]
+AddButtonTooltip Создать точку появления
+
+RemoveButtonText Убрать [{0}]
+RemoveButtonTooltip Удалить точку(и) появления
+
+AltLabelText Alt

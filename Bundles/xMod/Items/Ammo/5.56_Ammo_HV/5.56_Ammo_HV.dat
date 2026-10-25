@@ -1,0 +1,32 @@
+GUID 7c7c25e1bad947cb89a0df21ac832bab
+Type Magazine
+Rarity Rare
+ID 5569
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 128
+
+Calibers 8
+Caliber_0 5417
+Caliber_1 5418
+Caliber_2 5419
+Caliber_3 5420
+Caliber_4 5421
+Caliber_5 5422
+Caliber_6 5423
+Caliber_7 5428
+
+Spread 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Supply_1_ID 5309
+Blueprint_0_Supply_1_Amount 10
+Blueprint_0_Products 3
+Blueprint_0_Build 27

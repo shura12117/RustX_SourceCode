@@ -1,0 +1,86 @@
+"Metadata"
+{
+	"GUID" "041fbfa0f5234d748bf158a50b7715b7"
+	"Type" "RXS.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				// RoadsideSign_1
+				"GUID" "8bb9d22dfa39419eb1531733ee6aa87f"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_2
+				"GUID" "47e71fd10f4348c6845c6d932ea357a5"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_3
+				"GUID" "360e40fec750470d847188f8ed25213b"
+			}
+			"Weight" "1"
+		}
+		
+		{
+			"Asset"
+			{
+				// RoadsideSign_4
+				"GUID" "84bf7063335348ab9e7e9406b0199a2d"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_5
+				"GUID" "b9915b980d034f169a616558c41dfe61"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_6
+				"GUID" "96d63151c76948d5b85cee3fab77c1d6"
+			}
+			"Weight" "1"
+		}
+		
+		{
+			"Asset"
+			{
+				// RoadsideSign_7
+				"GUID" "cf24e479f8104780b079af13ead71446"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_8
+				"GUID" "ee34925e2297456a8875b5890e2c50b6"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// RoadsideSign_9
+				"GUID" "7d98aecd512d4fb9b94cfaf6a770c01c"
+			}
+			"Weight" "1"
+		}
+	]
+}

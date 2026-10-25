@@ -1,0 +1,39 @@
+GUID 0826285f3cd64188a945ea56fb03ea69
+Type Tactical
+ID 5580
+
+Size_X 2
+Size_Y 2
+Size_Z 0.08
+
+Calibers 19
+Caliber_0 5410
+Caliber_1 5402
+Caliber_2 5409
+Caliber_3 5406
+Caliber_4 5407
+Caliber_5 5408
+Caliber_6 5413
+Caliber_7 5414
+Caliber_8 5415
+Caliber_9 5416
+Caliber_10 5417
+Caliber_11 5418
+Caliber_12 5419
+Caliber_13 5420
+Caliber_14 5421
+Caliber_15 5422
+Caliber_16 5423
+Caliber_17 5428
+Caliber_18 5411
+Caliber_19 40868
+
+Light
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

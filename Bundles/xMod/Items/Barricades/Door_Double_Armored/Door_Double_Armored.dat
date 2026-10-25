@@ -1,0 +1,28 @@
+GUID a78ff164a2f547eebd83bb71b53a0935
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Gate
+ID 5210
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 1000
+Range 4
+Radius 1.5
+Offset 1.25
+
+Lockable
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5305
+Blueprint_0_Supply_0_Amount 25
+Blueprint_0_Supply_1_ID 5318
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Build 27

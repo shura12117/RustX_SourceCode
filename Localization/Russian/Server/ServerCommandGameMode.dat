@@ -1,0 +1,8 @@
+NoModeErrorText Не удалось найти игровой режим с именем {0}.
+RunningErrorText Не удалось изменить игровой режим во время выполнения.
+
+GameModeCommandText GameMode
+GameModeInfoText GameMode [Название класса]
+GameModeHelpText Это назначает игровой режим сервера.
+
+GameModeText Игровой режим успешно установлен на {0}!

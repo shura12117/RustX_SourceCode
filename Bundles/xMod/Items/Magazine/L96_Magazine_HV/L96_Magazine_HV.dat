@@ -1,0 +1,21 @@
+GUID 678168b152b740c68725774de1fd0cb2
+Type Magazine
+Rarity Uncommon
+ID 5540
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 5421
+
+Tracer 51
+
+Paintable
+Spread 0.8
+Range 160

@@ -1,0 +1,11 @@
+Width_Label Ширина
+Height_Label Высота
+Nav_Label Навигация
+Difficulty_GUID_Field_Label Сложность GUID
+Max_Zombies_Field_Label Макс. зомби
+Max_Boss_Zombies_Field_Label Макс. боссов
+Spawn_Zombies_Toggle_Label Создать зомби
+Hyper_Agro_Label Бесконая дальность агрессии
+
+Bake_Navigation Генерация навигации
+Bake_Navigation_Tooltip Генерация навигации

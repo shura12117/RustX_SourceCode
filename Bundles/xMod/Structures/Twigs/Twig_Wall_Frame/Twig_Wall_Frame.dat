@@ -1,0 +1,16 @@
+GUID ecb5f4fca02f4973a086bf9667fd6fd2
+Type Structure
+Useable Structure
+Construct Wall
+ID 7111
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

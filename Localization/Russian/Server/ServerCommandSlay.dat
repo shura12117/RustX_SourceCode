@@ -1,0 +1,11 @@
+InvalidParameterErrorText Не удалось найти параметры в формате [SteamID | Имя игрока]/[Причина].
+
+NoPlayerErrorText Не удалось найти игрока с именем {0}.  
+NotRunningErrorText Не удалось устранить игрока, так как сервер не запущен.
+
+SlayCommandText Slay  
+SlayInfoText Slay [SteamID | Имя игрока]/[Причина]  
+SlayHelpText Это убивает указанного игрока в игре и навсегда банит его.
+
+SlayText Успешно убит {0}!  
+SlayTextReason причина не указана

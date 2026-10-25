@@ -1,0 +1,22 @@
+Home_SlotFree_Content Free slot\nplace a claim
+Home_SlotFree_Label Available
+Home_SlotBlocked_Content No permission\nslot locked
+Home_SlotBlocked_Label Locked
+Home_CombatBlock_Content Combat block\nhome unavailable
+Home_RaidBlock_Content Raid block\nhome unavailable
+Home_Unavailable_Label Unavailable
+Home_Cooldown_Label Remaining time
+Home_Available_Label Available
+Home_Teleport_Label Teleport home
+
+Death_Distance {0} m
+Death_Killer_Bleeding Bleeding
+Death_Killer_Bones Broken bones
+Death_Killer_Food Starvation
+Death_Killer_Water Dehydration
+Death_Killer_Animal Animal
+Death_Killer_Infection Infection
+Death_Killer_Breath Suffocation
+Death_Killer_Vehicle Vehicle
+Death_Weapon_Hands Hands
+Death_Weapon_Default Weapon
