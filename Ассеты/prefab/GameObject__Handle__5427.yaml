@@ -1,0 +1,15 @@
+  GameObject Base // ByteSize{-1}, Index{0},                 Version{6}, TypeFlags{None}, MetaFlag{32768}
+    vector m_Component // ByteSize{-1}, Index{1},                 Version{1}, TypeFlags{None}, MetaFlag{268468289}
+      Array Array // ByteSize{-1}, Index{2},                 Version{1}, TypeFlags{None}, MetaFlag{268451905}
+        int size // ByteSize{4}, Index{3},                 Version{1}, TypeFlags{None}, MetaFlag{268435521}
+        ComponentPair data // ByteSize{C}, Index{4},                 Version{1}, TypeFlags{None}, MetaFlag{268435521}
+          PPtr<Component> component // ByteSize{C}, Index{5},                 Version{1}, TypeFlags{None}, MetaFlag{268435521}
+            int m_FileID // ByteSize{4}, Index{6},                 Version{1}, TypeFlags{None}, MetaFlag{268435521}
+            SInt64 m_PathID // ByteSize{8}, Index{7},                 Version{1}, TypeFlags{None}, MetaFlag{268435521}
+    unsigned int m_Layer // ByteSize{4}, Index{8},                 Version{1}, TypeFlags{None}, MetaFlag{0}
+    string m_Name // ByteSize{-1}, Index{9},                 Version{1}, TypeFlags{None}, MetaFlag{32768}
+      Array Array // ByteSize{-1}, Index{10},                 Version{1}, TypeFlags{None}, MetaFlag{16385}
+        int size // ByteSize{4}, Index{11},                 Version{1}, TypeFlags{None}, MetaFlag{1}
+        char data // ByteSize{1}, Index{12},                 Version{1}, TypeFlags{None}, MetaFlag{1}
+    UInt16 m_Tag // ByteSize{2}, Index{13},                 Version{1}, TypeFlags{None}, MetaFlag{0}
+    bool m_IsActive // ByteSize{1}, Index{14},                 Version{1}, TypeFlags{None}, MetaFlag{0}
